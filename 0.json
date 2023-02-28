@@ -369,44 +369,54 @@
             "filterable": 0
         },
         {
-            "key": "少儿教育",
-            "name": "少儿教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/少儿教育.json"
-        },
-        {
-            "key": "小学课堂",
-            "name": "小学课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/小学课堂.json"
-        },
-        {
-            "key": "初中课堂",
-            "name": "初中课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/初中课堂.json"
-        },
-        {
-            "key": "高中教育",
-            "name": "高中课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/高中课堂.json"
+            "key": "儿童",
+			"name": "🐯儿童乐园",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
+		},
+		{
+			"key": "学习",
+			"name": "学习园地",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+		},
+		{
+			"key": "软件",
+			"name": "软件教程",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
+		},
+		{
+			"key": "美食",
+			"name": "美食合集",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+		},
+		{
+			"key": "戏曲",
+			"name": "戏曲合集",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
         }
     ],
       "lives": [
