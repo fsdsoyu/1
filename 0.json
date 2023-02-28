@@ -2,7 +2,7 @@
 {
     "sites": [ 
         {
-            "key": "农民",
+            "key": "🌾农民(爬虫)",
             "name": "农民",
             "type": 3,
             "api": "csp_Nmys",
@@ -12,26 +12,26 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         }, 
         {
-            "key": "Kunyu77",
-            "name": "鲲鱼77",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key": "csp_Kunyu77",
+	    "name": "🧸酷云七七🍎",
+	    "type": 3,
+	    "api": "csp_Kunyu77",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1
         },
         {
-            "key": "Kuaikan",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key": "快看",
+	    "name": "🧸快看🍎",
+	    "type": 3,
+	   "api": "csp_Kuaikan",
+	   "searchable": 1,
+	   "quickSearch": 1,
+	   "filterable": 1
         },
-        {
+         {
             "key": "csp_AppTT",
-            "name": "图图",
+            "name": "🐰图图",
             "type": 3,
             "api": "csp_AppTT",
             "searchable": 1,
@@ -413,7 +413,7 @@
         {
 		"name": "live",
 		"type": 0,
-		"url": "https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/tvlive.txt",
+		"url": "https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/tvlive.txt",
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
@@ -758,6 +758,8 @@
 		"cdnjs.hnfenxun.com",
 		"cms.qdwght.com"
 	],
-
-	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c"
+         "spider":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/jar/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
+	 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/jar1/Yoursmile.jar;md5;7BEA178B8E16A8A6E89B8CDB88E39CD4",
+     	 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/jar1/1215.jar;md5;58BACE2715918A6FD783931D03586372",
+         "spider":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/jar1/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"
 }
