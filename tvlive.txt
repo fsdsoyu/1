@@ -1217,7 +1217,69 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 大愛1 (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+ELTA娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
+J2台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+KOREA,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+MEZZO LIVE,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+RTHKTV32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+TRACE SPORT STARS,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+TRACE URBAN,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+翡翠华丽,http://23.237.10.66:16410
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
+澳门莲花,http://epg.112114.xyz/lotus
+澳门莲花,http://nettvpro.live/hls/lotustv.php
+采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+凤凰香港,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+靖天国际台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+靖天欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+靖天卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+靖天戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天映书,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖天育乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+靖洋戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
+民视,http://23.237.10.66:16334
+民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
+台视,http://23.237.10.66:16344
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+天映经典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+唯心电视台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+唯心台,http://124.238.99.44:808/hls/363/index.m3u8
+无线财经资讯台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+无线新闻台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
+香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+原住民频道,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+中天新闻,http://123.51.230.124:8535/.m3u8
 
 🤲 港澳台备用,#genre#
 翡翠台,http://23.237.10.66:16106
