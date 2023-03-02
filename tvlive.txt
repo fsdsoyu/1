@@ -681,6 +681,12 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 中天新闻,http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天新闻,http://2022.stream-link.org/playlist/cti_news
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天新闻,http://2023.stream-link.org/playlist/cti_news
+中天新闻,http://23.237.10.66:16372
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 东森新闻美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -727,7 +733,6 @@ Arirang Korea,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist
 MEZZO,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 纬来体育,http://123.51.230.108:18509/.m3u8
 东森财经新闻,http://123.51.230.108:18515/.m3u8
-中天新闻,http://2022.stream-link.org/playlist/cti_news
 
 TVBS,http://2022.stream-link.org/playlist/tvbs
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
@@ -836,7 +841,6 @@ i-Fun動漫台,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.
 寰宇新聞台,http://seb.sason.top/sc/hyxw.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
 华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
@@ -1158,7 +1162,6 @@ VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 华视新闻,http://2023.stream-link.org/playlist/cts_news
-中天新闻,http://2023.stream-link.org/playlist/cti_news
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 三立LIVE,http://2023.stream-link.org/playlist/set_news
