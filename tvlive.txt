@@ -1280,6 +1280,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 中天新闻,http://123.51.230.124:8535/.m3u8
+tvb影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+金马影院,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
 🤲 港澳台备用,#genre#
 翡翠台,http://23.237.10.66:16106
