@@ -241,12 +241,12 @@ CETV-4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 中影老故事,http://39.134.19.248:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 女性时尚,http://111.20.33.93/PLTV/88888893/224/3221226237/index.m3u8
 中影老故事,http://111.20.33.93/PLTV/88888893/224/3221226236/index.m3u8
-风云剧场高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-风云音乐高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-风云足球高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-怀旧剧场高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-第一剧场高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-兵器科技高清,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+风云剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+风云音乐,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+风云足球,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+怀旧剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+第一剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+兵器科技,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
 CCTV1,http://lu1.cc/itv/php/yztv.php?id=cctv1&fmt=hls
 CCTV1,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
