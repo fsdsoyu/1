@@ -8370,6 +8370,16 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 自贡综合频道,https://sczghdl.tianma3600.com/sczg/zhpd.m3u8
 
 🏵️  湖北频道,#genre#
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+湖北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225699/1653142328-1-1651284245.m3u8
+湖北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225740/1653142428-1-1648950531.m3u8
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225740/index.m3u8
+湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225699/index.m3u8
+湖北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8$高清1080P
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8$高清1080P
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8$高清1080P
+湖北卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225699/index.m3u8$高清1080P
 湖北综合,http://iptva.cn/api/M3u8/Index?id=1073&card=99982475359
 湖北综合,http://lu1.cc/itv/hubtv/cjyhb.php?id=hbzh
 湖北综合,http://iptv.cooltv.top/tv/cjy.php?id=hbzh
@@ -8444,7 +8454,7 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 武汉电视剧,http://113.57.109.37:9901/tsfile/live/1019_1.m3u8
 武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
 武汉科教生活,http://live.appwuhan.com/3tzb/sd/live.m3u8
-武汉科教,http://live.whtv.com.cn/live/0ee5047bf1ad44098321d1bf08965076?fmt=h264_700k_flv
+武汉科教生活,http://live.whtv.com.cn/live/0ee5047bf1ad44098321d1bf08965076?fmt=h264_700k_flv
 武汉经济频道,http://live.appwuhan.com/4tzb/sd/live.m3u8
 武汉经济频道,http://192.168.2.1:1111/139.ts
 武汉文体频道,http://live.appwuhan.com/5tzb/sd/live.m3u8
@@ -8464,12 +8474,16 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 武汉少儿频道,http://192.168.2.1:1111/142.ts
 武汉少儿频道,http://192.168.2.1:1111/146.ts
 武汉教育频道,http://live.appwuhan.com/jyzb/sd/live.m3u8
+武汉教育频道,http://stream.appwuhan.com/jyzb/sd/live.m3u8
+武汉新闻综合[640*480],http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉科教生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉经济频道,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 仙桃新闻综合,http://36979.hlsplay.aodianyun.com/guangdianyun_36979/tv_channel_509.m3u8
 仙桃新闻综合,http://221.233.242.239:280/live/71/playlist.m3u8
-武汉教育,http://dvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000010.m3u8
+武汉教育频道,http://dvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000010.m3u8
 湖北经视,http://dvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000012.m3u8
 湖北电视,http://dvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000013.m3u8
-垄上,http://dvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000014.m3u8
+湖北垄上,http://dvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000014.m3u8
 湖北公共,http://dvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000015.m3u8
 湖北影视,http://dvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000016.m3u8
 湖北教育,http://dvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000017.m3u8
@@ -8481,19 +8495,9 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 仙桃生活文体,http://221.233.242.239:280/live/72/playlist.m3u8
 仙桃新闻综合,http://221.233.242.239:280/live/71/playlist.m3u8?zhubd
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
-湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
-湖北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225699/1653142328-1-1651284245.m3u8
-湖北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225740/1653142428-1-1648950531.m3u8
-湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
-湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225740/index.m3u8
-湖北卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225699/index.m3u8
 仙桃新闻综合,http://221.233.242.239:280/live/71/playlist.m3u8
 利川新闻综合[859*480],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
 崇阳新闻综合,http://www.cyxw.cn:10500/hls/live.m3u8
-武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-武汉新闻综合[640*480],http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 江夏经济生活,http://59.175.226.142:280/gb28181/jjsh.m3u8
 荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 保康文化旅游,http://bktvplay.gdnewmedia.cc/live/bk_whly.m3u8
@@ -8509,10 +8513,6 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 十堰公共,http://p8.vzan.com/slowlive/626006478246051465/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8
-湖北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8$高清1080P
-湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8$高清1080P
-湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8$高清1080P
-湖北卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225699/index.m3u8$高清1080P
 丹江口生活,https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8?zhubd
 武汉新闻综合,http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8?zhubd
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
