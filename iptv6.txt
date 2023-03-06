@@ -5325,6 +5325,19 @@ CCTV8,http://117.157.25.180:6610/270000001111/1110000309/index.m3u8?IASHttpSessi
 保康新闻综合,http://bktvplay.gdnewmedia.cc/live/bk_xwzh.m3u8
 保康文化旅游,http://bktvplay.gdnewmedia.cc/live/bk_whly.m3u8
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+十堰公共,http://p8.vzan.com/slowlive/626006478246051465/live.m3u8
+十堰经济旅游,http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+潜江综合,http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8
+潜江乡村,http://hbqjdb.chinashadt.com:2035/live/4.stream/playlist.m3u8
+仙桃新闻综合,http://221.233.242.239:280/live/71/playlist.m3u8
+仙桃生活文体,http://221.233.242.239:280/live/72/playlist.m3u8
+崇阳新闻综合,http://www.cyxw.cn:10500/hls/live.m3u8
+保康新闻综合,http://bktvplay.gdnewmedia.cc/live/bk_xwzh.m3u8
+谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1672502399-0-0-1d5c2459459f94d38ba7f22246b1d18e
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
+江夏经济生活,http://59.175.226.142:280/gb28181/jjsh.m3u8
+郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8
 
 🇨🇳陕西移动,#genre#
 宝鸡1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001586/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
