@@ -83,7 +83,7 @@
              "key": "T4直播转点播",
              "name": "📺︎电视直播",
              "type": 4,
-             "api": "http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3R2bGl2ZS50eHQ=",
+             "api": "http://120.53.102.254/live?url=https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/tvlive.txt",
              "searchable": 1,
              "quickSearch": 1,
              "filterable": 1
