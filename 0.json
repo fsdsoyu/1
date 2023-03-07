@@ -19,17 +19,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },  
-	   {
-            "key": "dr_豆瓣",
-            "name": "🔍豆瓣首页",
-           "type": 3,
-           "api": "http://id.ganggang.live:63/js/drpy.min.js",
-           "searchable": 0,
-           "quickSearch": 0,
-           "filterable": 1,
-            "ext": "http://id.ganggang.live:63/js/js_drpy.js"
-         },
+        },
         {
             "key": "Kuaikan",
             "name": "🧸快看🍎",
@@ -39,6 +29,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+	  {
+		  "key":"dr_豆瓣",
+		  "name":"🔍豆瓣荐片",
+		  "type":3,
+		  "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+		  "searchable":0,
+		  "quickSearch":0,
+		  "filterable":1,
+		  "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
+	  },
 	  {
 		  "key": "csp_lezhu",
 	          "name": "🧸乐猪🍎",
@@ -59,15 +59,44 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
+	 {
+            "key": "csp_AppTT",
+            "name": "🐰┃图图┃影视",
+            "type": 3,
+            "api": "csp_TutuYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.39.64.151:3434/",
+            "jar": "http://我不是.肥猫.love:63/Jar/TT.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"
+        },
         {
             "key": "csp_DiDuan",
-            "name": "📺低端",
+            "name": "⤵️低端影视",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
         },
+	{
+		"key":"csp_Mjxq",
+		"name":"🌏美剧星球",
+		"type":3,
+		"api":"csp_Mjxq",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1
+	},
+	 {
+             "key": "T4直播转点播",
+             "name": "📺︎电视直播",
+             "type": 4,
+             "api": "http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3R2bGl2ZS50eHQ=",
+             "searchable": 1,
+             "quickSearch": 1,
+             "filterable": 1
+       },
        {
             "key": "csp_BuLei",
             "name": "🎑布雷蓝光",
@@ -341,6 +370,27 @@
 			"searchable": 0,
 			"quickSearch": 0
 		},
+	        {
+            "key" : "drpy_js_零度影视",
+            "name" : "🌙零度影视",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://gitlab.com/ygbh1/666/-/raw/main/json/%E9%9B%B6%E5%BA%A6%E5%BD%B1%E8%A7%86.js"
+           },
+           {
+            "key" : "drpy_js_1080p",
+            "name" : "☁️1080P影视",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://gitlab.com/ygbh1/666/-/raw/main/json/1080P.js"
+          },
+         {
+            "key" : "drpy_js_超前点播",
+            "name" : "🎯超前点播",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
+        },
 		{
 			"key": "M3U8资源",
 			"name": "🍇M3U8资源(官)",
@@ -375,18 +425,7 @@
 	       "searchable":1,
 	       "quickSearch":1,
 	       "filterable":1
-       },
-      {
-	      "key":"AppTT",
-	      "name":"🐰图图",
-	      "type":"3",
-	      "api":"csp_Dora",
-	      "searchable":"1",
-	      "quickSearch":"1",
-	      "filterable":"1",
-	      "ext":"110c922de7d69804467fb83d3bb664b5",
-	      "jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"
-      },	    
+       },   
       {
 	      "key":"csp_xBPQ_98影院",
 	      "name":"💢98影院（xBPQ）",
@@ -406,6 +445,58 @@
 	      "filterable":0,
 	      "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"
       },
+	    {
+		    "key":"hnzy",
+		    "name":"🐂红牛资源(SP)",
+		    "type":1,
+		    "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+		    "searchable":1,
+		    "quickSearch":1
+	    },
+        {
+		"key":"尘云影视",
+		"name":"☁尘云影视(优)",
+		"type":3,
+		"api":"csp_AppYs",
+		"searchable":0,
+		"quickSearch":0,
+		"filterable":0,
+		"ext":"http://v.i7yc.cn/api.php/v1.vod"
+	},
+       {
+	       "key":"万能影院",
+	       "name":"💳万能影院(优)",
+	       "type":3,
+	       "api":"csp_AppYsV2",
+	       "searchable":0,
+	       "quickSearch":0,
+	       "filterable":0,
+	       "ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"
+       },
+      {
+	      "key":"木子看剧",
+	      "name":"🍒木子看剧(官)",
+	      "type":1,
+	      "api":"https://mzkj.maccms.cf/api.php/provide/vod/",
+	      "searchable":0,
+	      "quickSearch":0
+      },
+      {
+	      "key":"考拉资源",
+	      "name":"🍈考拉资源(官)",
+	      "type":1,
+	      "api":"https://ikaola.tv/api.php/provide/vod/",
+	      "searchable":1,
+	      "quickSearch":1
+      },
+    {
+	    "key":"阿里影视",
+	    "name":"🥤阿里影视(聚)",
+	    "type":1,
+	    "api":"http://aliys.cn:90/api.php/provide/vod/",
+	    "searchable":0,
+	    "quickSearch":0
+     },
                 {
                    "key": "Dm84",
                    "name": "🤖动漫巴士",
@@ -432,16 +523,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
-		},
-                {
-			"key": "csp_xpath___动漫巴士",
-			"name": "🤖动漫巴士",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
 		},
         {
             "key": "csp_If101",
@@ -549,36 +630,6 @@
 			"filterable": 0,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"
 		},
-                {
-                        "key": "儿童",
-			"name": "🐯儿童乐园",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
-		},
-		{
-			"key": "学习",
-			"name": "📝学习园地",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
-		},
-		{
-			"key": "软件",
-			"name": "📚软件教程",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
-		},
 		{
 			"key": "美食",
 			"name": "🍔美食合集",
@@ -619,6 +670,107 @@
 	      "filterable":0,
 	      "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
       },
+	    {
+            "key" : "drpy_js_蜻蜓FM",
+            "name" : "📻蜻蜓FM",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E8%9C%BB%E8%9C%93FM.js"
+        },
+        {
+            "key" : "drpy_js_喜马拉雅",
+            "name" : "🌙喜马拉雅",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
+        },
+        {
+            "key" : "drpy_js_DJ音乐",
+            "name" : "🎵DJ音乐",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/DJ%E9%9F%B3%E4%B9%90.js"
+        },
+	    {
+                        "key": "儿童",
+			"name": "🐯儿童乐园",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
+		},
+		{
+			"key": "学习",
+			"name": "📝学习园地",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+		},
+		{
+			"key": "软件",
+			"name": "📚软件教程",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
+		},
+      {
+	      "key":"幼儿乐园",
+	      "name":"📝幼儿乐园",
+	      "type":3,
+	      "api":"csp_Bili",
+	      "searchable":0,
+	      "quickSearch":0,
+	      "filterable":1,
+	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/幼儿乐园.json"
+      },
+      {
+	      "key":"少儿教育",
+	      "name":"📝少儿教育",
+	      "type":3,
+	      "api":"csp_Bili",
+	      "searchable":0,
+	      "quickSearch":0,
+	      "filterable":1,
+	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/少儿教育.json"
+      },
+      {
+	      "key":"小学课堂",
+	      "name":"📝小学课堂",
+	      "type":3,
+	      "api":"csp_Bili",
+	      "searchable":0,
+	      "quickSearch":0,
+	      "filterable":1,
+	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/小学课堂.json"
+      },
+      {
+	      "key":"初中课堂",
+	      "name":"📝初中课堂",
+	      "type":3,
+	      "api":"csp_Bili",
+	      "searchable":0,
+	      "quickSearch":0,
+	      "filterable":1,
+	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/初中课堂.json"
+      },
+      {
+	      "key":"高中教育",
+	      "name":"📝高中课堂",
+	      "type":3,
+	      "api":"csp_Bili",
+	      "searchable":0,
+	      "quickSearch":0,
+	      "filterable":1,
+	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/高中课堂.json"
+      },	    
       {
 	      "key":"csp_AList",
 	      "name":"🅰AList网盘",
@@ -631,56 +783,6 @@
 	      "jumpDetail":0,
 	      "reversePlay":0,
 	      "enable":1
-      },
-      {
-	      "key":"幼儿乐园",
-	      "name":"📝幼儿乐园",
-	      "type":3,
-	      "api":"csp_Bili",
-	      "searchable":0,
-	      "quickSearch":0,
-	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/json/幼儿乐园.json"
-      },
-      {
-	      "key":"少儿教育",
-	      "name":"📝少儿教育",
-	      "type":3,
-	      "api":"csp_Bili",
-	      "searchable":0,
-	      "quickSearch":0,
-	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/json/少儿教育.json"
-      },
-      {
-	      "key":"小学课堂",
-	      "name":"📝小学课堂",
-	      "type":3,
-	      "api":"csp_Bili",
-	      "searchable":0,
-	      "quickSearch":0,
-	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/json/小学课堂.json"
-      },
-      {
-	      "key":"初中课堂",
-	      "name":"📝初中课堂",
-	      "type":3,
-	      "api":"csp_Bili",
-	      "searchable":0,
-	      "quickSearch":0,
-	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/json/初中课堂.json"
-      },
-      {
-	      "key":"高中教育",
-	      "name":"📝高中课堂",
-	      "type":3,
-	      "api":"csp_Bili",
-	      "searchable":0,
-	      "quickSearch":0,
-	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/json/高中课堂.json"
       },
      {
             "key": "Gitcafe",
