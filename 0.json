@@ -79,15 +79,6 @@
             "quickSearch": 1,
             "filterable": 0
         },
-	{
-		"key":"csp_Mjxq",
-		"name":"🌏美剧星球",
-		"type":3,
-		"api":"csp_Mjxq",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1
-	},
 	 {
              "key": "T4直播转点播",
              "name": "📺︎电视直播",
