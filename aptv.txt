@@ -299,7 +299,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视,http://23.237.10.66:16334
 中视新闻,http://2023.stream-link.org/playlist/ctv_news
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-中天新闻,http://2023.stream-link.org/playlist/cti_news
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 三立LIVE,http://2023.stream-link.org/playlist/set_news
 三立LIVE+,http://2023.stream-link.org/playlist/set_news+
@@ -353,11 +352,10 @@ RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 民視新聞 HD,https://ytm2.yuanhsing.cf/FTVCP.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 中天新闻,http://2023.stream-link.org/playlist/cti_news
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 中天新闻,http://23.237.10.66:16372
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-翡翠台,http://r.jdshipin.com/n90gt
 寰宇新聞台,http://seb.sason.top/sc/hyxw.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
@@ -372,7 +370,9 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://23.237.10.66:16106
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://120.84.96.73:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.108:808/hls/25/index.m3u8
 翡翠台,http://120.84.96.28:808/hls/25/index.m3u8
 翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
 
