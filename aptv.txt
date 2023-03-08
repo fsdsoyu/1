@@ -354,7 +354,7 @@ RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
 中天新闻,http://2023.stream-link.org/playlist/cti_news
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中天新闻,http://23.237.10.66:16372
+中天综合HD,http://23.237.10.66:16372
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 寰宇新聞台,http://seb.sason.top/sc/hyxw.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
