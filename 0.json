@@ -108,6 +108,16 @@
             "filterable": 1,
             "ext": "https://yehetang.cc"
         },
+	     {
+            "key": "csp_XYQH外剧",
+            "name": "️🌸外剧┃XH",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/外剧.json"
+        },
         {
             "key": "csp_fantuan",
             "name": "💢饭团",
