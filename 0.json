@@ -10,7 +10,7 @@
             "quickSearch": 1,
             "filterable": 1,
 	    "ext":"./js/农民.json"
-        }, 
+	},
         {
             "key": "Kunyu77",
             "name": "🧸酷云七七🍎",
@@ -33,11 +33,11 @@
 		  "key":"dr_豆瓣",
 		  "name":"🔍豆瓣荐片",
 		  "type":3,
-		  "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+		  "api":"./js/drpy2.min.js",
 		  "searchable":0,
 		  "quickSearch":0,
 		  "filterable":1,
-		  "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
+		  "ext":"./js/drpy.js"
 	  },
 	  {
 		  "key": "csp_lezhu",
@@ -47,9 +47,9 @@
 		  "searchable": 1,
 		  "quickSearch": 0,
 		  "filterable": 1,
-		  "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"
+		  "ext": "./js/乐猪XP.json"
 	  },
-         {      
+	    {      
 		    "key": "dr_厂长资源",      
 		    "name": "🐰厂长蓝光",      
 		    "type": 3,      
@@ -276,7 +276,7 @@
 				"少儿",
 				"其他片"
 			]
-		},
+		},  
 	    {      
 		    "key": "souhu",      
 		    "name": "🦊搜糊(官)",      
@@ -426,7 +426,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
+			"ext": "./js/云播看看.json"
 	},
 		{
 			"key": "比特影视",
@@ -436,7 +436,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
+			"ext": "./js/比特影视.json"
 		},
 		{
 			"key": "利奥影院",
@@ -446,7 +446,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
+			"ext": "./js/利奥影院.json"
 		},
                 {
 			"key": "VIP影视",
@@ -456,7 +456,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/VIP%E5%BD%B1%E8%A7%86.json"
+			"ext": "./js/VIP影视.json"
 		},
               {
 			"key": "忆梦资源",
@@ -470,8 +470,8 @@
             "key" : "drpy_js_零度影视",
             "name" : "🌙零度影视",
             "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://gitlab.com/ygbh1/666/-/raw/main/json/%E9%9B%B6%E5%BA%A6%E5%BD%B1%E8%A7%86.js"
+            "api" : "./js/drpy.min.js",
+            "ext" : "./js/零度影视.js"
            },
            {
             "key" : "drpy_js_1080p",
@@ -484,8 +484,8 @@
             "key" : "drpy_js_超前点播",
             "name" : "🎯超前点播",
             "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
+            "api" : "./js/drpy.min.js",
+            "ext" : "./js/超前点播.js"
         },
 		{
 			"key": "M3U8资源",
@@ -539,7 +539,7 @@
 	      "searchable":1,
 	      "quickSearch":1,
 	      "filterable":0,
-	      "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"
+	      "ext":"./js/零零七影视.json"
       },
 	    {
 		    "key":"hnzy",
@@ -618,7 +618,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
+			"ext": "./js/动漫直链.json"
 		},
         {
             "key": "csp_If101",
@@ -655,7 +655,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
+			"ext": "./js/音乐现场.json"
 		},
 	        {
 			"key": "热舞",
@@ -665,7 +665,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
+			"ext": "./js/女团热舞.json"
 		},
 	   {
 			"key": "csp_Yj1211",
@@ -684,18 +684,18 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
+			"ext": "./js/哔哩套餐.json"
 		},
-	        {
-			"key": "csp_xpath_kuqimv",
-			"name": "🎤经典MV",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E7%BB%8F%E5%85%B8MV.json"
-		},
+	       {
+		       "key":"csp_xpath_kuqimv",
+		       "name":"🎤酷奇MV(XP)",
+		       "type":3,
+		       "api":"csp_XPath",
+		       "searchable":0,
+		       "quickSearch":0,
+		       "filterable":0,
+		       "ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"
+	       },
 		{
 			"key": "短视频聚合",
 			"name": "📱短视频聚合",
@@ -704,17 +704,17 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
+			"ext": "./js/短视频聚合.json"
 		},
 		{
-			"key": "虎牙",
-			"name": "🐯虎牙",
-			"type": 3,
-			"api": "csp_XYQBiu",
+			"key":"js虎牙",
+			"name":"🐅┃虎牙┃直播",
+			"type":3,
+			"api":"http://id.ganggang.live:63/js/drpy.min.js",
+			"ext":"http://id.ganggang.live:63/js/虎牙直播.js",
 			"searchable": 0,
 			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E8%99%8E%E7%89%99.json"
+			"filterable": 0
 		},
 		{
 			"key": "csp_XYQBiu_斗鱼",
@@ -724,7 +724,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"
+			"ext": "./js/斗鱼.json"
 		},
 		{
 			"key": "美食",
@@ -734,7 +734,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+			"ext": "./js/美食合集.json"
 		},
 		{
 			"key": "戏曲",
@@ -744,7 +744,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
+			"ext": "./js/戏曲合集.json"
         },
        {
 	       "key":"dr_JRKAN直播",
@@ -767,25 +767,46 @@
 	      "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
       },
 	    {
+		    "key": "csp_XPath_企鹅体育",
+		    "name": "🐧┃企鹅┃体育",
+		    "type": 3,
+		    "api": "csp_XPath",
+		    "searchable": 0,
+		    "quickSearch": 0,
+		    "filterable": 0,
+		    "ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"
+	    },
+          {
+		  "key":"dr_88看球",
+		  "name":"88看球",
+		  "type":3,
+		  "api":"https://ghproxy.com/https://raw.githubusercontent.com/945KM/TVBox/main/js/lib/drpy2.min.js",
+		  "searchable":0,
+		  "quickSearch":0,
+		  "filterable":0,
+		  "ext":"https://ghproxy.com/https://raw.githubusercontent.com/945KM/TVBox/main/js/88看球.js"
+	  },
+
+	    {
             "key" : "drpy_js_蜻蜓FM",
             "name" : "📻蜻蜓FM",
             "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E8%9C%BB%E8%9C%93FM.js"
+            "api" : "./js/drpy.min.js",
+            "ext" : "./js/蜻蜓FM.js"
         },
         {
             "key" : "drpy_js_喜马拉雅",
             "name" : "🌙喜马拉雅",
             "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
+            "api" : "./js/drpy.min.js",
+            "ext" : "./js/喜马拉雅.js"
         },
         {
             "key" : "drpy_js_DJ音乐",
             "name" : "🎵DJ音乐",
             "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/DJ%E9%9F%B3%E4%B9%90.js"
+            "api" : "./js/drpy.min.js",
+            "ext" : "./js/DJ音乐.js"
         },
 	    {
                         "key": "儿童",
@@ -795,7 +816,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
+			"ext": "./js/儿童乐园.json"
 		},
 		{
 			"key": "学习",
@@ -805,7 +826,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+			"ext": "./js/学习园地.json"
 		},
 		{
 			"key": "软件",
@@ -815,7 +836,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
+			"ext": "./js/软件教程.json"
 		},
       {
 	      "key":"幼儿乐园",
@@ -825,7 +846,7 @@
 	      "searchable":0,
 	      "quickSearch":0,
 	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/幼儿乐园.json"
+	      "ext":"./json/幼儿乐园.json"
       },
       {
 	      "key":"少儿教育",
@@ -835,7 +856,7 @@
 	      "searchable":0,
 	      "quickSearch":0,
 	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/少儿教育.json"
+	      "ext":"./json/少儿教育.json"
       },
       {
 	      "key":"小学课堂",
@@ -845,7 +866,7 @@
 	      "searchable":0,
 	      "quickSearch":0,
 	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/小学课堂.json"
+	      "ext":"./json/小学课堂.json"
       },
       {
 	      "key":"初中课堂",
@@ -855,7 +876,7 @@
 	      "searchable":0,
 	      "quickSearch":0,
 	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/初中课堂.json"
+	      "ext":"./json/初中课堂.json"
       },
       {
 	      "key":"高中教育",
@@ -865,7 +886,7 @@
 	      "searchable":0,
 	      "quickSearch":0,
 	      "filterable":1,
-	      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/json/高中课堂.json"
+	      "ext":"./json/高中课堂.json"
       },	    
       {
 	      "key":"csp_AList",
@@ -875,7 +896,7 @@
 	      "searchable":1,
 	      "quickSearch":1,
 	      "filterable":1,
-	      "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json",
+	      "ext":"./js/Alist.json",
 	      "jumpDetail":0,
 	      "reversePlay":0,
 	      "enable":1
@@ -899,7 +920,7 @@
 	      "quickSearch":1,
 	      "filterable":0,
 	      "changeable":0,
-	      "ext":"http://ftp6284928.host108.abeiyun.cn/json/token.txt"
+	      "ext":"./js/token.txt"
       },
       {
 	      "key":"AliPS",
@@ -909,7 +930,7 @@
 	      "searchable":1,
 	      "quickSearch":1,
 	      "filterable":1,
-	      "ext":"http://ftp6284928.host108.abeiyun.cn/json/token.txt"
+	      "ext":"./js/token.txt"
       },
       {
 	      "key":"csp_UpYun",
@@ -919,7 +940,7 @@
 	      "searchable":1,
 	      "quickSearch":1,
 	      "filterable":1,
-	      "ext":"http://ftp6284928.host108.abeiyun.cn/json/token.txt"
+	      "ext":"./js/token.txt"
       },
       {
 	      "key":"FindZY",
@@ -929,7 +950,7 @@
 	      "searchable":1,
 	      "quickSearch":1,
 	      "filterable":1,
-	      "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
+	      "ext":"./js/token.txt$$$yingshi$$$abcd1234"
       },
       {
 	      "key":"csp_Push",
@@ -939,7 +960,7 @@
 	      "searchable":0,
 	      "quickSearch":0,
 	      "filterable":0,
-	      "ext":"http://ftp6284928.host108.abeiyun.cn/json/token.txt"
+	      "ext":"./js/token.txt"
       }
       ],
       "lives": [
