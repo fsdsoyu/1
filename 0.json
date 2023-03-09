@@ -3,7 +3,7 @@
     "sites": [ 
         {
             "key": "农民",
-            "name": "🌾农民",
+            "name": "主力源|🌾农民",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
