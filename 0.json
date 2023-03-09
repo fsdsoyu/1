@@ -362,16 +362,6 @@
 			    "连续剧"      
 		    ],      "jar": ""   
 	    },  
-	     {      
-		     "key": "py_cctv",      
-		     "name": "❤爱央视(PY)",      
-		     "type": 3,      
-		     "api": "py_cctv",      
-		     "searchable": 0,      
-		     "quickSearch": 0,      
-		     "filterable": 1,      
-		     "ext": "./py/cctv.py"    
-	     },
         {
             "key": "csp_panghu",
             "name": "🐯胖虎",
