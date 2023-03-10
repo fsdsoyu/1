@@ -747,7 +747,7 @@
         },
        {
 	       "key":"dr_JRKAN直播",
-	       "name":"🏆🏀┃JRKAN直播(js)",
+	       "name":"🏆🏀┃JRKAN直播",
 	       "type":3,
 	       "api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js",
 	       "searchable":0,
@@ -757,7 +757,7 @@
        },
       {
 	      "key":"csp_xBPQ_抓饭体育",
-              "name":"️🏀┃抓饭体育（xBPQ）",
+              "name":"️🏀┃抓饭体育",
 	      "type":3,
 	      "api":"csp_xBPQ",
 	      "searchable":1,
@@ -767,7 +767,7 @@
       },
 	    {
 		    "key":"csp_xp_qiumi",
-		    "name":"⚽Jrs球迷",
+		    "name":"⚽┃Jrs球迷",
 		    "type":3,
 		    "api":"csp_XPath",
 		    "searchable":0,
@@ -777,7 +777,7 @@
 	    },
 	    {
 		    "key":"csp_XYQBiu_310直播",
-		    "name":"⚽310看球",
+		    "name":"⚽┃310看球",
 		    "type":3,
 		    "api":"csp_XYQBiu",
 		    "searchable":0,
