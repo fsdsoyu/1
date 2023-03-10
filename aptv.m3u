@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="⛵  港•澳•台",香港有線新聞
+#EXTINF:-1 group-title="⛵  港•澳•台",香港有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -75,11 +75,11 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 http://2023.stream-link.org/playlist/set_news
 #EXTINF:-1 group-title="⛵  港•澳•台",三立LIVE+
 http://2023.stream-link.org/playlist/set_news+
-#EXTINF:-1 group-title="⛵  港•澳•台",三立財經
+#EXTINF:-1 group-title="⛵  港•澳•台",三立财经
 http://2023.stream-link.org/playlist/set_inews
-#EXTINF:-1 group-title="⛵  港•澳•台",東森財經
+#EXTINF:-1 group-title="⛵  港•澳•台",东森财经
 http://2023.stream-link.org/playlist/ebc_finance
-#EXTINF:-1 group-title="⛵  港•澳•台",東森yoyo
+#EXTINF:-1 group-title="⛵  港•澳•台",东森yoyo
 http://2023.stream-link.org/playlist/ebc_yoyo.flv
 #EXTINF:-1 group-title="⛵  港•澳•台",澳门莲花
 http://107.151.203.111:2209/135/hk.php?id=amlh
@@ -109,41 +109,41 @@ http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",时尚台FTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",天映頻道
+#EXTINF:-1 group-title="⛵  港•澳•台",天映频道
 http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",三立NEWS+
 https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",三立iNEWS
 https://ytm2.yuanhsing.cf/setmoney159.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",東森超視34.5
+#EXTINF:-1 group-title="⛵  港•澳•台",东森超视34.5
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",靖洋戲劇台
+#EXTINF:-1 group-title="⛵  港•澳•台",靖洋戏剧台
 http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",靖天電視台
+#EXTINF:-1 group-title="⛵  港•澳•台",靖天电视台
 https://ytm2.yuanhsing.cf/Faintv.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",靖天電視台
+#EXTINF:-1 group-title="⛵  港•澳•台",靖天电视台
 https://epg.pw/stream/9a2d170c95f33dcdb6c1b203e63032c3531995ec951f50ffae99093c1366843f.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",靖天歡樂台
+#EXTINF:-1 group-title="⛵  港•澳•台",靖天欢乐台
 http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",靖天戲劇台
+#EXTINF:-1 group-title="⛵  港•澳•台",靖天戏剧台
 http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",靖天國際台
+#EXTINF:-1 group-title="⛵  港•澳•台",靖天国际台
 http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",靖天育樂台
+#EXTINF:-1 group-title="⛵  港•澳•台",靖天育乐台
 http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",爱爾達娛樂台
+#EXTINF:-1 group-title="⛵  港•澳•台",爱尔达娱乐台
 http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",爱爾達生活旅遊
+#EXTINF:-1 group-title="⛵  港•澳•台",爱尔达生活旅游
 http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",好消息2台
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch50-2.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",中台灣生活網頻道HD
+#EXTINF:-1 group-title="⛵  港•澳•台",中台湾生活网频道HD
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",靖天映畫
+#EXTINF:-1 group-title="⛵  港•澳•台",靖天映画
 http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",經典電影台
+#EXTINF:-1 group-title="⛵  港•澳•台",经典电影台
 http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",天映經典
+#EXTINF:-1 group-title="⛵  港•澳•台",天映经典
 http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",J2
 https://cdn.hklive.tv/xxxx/82/index.m3u8
@@ -161,35 +161,35 @@ https://v1.qiantutv.com/stream/8645d53881d781e024b0db69a147fbd7/index.m3u8
 https://v1.qiantutv.com/stream/7dd66f663be024cef495312d10d46a60/index.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",RHK33
 https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",民視新聞 HD
+#EXTINF:-1 group-title="⛵  港•澳•台",民视新闻 HD
 https://ytm2.yuanhsing.cf/FTVCP.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",台視新聞 HD
+#EXTINF:-1 group-title="⛵  港•澳•台",台视新闻 HD
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",寰宇國際新聞
+#EXTINF:-1 group-title="⛵  港•澳•台",寰宇国际新闻
 http://2023.stream-link.org/playlist/global_news.flv
 #EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
 http://2023.stream-link.org/playlist/cti_news
 #EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",寰宇新聞台
+#EXTINF:-1 group-title="⛵  港•澳•台",寰宇新闻台
 http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",三立Live新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",三立iNews新闻
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",東森新闻
+#EXTINF:-1 group-title="⛵  港•澳•台",东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",华視新闻
+#EXTINF:-1 group-title="⛵  港•澳•台",华视新闻
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",TVBS新闻
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",中視新闻
+#EXTINF:-1 group-title="⛵  港•澳•台",中视新闻
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",台視新闻
+#EXTINF:-1 group-title="⛵  港•澳•台",台视新闻
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",民視新聞台
+#EXTINF:-1 group-title="⛵  港•澳•台",民视新闻台
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",東森財經新聞台
+#EXTINF:-1 group-title="⛵  港•澳•台",东森财经新闻台
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",[V] HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -414,13 +414,13 @@ http://120.84.96.73:808/hls/35/index.m3u8
 http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key
 
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",鳳凰資訊HD
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",凤凰资讯HD
 http://107.151.203.111:2209/135/hk.php?id=fhzx
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",鳳凰資訊
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",鳳凰中文HD
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",凤凰中文HD
 http://107.151.203.111:2209/135/hk.php?id=fhzw
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",鳳凰中文
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -446,9 +446,9 @@ https://live.astradamy.com/tvbfc/index.m3u8
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台（备）",翡翠台
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",中天綜合
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",中天综合
 https://epg.pw/stream/9ffc906d37cf095d0fb596c3cba6c6253e8e445f4ccd24563c7a2e9e99c39f39.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",中天綜合
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",中天综合
 https://epg.pw/stream/4c3c400280fb3d1f5b27322fe4827f5ba43f09963e114b0973bea7b5a85f7d73.ctv
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/中天综合台" tvg-id="中天综合台" tvg-name="中天综合台",group-title="⛵  港•澳•台（备）",中天综合台
 http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
@@ -456,29 +456,29 @@ http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.f
 http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",中天新闻
 https://epg.pw/stream/39d1bda5333c7c710aecd9df8bae36f84694014cbf55ab3bcd7b7e45f46fc0e6.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",中天美食旅遊
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",中天美食旅游
 http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",中視菁采
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",中视菁采
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",中视新闻
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",中视菁采
 http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",智林體育台
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",智林体育台
 http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",原住民族電視台
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",原住民族电视台
 http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",原住民頻道
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",原住民频道
 https://epg.pw/stream/3d0b93fe5f3ae06d96d0d4bc7931ec323ee5ef2721d880629f50a6672c2c7bb3.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",原住民電視台
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",原住民电视台
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",原住民电视台
 https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",有線直播新聞台
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",有线直播新闻台
 https://epg.pw/stream/38825c579f3d95e54531e6d373b08e463e6aa43e48bd69fbbc4897470491821c.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",有線直播新聞台
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",有线直播新闻台
 http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/有线新闻台" tvg-id="有线新闻台" tvg-name="有线新闻台",group-title="⛵  港•澳•台（备）",有线新闻台
 http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -494,7 +494,7 @@ https://api.leonardpark.dev/live/icable/109
 http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/有线新闻台" tvg-id="有线新闻台" tvg-name="有线新闻台",group-title="⛵  港•澳•台（备）",有线新闻台
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",耀才財經
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",耀才财经
 http://107.151.203.111:2209/135/hk.php?id=bs
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -506,7 +506,7 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉" tvg-id="新视觉" tvg-name="新视觉",group-title="⛵  港•澳•台（备）",新视觉HD
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",香港有線財經
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",香港有线财经
 http://61.10.2.140:80/live_freedirect/freehd208_h.live/chunklist_w293990864.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视",group-title="⛵  港•澳•台（备）",香港卫视
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
@@ -518,15 +518,15 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/inde
 http://shazui.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",无线财经
 http://radius.8866.org:800/hls/83/index.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",衛視中文
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",卫视中文
 https://epg.pw/stream/e90bbc4d59eaed31098c2ee4ecbaee0c686b15379e52c5bc09b56fcb4386e12a.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",唯心
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",唯心
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",天映經典
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",天映经典
 https://epg.pw/stream/c144b6e78dae226aaf5d3ea400c87707189b5f1ab750e1d1ca5b7e00706dd47d.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",天映經典
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",天映经典
 https://epg.pw/stream/87617e79441d46b5917a3bdca13259e4de2d9e11f828a88f1cb1c80d377f76f4.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/台视新闻台" tvg-id="台视新闻台" tvg-name="台视新闻台",group-title="⛵  港•澳•台（备）",台视新闻台
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
@@ -540,15 +540,15 @@ http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",世新綜合
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",世新综合
 http://61.58.60.230:9319/live/49.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",三立新闻
 https://epg.pw/stream/8d05ff97abc9143b720359d0afacb12118dd5cbc9a9ff7dfe21fb158921435be.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",三立inews新闻
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",全球財經
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",全球财经
 http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",全名最大黨
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",全名最大党
 http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港•澳•台（备）",明珠台
 https://epg.pw/stream/0b5f91ff385c60196f333ae561f033d3c251db3071380996e93abdb509b907c1.ctv
@@ -562,7 +562,7 @@ http://radius.8866.org:800/hls/81/index.m3u8
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",TVB J2
 https://live.astradamy.com/tvbj2/index.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",民視
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",民视
 https://epg.pw/stream/87277dbeffd4d45c91531d1fa21b5133caff51c8e2ef795eac23e1d1e7a43687.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -576,47 +576,47 @@ http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",面包台
 https://epg.pw/stream/1d1536dfcf53be38e53fb55ce4fefea99ee33742bae6e294975be688fc5b5358.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",美國之音
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",美国之音
 http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",龍華日韓
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",龙华日韩
 http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",龍華電影
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",龙华电影
 https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",龍華電影
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",龙华电影
 https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖洋戲劇
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖洋戏剧
 http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",靖洋戏剧
 http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天育樂
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天育乐
 http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天育乐
 http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天映畫
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天映画
 http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天戲劇
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天戏剧
 http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天卡通
 http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天歡樂
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天欢乐
 http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/靖天欢乐台" tvg-id="靖天欢乐台" tvg-name="靖天欢乐台",group-title="⛵  港•澳•台（备）",靖天欢乐台
 https://epg.pw/stream/097a6a0c5d168e229b7bdc1c975a34798798dba18426616829e00562dd5dfb13.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天國際
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天国际
 http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",靖天国际
 http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",精選動漫
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",精选动漫
 http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",經典卡通
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",经典卡通
 http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",經典電影
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",经典电影
 http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",金馬電影
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",金马电影
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",寰宇新聞
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",寰宇新闻
 https://epg.pw/stream/56fcd258e38553e22ea31b82f3a6919c0c843f659364d24bdd5cbf04df0b4f28.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/寰宇新闻" tvg-id="寰宇新闻" tvg-name="寰宇新闻",group-title="⛵  港•澳•台（备）",寰宇新闻
 https://epg.pw/stream/5d107352c6e105b8de3715772b10ce78c786952e5a676a5ac5d07889dc4c5970.m3u8
@@ -644,7 +644,7 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",東森超視34.5
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",东森超视34.5
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东森亚洲新闻台" tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台",group-title="⛵  港•澳•台（备）",东森亚洲新闻台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
@@ -668,17 +668,17 @@ http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",大爱2
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",寵物當家
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",宠物当家
 http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",采昌影視
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",采昌影视
 http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",澳亞衛視
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",澳亚卫视
 http://107.151.203.111:2209/135/hk.php?id=aoya
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8?WithCaption
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",澳門蓮花衛視
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",澳门莲花卫视
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",澳门莲花
 http://107.151.203.111:2209/135/hk.php?id=amlh
@@ -698,7 +698,7 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://epg.pw/stream/22fbfa76cee14a69c9be831c3b1f6407a849d414423ed8566798713300eb5f51.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1,TVBS新聞
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -708,7 +708,7 @@ https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed0a6e9
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",TVBS歡樂
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",TVBS欢乐
 https://epg.pw/stream/a0e38cabd293735287ad24ea12d5e2e3d2f0ecd3a9984895501def1ccc98f1e6.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",TVBS42娱乐
 https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
@@ -718,23 +718,23 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",TVBS HD
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",FOX新聞
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",FOX新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",FOX新闻台
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",ELTA娛樂
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",ELTA娱乐
 http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",ELTA生活旅遊
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",ELTA生活旅游
 http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",ELEVEN体育2台
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",Discoveryᴴᴰ
 http://185.59.223.102:8080/discovery/index.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",DaAi2 (大愛2) (720p)
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",DaAi2 (大爱2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",DaAi1 (大愛1) (720p)
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",DaAi1 (大爱1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",CTS News (華視新聞資訊) [Geo-blocked]
+#EXTINF:-1,group-title="⛵  港•澳•台（备）",CTS News (华视新闻资讯) [Geo-blocked]
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东森亚洲卫视" tvg-id="东森亚洲卫视" tvg-name="东森亚洲卫视",group-title="⛵  港•澳•台（备）",CNA东森亚洲卫视
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -2582,9 +2582,9 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1,group-title="🍃  4K8K高清",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,group-title="🍃  4K8K高清",南國都市4K
+#EXTINF:-1,group-title="🍃  4K8K高清",南国都市4K
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-#EXTINF:-1,group-title="🍃  4K8K高清",南國都市4K
+#EXTINF:-1,group-title="🍃  4K8K高清",南国都市4K
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视",group-title="🍃  4K8K高清",北京卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
@@ -2742,7 +2742,7 @@ https://epg.112114.xyz/huya/880261
 https://epg.112114.xyz/huya/21059574
 #EXTINF:-1,group-title="🐆  虎牙",铁齿铜牙纪晓岚[8]
 https://epg.112114.xyz/huya/11342396
-#EXTINF:-1,group-title="🐆  虎牙",沈腾[9]
+#EXTINF:-1,group-title="🐆  虎牙",沉腾[9]
 https://epg.112114.xyz/huya/11601968
 #EXTINF:-1,group-title="🐆  虎牙",科幻五分钟[10]
 https://epg.112114.xyz/huya/15152155
