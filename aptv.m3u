@@ -2031,16 +2031,26 @@ https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,group-title="🚀 重庆有线",重庆新闻高清
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
+#EXTINF:-1,group-title="🚀 重庆有线",重庆科教高清
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
+#EXTINF:-1,group-title="🚀 重庆有线",重庆影视高清
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
+#EXTINF:-1,group-title="🚀 重庆有线",重庆文体娱乐高清
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
+#EXTINF:-1,group-title="🚀 重庆有线",重庆少儿高清
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
+#EXTINF:-1,group-title="🚀 重庆有线",重庆时尚生活高清
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
+#EXTINF:-1,group-title="🚀 重庆有线",重庆新农村高清
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/欢笑剧场" tvg-id="欢笑剧场" tvg-name="欢笑剧场",group-title="🚀 重庆有线",欢笑剧场4K
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k",group-title="🚀 重庆有线",CCTV-4K
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16",group-title="🚀 重庆有线",CCTV16-4K
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",4K60PSDR-H264-AAC测试
-http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",4K60PHLG-HEVC-EAC3测试
-http://159.75.85.63:5680/d/ad/playad.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",group-title="🚀 重庆有线",CCTV-1 高清
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2",group-title="🚀 重庆有线",CCTV-2 高清
@@ -2139,22 +2149,6 @@ http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/de
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/兵团卫视" tvg-id="兵团卫视" tvg-name="兵团卫视",group-title="🚀 重庆有线",兵团卫视
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",重庆新闻高清
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",重庆科教高清
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",重庆影视高清
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",重庆文体娱乐高清
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",重庆少儿高清
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",重庆时尚生活高清
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",重庆新农村高清
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
-#EXTINF:-1,group-title="🚀 重庆有线",家有购物
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/jygw/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV风云剧场" tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场",group-title="🚀 重庆有线",CCTV风云剧场
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
 #EXTINF:-1,group-title="🚀 重庆有线",书画
@@ -2191,6 +2185,8 @@ http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/defa
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV兵器科技" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技",group-title="🚀 重庆有线",CCTV兵器科技高清
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+
+
 
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,group-title="📺  江西移动",CCTV兵器科技高清纯享4K[3840*2160]
