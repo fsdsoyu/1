@@ -2,8 +2,17 @@
 {
     "sites": [ 
          {
+            "key": "Kuaikan",
+            "name": "主力源┃🧸┃快看🍎",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	 {
             "key": "农民",
-            "name": "主力源|🌾农民",
+            "name": "🌾|农民",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -16,15 +25,6 @@
             "name": "🧸┃酷云七七🍎",
             "type": 3,
             "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Kuaikan",
-            "name": "🧸┃快看🍎",
-            "type": 3,
-            "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
