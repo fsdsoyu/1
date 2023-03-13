@@ -306,6 +306,10 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 翡翠台,http://120.84.96.108:808/hls/25/index.m3u8
 翡翠台,http://120.84.96.28:808/hls/25/index.m3u8
 翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
+无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
+无线新闻台,http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
+无线新闻台,http://shazui.8866.org:800/hls/82/index.m3u8
+无线新闻台,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
 
 📺  8M专区,#genre#
 CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
