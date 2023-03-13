@@ -1,6 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="⛵  港•澳•台",香港有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港•澳•台",无线新闻台
+http://radius.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港•澳•台",无线新闻台
+http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港•澳•台",无线新闻台
+http://shazui.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港•澳•台",无线新闻台
+https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",凤凰中文
@@ -510,12 +519,6 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 http://61.10.2.140:80/live_freedirect/freehd208_h.live/chunklist_w293990864.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视",group-title="⛵  港•澳•台（备）",香港卫视
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港•澳•台（备）",无线新闻台
-http://radius.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港•澳•台（备）",无线新闻台
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台（备）",无线新闻
-http://shazui.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",无线财经
 http://radius.8866.org:800/hls/83/index.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台（备）",卫视中文
