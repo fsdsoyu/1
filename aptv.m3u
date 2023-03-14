@@ -3243,9 +3243,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221226228/index.m3u8?zjiangxd
 #EXTINF:-1,group-title="⛲  江西频道",南昌公共
 http://39.135.138.58:18890/PLTV/88888888/224/3221226231/index.m3u8?zjiangxd
 
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视",group-title="🌵  北京频道",北京卫视
-http://yfsl.vsd.gehua.net.cn/live/BTV1HD_1200.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视",group-title="🌵  北京频道",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京文艺
@@ -3256,18 +3253,10 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225944/index.m3u
 http://live.cooltv.top/tv/btime.php?id=btvsh
 #EXTINF:-1,group-title="🌵  北京频道",北京文艺
 http://live.cooltv.top/tv/btime.php?id=btvwy
-#EXTINF:-1,group-title="🌵  北京频道",北京文艺
-http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",北京文艺
-http://yfsl.vsd.gehua.net.cn/live/BTVwenyiHD_1200.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京生活
 http://downlive.brtvcloud.com/1508sh/shenghuoyituanma.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",北京生活
-http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京科教
 http://downlive.brtvcloud.com/1505kj/kjzhongguodiyi.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",北京纪实
-http://yfsl.vsd.gehua.net.cn/live/BTV3_800.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京纪实
 http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京纪实
@@ -3276,28 +3265,23 @@ http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8
 http://downlive.brtvcloud.com/xw1507/xwzhibojian.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京新闻
 http://live.cooltv.top/tv/btime.php?id=btvxw
-#EXTINF:-1,group-title="🌵  北京频道",北京新闻
-http://yfsl.vsd.gehua.net.cn/live/BTV9_800.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",北京新闻
-http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京影视
 http://downlive.brtvcloud.com/y1503s/yszuishi.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京影视
 http://yfsl.vsd.gehua.net.cn/live/BTV4_800.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京财经
-http://yfsl.vsd.gehua.net.cn/live/BTV5_800.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",北京财经
 http://downlive.brtvcloud.com/cj1506/cjbeijingdiwu.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",北京财经
-http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",北京财经
 http://live.cooltv.top/tv/btime.php?id=btvcj
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,group-title="🌵  北京频道",北京体育
-http://yfsl.vsd.gehua.net.cn/live/ipcdn
-#EXTINF:-1,group-title="🌵  北京频道",北京生活
-http://yfsl.vsd.gehua.net.cn/live/BTV7_800.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",北京青年
-http://yfsl.vsd.gehua.net.cn/live/BTV8_800.m3u8
+http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/btv/btv6/3000/index.m3u8?ProgramID=&encrypt=
+#EXTINF:-1,group-title="🌵  北京频道",北京体育IPTV6
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.m3u8
+#EXTINF:-1,group-title="🌵  北京频道",北京体育IPTV6
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225676/2/index.m3u8
+#EXTINF:-1,group-title="🌵  北京频道",北京体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",清华大学电视台
 https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",清华大学电视台
@@ -3314,22 +3298,14 @@ http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215608/m
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",石景山电视
 https://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",平谷电视台
-http://yfsl.vsd.gehua.net.cn/live/ipcdn/PingGuQuXianXinWen/ipcdn
-#EXTINF:-1,group-title="🌵  北京频道",门头沟电视台
-http://yfsl.vsd.gehua.net.cn/live/ipcdn/MenTouGouQuXianXinWen/ipcdn
 #EXTINF:-1,group-title="🌵  北京频道",大兴电视台
 http://v2.91kds.cn/b9/polyv.m3u8?id=bjdxtv1&auth=rinimabi
-#EXTINF:-1,group-title="🌵  北京频道",每经AI
-http://aitv.nbd.com.cn/live/aitv_live.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",环球旅游
-http://yfsl.vsd.gehua.net.cn/live/HuanQiuLvYou_2000.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",房山城市
 http://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",房山无线频道
 http://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",四海钓鱼
-http://yfsl.vsd.gehua.net.cn/live/SiHaiDiaoYu_2000.m3u8北京影视
+http://yfsl.vsd.gehua.net.cn/live/SiHaiDiaoYu_2000.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",房山区电视
 https://live.funhillrm.com/2/sd/live.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",房山区电视台
@@ -3340,17 +3316,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225675/index.m3u8
 http://61.50.142.158/live/0.m3u8
 #EXTINF:-1,group-title="🌵  北京频道",石景山有线
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1,group-title="🌵  北京频道",北京IPTV萌宠TV
-http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND?zbeid
-#EXTINF:-1,group-title="🌵  北京频道",北京IPTV淘baby
-http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND?zbeid
-#EXTINF:-1,group-title="🌵  北京频道",北京IPTV淘电影
-http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND?zbeid
-#EXTINF:-1,group-title="🌵  北京频道",北京IPTV淘剧场
-http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND?zbeid
-#EXTINF:-1,group-title="🌵  北京频道",北京IPTV淘娱乐
-http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND?zbeid
-
 
 
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
