@@ -886,93 +886,6 @@ IHOT爱悬疑,http://39.135.126.226:6610/000000001001/6000000006000050630/1.m3u8
 
 
 🐆  虎牙,#genre#
-曾江,http://aldirect.corp-hls.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsiphost=ipdbme
-唐唐,http://aldirect.corp-hls.huya.com/src/22303913-22303913-95794576907829248-4413173724-10057-A-0-1.m3u8?wsiphost=ipdbme
-征服1,http://aldirect.corp-hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8?wsiphost=ipdbme
-笑傲帮,http://aldirect.corp-hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8?wsiphost=ipdbme
-甄子丹,http://aldirect.corp-hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8?wsiphost=ipdbme
-周润发,http://aldirect.corp-hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8?wsiphost=ipdbme
-刘德华,http://aldirect.corp-hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsiphost=ipdbme
-孙红雷,http://aldirect.corp-hls.huya.com/src/43460312-43460312-186660618713956352-2847687638-10057-A-0-1.m3u8?wsiphost=ipdbme
-林正英1,http://aldirect.corp-hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8?wsiphost=ipdbme
-吴孟达,http://aldirect.corp-hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8?wsiphost=ipdbme
-赵文卓,http://aldirect.corp-hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8?wsiphost=ipdbme
-许冠英,http://aldirect.corp-hls.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1.m3u8?wsiphost=ipdbme
-洪金宝,http://aldirect.corp-hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8?wsiphost=ipdbme
-李连杰,http://aldirect.corp-hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8?wsiphost=ipdbme
-陈佩斯,http://aldirect.corp-hls.huya.com/src/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.m3u8?wsiphost=ipdbme
-张涵予,http://aldirect.corp-hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8?wsiphost=ipdbme
-纪晓岚,http://aldirect.corp-hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8?wsiphost=ipdbme
-芈月传,http://aldirect.corp-hls.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8?wsiphost=ipdbme
-鬼吹灯,http://aldirect.corp-hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8?wsiphost=ipdbme
-好先生①,http://aldirect.corp-hls.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.m3u8?wsiphost=ipdbme
-电视剧①,http://aldirect.corp-hls.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.m3u8?wsiphost=ipdbme
-电视剧②,http://aldirect.corp-hls.huya.com/src/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.m3u8?wsiphost=ipdbme
-笑傲江湖,http://aldirect.corp-hls.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1.m3u8?wsiphost=ipdbme
-逗乐小品,http://aldirect.corp-hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8?wsiphost=ipdbme
-动画相声,http://aldirect.corp-hls.huya.com/src/1671404305-1671404305-7178626828368609280-3342932066-10057-A-0-1.m3u8?wsiphost=ipdbme
-成龙电影,http://aldirect.corp-hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8?wsiphost=ipdbme
-王晶电影,http://aldirect.corp-hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8?wsiphost=ipdbme
-黄渤电影,http://aldirect.corp-hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8?wsiphost=ipdbme
-古装剧场,http://aldirect.corp-hls.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8?wsiphost=ipdbme
-父母爱情,http://aldirect.corp-hls.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.m3u8?wsiphost=ipdbme
-金庸群侠,http://aldirect.corp-hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8?wsiphost=ipdbme
-天龙八部,http://aldirect.corp-hls.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.m3u8?wsiphost=ipdbme
-神雕侠侣,http://aldirect.corp-hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8?wsiphost=ipdbme
-倚天屠龙,http://aldirect.corp-hls.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.m3u8?wsiphost=ipdbme
-康熙私访,http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8?wsiphost=ipdbme
-康熙王朝,http://aldirect.corp-hls.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8?wsiphost=ipdbme
-雍正皇帝,http://aldirect.corp-hls.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.m3u8?wsiphost=ipdbme
-恐惧竞技,http://aldirect.corp-hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8?wsiphost=ipdbme
-玄幻剧场,http://aldirect.corp-hls.huya.com/src/1394575536-1394575536-5989656318921670656-2789274528-10057-A-0-1.m3u8?wsiphost=ipdbme
-许氏三杰,http://aldirect.corp-hls.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8?wsiphost=ipdbme
-女神系列,http://aldirect.corp-hls.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8?wsiphost=ipdbme
-经典港剧,http://aldirect.corp-hls.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.m3u8?wsiphost=ipdbme
-三国演义,http://aldirect.corp-hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8?wsiphost=ipdbme
-战争影片,http://aldirect.corp-hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8?wsiphost=ipdbme
-警匪电影,http://aldirect.corp-hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1.m3u8?wsiphost=ipdbme
-警匪系列,http://aldirect.corp-hls.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8?wsiphost=ipdbme
-十一推荐,http://aldirect.corp-hls.huya.com/src/1524434083-1524434083-6547394531392749568-3048991622-10057-A-0-1.m3u8?wsiphost=ipdbme
-黑帮电影,http://aldirect.corp-hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.m3u8?wsiphost=ipdbme
-盗墓系列,http://aldirect.corp-hls.huya.com/src/1099531752747-1099531752747-86436092277948416-2199063628950-10057-A-0-1.m3u8?wsiphost=ipdbme
-咏春系列,http://aldirect.corp-hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8?wsiphost=ipdbme
-赛车系列,http://aldirect.corp-hls.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.m3u8?wsiphost=ipdbme
-古装武侠,http://aldirect.corp-hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8?wsiphost=ipdbme
-香港贺岁,http://aldirect.corp-hls.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8?wsiphost=ipdbme
-喜剧电影,http://aldirect.corp-hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8?wsiphost=ipdbme
-牛郎织女,http://aldirect.corp-hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.m3u8?wsiphost=ipdbme
-活佛济公1,http://aldirect.corp-hls.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8?wsiphost=ipdbme
-搞笑喜剧1,http://aldirect.corp-hls.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8?wsiphost=ipdbme
-金装追女仔,http://aldirect.corp-hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8?wsiphost=ipdbme
-杨光快乐生活,http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.m3u8?wsiphost=ipdbme
-民兵葛二蛋,http://aldirect.corp-hls.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8?wsiphost=ipdbme
-宝莲灯前传,http://aldirect.corp-hls.huya.com/src/1099531752757-1099531752757-86436135227621376-2199063628970-10057-A-0-1.m3u8?wsiphost=ipdbme
-射雕英雄传,http://aldirect.corp-hls.huya.com/src/1524439846-1524439846-6547419283289276416-3049003148-10057-A-0-1.m3u8?wsiphost=ipdbme
-虎牙放映厅,http://aldirect.corp-hls.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8?wsiphost=ipdbme
-合家欢喜剧,http://aldirect.corp-hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8?wsiphost=ipdbme
-神医喜来乐,http://aldirect.corp-hls.huya.com/src/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.m3u8?wsiphost=ipdbme
-新萧十一郎,http://aldirect.corp-hls.huya.com/src/1524439823-1524439823-6547419184505028608-3049003102-10057-A-0-1.m3u8?wsiphost=ipdbme
-香港恐怖片,http://aldirect.corp-hls.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.m3u8?wsiphost=ipdbme
-香港黑帮系列,http://aldirect.corp-hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.m3u8?wsiphost=ipdbme
-中国功夫系列,http://aldirect.corp-hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8?wsiphost=ipdbme
-历年贺岁大片,http://aldirect.corp-hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8?wsiphost=ipdbme
-难兄难弟,http://aldirect.corp-hls.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.m3u8?wsiphost=ipdbme
-今生无悔,http://aldirect.corp-hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8?wsiphost=ipdbme
-新上海滩,http://aldirect.corp-hls.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.m3u8?wsiphost=ipdbme
-TVB,http://aldirect.corp-hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8?wsiphost=ipdbme
-杨家将,http://aldirect.corp-hls.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.m3u8?wsiphost=ipdbme
-TV八哥,http://aldirect.corp-hls.huya.com/src/1199563492830-1199563492830-5444374615415586816-2399127109116-10057-A-0-1.m3u8?wsiphost=ipdbme
-封神榜,http://aldirect.corp-hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8?wsiphost=ipdbme
-TVB领域,http://aldirect.corp-hls.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.m3u8?wsiphost=ipdbme
-四大才子,http://aldirect.corp-hls.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8?wsiphost=ipdbme
-双面伊人,http://aldirect.corp-hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8?wsiphost=ipdbme
-南拳北腿,http://aldirect.corp-hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8?wsiphost=ipdbme
-楚汉骄雄,http://aldirect.corp-hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8?wsiphost=ipdbme
-美女厨房①,http://aldirect.corp-hls.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.m3u8?wsiphost=ipdbme
-冷门港片大全,http://aldirect.corp-hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8?wsiphost=ipdbme
-TVB版西游记,http://aldirect.corp-hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8?wsiphost=ipdbme
-香港刑侦实录,http://aldirect.corp-hls.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.m3u8?wsiphost=ipdbme
-梁朝伟张无忌,http://aldirect.corp-hls.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.m3u8?wsiphost=ipdbme
 周星驰[1],https://epg.112114.xyz/huya/11342412
 林正英[4],https://epg.112114.xyz/huya/11342421
 港台电影[5],https://epg.112114.xyz/huya/880261
@@ -1303,3 +1216,63 @@ SiTV游戏风云,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 哒啵赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225749/index.m3u8
 哒啵赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225750/index.m3u8
 哒啵赛事,http://117.169.121.162:6610/PLTV/88888910/224/3221225653/index.m3u8
+
+
+🌵  北京频道,#genre#
+北京卫视,http://yfsl.vsd.gehua.net.cn/live/BTV1HD_1200.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+北京文艺,http://downlive.brtvcloud.com/15wy04/wyyebuzadi.m3u8
+北京科教,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225944/index.m3u8?servicetype=1
+北京生活,http://live.cooltv.top/tv/btime.php?id=btvsh
+北京文艺,http://live.cooltv.top/tv/btime.php?id=btvwy
+北京文艺,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+北京文艺,http://yfsl.vsd.gehua.net.cn/live/BTVwenyiHD_1200.m3u8
+北京生活,http://downlive.brtvcloud.com/1508sh/shenghuoyituanma.m3u8
+北京生活,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
+北京科教,http://downlive.brtvcloud.com/1505kj/kjzhongguodiyi.m3u8
+北京纪实,http://yfsl.vsd.gehua.net.cn/live/BTV3_800.m3u8
+北京纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+北京纪实,http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8
+北京新闻,http://downlive.brtvcloud.com/xw1507/xwzhibojian.m3u8
+北京新闻,http://live.cooltv.top/tv/btime.php?id=btvxw
+北京新闻,http://yfsl.vsd.gehua.net.cn/live/BTV9_800.m3u8
+北京新闻,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
+北京影视,http://downlive.brtvcloud.com/y1503s/yszuishi.m3u8
+北京影视,http://yfsl.vsd.gehua.net.cn/live/BTV4_800.m3u8
+北京财经,http://yfsl.vsd.gehua.net.cn/live/BTV5_800.m3u8
+北京财经,http://downlive.brtvcloud.com/cj1506/cjbeijingdiwu.m3u8
+北京财经,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+北京财经,http://live.cooltv.top/tv/btime.php?id=btvcj
+北京体育,http://yfsl.vsd.gehua.net.cn/live/ipcdn,BTVDongAoJiShi_800K_live.m3u8
+北京生活,http://yfsl.vsd.gehua.net.cn/live/BTV7_800.m3u8
+北京青年,http://yfsl.vsd.gehua.net.cn/live/BTV8_800.m3u8
+清华大学电视台,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
+卡酷少儿,http://downlive.brtvcloud.com/kk1502/kkbeijingdier.m3u8
+卡酷少儿,http://yfsl.vsd.gehua.net.cn/live/BTV10HD_2000.m3u8
+卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8
+卡酷少儿,http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215608/main.m3u8?IASHttpSessionId=OTT
+北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
+石景山电视,,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+石景山电视,https://live.sjsrm.com/bjsjs/sd/live.m3u8
+平谷电视台,http://yfsl.vsd.gehua.net.cn/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
+门头沟电视台,http://yfsl.vsd.gehua.net.cn/live/ipcdn/MenTouGouQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
+大兴电视台,http://v2.91kds.cn/b9/polyv.m3u8?id=bjdxtv1&auth=rinimabi
+每经AI,http://aitv.nbd.com.cn/live/aitv_live.m3u8
+环球旅游,http://yfsl.vsd.gehua.net.cn/live/HuanQiuLvYou_2000.m3u8
+房山城市,http://live.funhillrm.com/5/sd/live.m3u8
+房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
+四海钓鱼,http://yfsl.vsd.gehua.net.cn/live/SiHaiDiaoYu_2000.m3u8北京影视,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+房山区电视,https://live.funhillrm.com/2/sd/live.m3u8
+房山区电视台,https://live.funhillrm.com/2/playlist.m3u8
+通州区电视,http://pull.dayuntongzhou.com/live/tztv.m3u8
+北京东奥,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+北京冬奥纪实HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225675/index.m3u8
+北京新闻,http://live.funhillrm.com/5/sd/live.m3u8
+昌平综合,http://61.50.142.158/live/0.m3u8
+石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+北京IPTV萌宠TV,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND?zbeid
+北京IPTV淘baby,http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND?zbeid
+北京IPTV淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND?zbeid
+北京IPTV淘剧场,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND?zbeid
+北京IPTV淘娱乐,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND?zbeid
