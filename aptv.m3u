@@ -177,11 +177,15 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",寰宇国际新闻
 http://2023.stream-link.org/playlist/global_news.flv
 #EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://2023.stream-link.org/playlist/cti_news
+http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv
 #EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
+http://23.237.10.66:16372
+#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
 mitv://generationnexxxt.com:19806/3185d804c6c544c9995cc7f72a06290c
+#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
+P2p://ns2.hellotvvod.com:9906/d7b448374c7e40898a515421389f97d4.ts
 #EXTINF:-1 group-title="⛵  港•澳•台",寰宇新闻台
 http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",三立Live新闻
@@ -205,27 +209,27 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",[V] HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
-http://23.237.10.66:16106
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
-http://r.jdshipin.com/n90gt
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
-http://r.jdshipin.com/qrfbg
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
-http://120.84.96.73:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
-http://120.84.96.108:808/hls/25/index.m3u8
+http://radius.8866.org:800/hls/80/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
 http://120.84.96.28:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
 http://107.151.203.111:2209/135/hk.php?id=tvbfct
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
-mitv://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
+http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
+http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
+http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台(备)
-mitv://generationnexxxt.com:19806/64102e9100070888410a9eac61e8725a
+mitv://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台(华丽台)
-mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
+mitv://generationnexxxt.com:19806/64102e9100070888410a9eac61e8725a
 #EXTINF:-1 group-title="⛵  港•澳•台",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",TVBS新闻台
