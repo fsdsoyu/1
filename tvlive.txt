@@ -674,9 +674,6 @@ IPTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u
 翡翠台(华丽台),P2p://ns1.hellotvvod.com:9906/2593b5d6c10a4524b22d2b7e54d6aa24
 翡翠台(华丽台),mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
 翡翠台(华丽台),mitv://ns2.hellotvvod.com:9906/9c3ab94463de4ddf99a25cf41d5fb90d.ts
-翡翠台,mitv://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b
-翡翠台(备),mitv://generationnexxxt.com:19806/64102e9100070888410a9eac61e8725a
-翡翠台(华丽台),mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
 翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
 翡翠台,mitv://ns2.hellotvvod.com:9906/279032f76ae6465d9f6aff532770787f
 翡翠台,mitv://ns2.hellotvvod.com:9906/f49e31aad5e34b019507d76d42803727.ts
