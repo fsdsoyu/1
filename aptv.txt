@@ -283,8 +283,10 @@ RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 民視新聞 HD,https://ytm2.yuanhsing.cf/FTVCP.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
-中天新闻,http://2023.stream-link.org/playlist/cti_news
+中天新闻,http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天新闻,http://23.237.10.66:16372
+中天新闻,P2p://ns2.hellotvvod.com:9906/d7b448374c7e40898a515421389f97d4.ts
 中天新闻台,mitv://generationnexxxt.com:19806/3185d804c6c544c9995cc7f72a06290c
 中天综合HD,http://23.237.10.66:16372
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
@@ -299,15 +301,15 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 [V] HD,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-翡翠台,http://23.237.10.66:16106
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://120.84.96.73:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.108:808/hls/25/index.m3u8
+翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://120.84.96.28:808/hls/25/index.m3u8
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
-翡翠台,http://23.237.10.66:16106
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
+翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
+翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 翡翠台,mitv://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b
 翡翠台(备),mitv://generationnexxxt.com:19806/64102e9100070888410a9eac61e8725a
 翡翠台(华丽台),mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
