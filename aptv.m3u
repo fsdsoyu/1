@@ -180,6 +180,8 @@ http://2023.stream-link.org/playlist/global_news.flv
 http://2023.stream-link.org/playlist/cti_news
 #EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
+mitv://generationnexxxt.com:19806/3185d804c6c544c9995cc7f72a06290c
 #EXTINF:-1 group-title="⛵  港•澳•台",寰宇新闻台
 http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",三立Live新闻
@@ -218,6 +220,12 @@ http://120.84.96.108:808/hls/25/index.m3u8
 http://120.84.96.28:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
 http://107.151.203.111:2209/135/hk.php?id=tvbfct
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台
+mitv://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台(备)
+mitv://generationnexxxt.com:19806/64102e9100070888410a9eac61e8725a
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台(华丽台)
+mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
 #EXTINF:-1 group-title="⛵  港•澳•台",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",TVBS新闻台
