@@ -1228,11 +1228,3 @@ SiTV游戏风云,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 金山频道,http://live.mudu.tv/watch/4zbn2f.m3u8
-东方购物,http://117.156.28.21/PLTV/88888888/224/3221225612/index.m3u8
-劲爆体育,http://117.156.28.21/PLTV/88888888/224/3221225624/index.m3u8
-东方购物,http://117.156.28.21/PLTV/88888888/224/3221225626/index.m3u8
-东方购物,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226181/3.m3u8
-东方购物,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226182/3.m3u8
-东方购物,http://111.40.196.29/PLTV/88888888/224/3221225663/index.m3u8
-东方购物,http://111.40.196.30/PLTV/88888888/224/3221225759/index.m3u8
-东方购物,http://111.40.196.31/PLTV/88888888/224/3221225667/index.m3u8
