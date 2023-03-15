@@ -285,6 +285,7 @@ RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
 中天新闻,http://2023.stream-link.org/playlist/cti_news
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天新闻台,mitv://generationnexxxt.com:19806/3185d804c6c544c9995cc7f72a06290c
 中天综合HD,http://23.237.10.66:16372
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 寰宇新聞台,http://seb.sason.top/sc/hyxw.m3u8
@@ -306,6 +307,10 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 翡翠台,http://120.84.96.108:808/hls/25/index.m3u8
 翡翠台,http://120.84.96.28:808/hls/25/index.m3u8
 翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
+翡翠台,http://23.237.10.66:16106
+翡翠台,mitv://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b
+翡翠台(备),mitv://generationnexxxt.com:19806/64102e9100070888410a9eac61e8725a
+翡翠台(华丽台),mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
 无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
 无线新闻台,http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 无线新闻台,http://shazui.8866.org:800/hls/82/index.m3u8
