@@ -1599,8 +1599,6 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="🏂  体育赛事",精品体育
-http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 group-title="🏂  体育赛事",精品体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",精品体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
@@ -1612,8 +1610,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="🏂  体育赛事",五星体育
-http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",咪咕体育
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",南国都市
