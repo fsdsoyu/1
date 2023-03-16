@@ -70,24 +70,14 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 http://23.237.10.66:16410
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/台视" tvg-id="台视" tvg-name="台视",group-title="⛵  港•澳•台",台视
 http://23.237.10.66:16344
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/华视" tvg-id="华视" tvg-name="华视",group-title="⛵  港•澳•台",华视
-http://2023.stream-link.org/playlist/cts_zy
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视" tvg-id="民视" tvg-name="民视",group-title="⛵  港•澳•台",民视
 http://23.237.10.66:16334
-#EXTINF:-1 group-title="⛵  港•澳•台",中视新闻
-http://2023.stream-link.org/playlist/ctv_news
 #EXTINF:-1 group-title="⛵  港•澳•台",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",三立LIVE
 http://2023.stream-link.org/playlist/set_news
-#EXTINF:-1 group-title="⛵  港•澳•台",三立LIVE+
-http://2023.stream-link.org/playlist/set_news+
-#EXTINF:-1 group-title="⛵  港•澳•台",三立财经
-http://2023.stream-link.org/playlist/set_inews
-#EXTINF:-1 group-title="⛵  港•澳•台",东森财经
-http://2023.stream-link.org/playlist/ebc_finance
 #EXTINF:-1 group-title="⛵  港•澳•台",东森yoyo
 http://2023.stream-link.org/playlist/ebc_yoyo.flv
 #EXTINF:-1 group-title="⛵  港•澳•台",澳门莲花
@@ -177,41 +167,9 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",寰宇国际新闻
 http://2023.stream-link.org/playlist/global_news.flv
 #EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://2022.stream-link.org/playlist/cti_news
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
 https://epg.pw/stream/39d1bda5333c7c710aecd9df8bae36f84694014cbf55ab3bcd7b7e45f46fc0e6.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://158.101.151.82:9000/jmsytb.m3u8?c=05
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://tv.redrainl.site:9500/live.m3u8?c=03
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://158.101.151.82:9000/jmsytb.m3u8?c=5
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://2023.stream-link.org/playlist/cti_news
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://158.101.151.82:9000/jmsytb.m3u8?c=5
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://123.58.201.173:52411/test/lshotel.php?id=41
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://104.192.80.27:9500/live.m3u8?c=2
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://152.69.224.242:9500/jmsytb.m3u8?c=1
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-http://tv.redrainl.site:9500/live.m3u8?c=03
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-mitv://generationnexxxt.com:19806/3185d804c6c544c9995cc7f72a06290c
-#EXTINF:-1 group-title="⛵  港•澳•台",中天新闻
-P2p://ns2.hellotvvod.com:9906/d7b448374c7e40898a515421389f97d4.ts
 #EXTINF:-1 group-title="⛵  港•澳•台",中天综合HD
 http://23.237.10.66:16372
 #EXTINF:-1 group-title="⛵  港•澳•台",寰宇新闻台
@@ -256,8 +214,6 @@ http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
 http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台(备)
 mitv://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台",翡翠台(华丽台)
-mitv://generationnexxxt.com:19806/64102e9100070888410a9eac61e8725a
 #EXTINF:-1 group-title="⛵  港•澳•台",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="⛵  港•澳•台",TVBS新闻台
@@ -304,10 +260,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1,group-title="⛵  港•澳•台",TVBS HD
-http://2023.stream-link.org/playlist/tvbs
-#EXTINF:-1,group-title="⛵  港•澳•台",TVBS新闻
-http://2023.stream-link.org/playlist/tvbs_news
-#EXTINF:-1,group-title="⛵  港•澳•台",TVBS HD
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台",TVBS HD
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -335,12 +287,8 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1,group-title="⛵  港•澳•台",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1,group-title="⛵  港•澳•台",寰宇新闻台
-http://2023.stream-link.org/playlist/global_tw
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/寰宇新闻" tvg-id="寰宇新闻" tvg-name="寰宇新闻",group-title="⛵  港•澳•台",寰宇新闻
 http://2023.stream-link.org/playlist/global_tw.flv
-#EXTINF:-1,group-title="⛵  港•澳•台",东森LIVE
-http://2023.stream-link.org/playlist/ebc_news
 #EXTINF:-1,group-title="⛵  港•澳•台",中天综合
 http://107.151.203.111:2209/135/us50.php?id=ztz
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/有线新闻台" tvg-id="有线新闻台" tvg-name="有线新闻台",group-title="⛵  港•澳•台",有线新闻台
