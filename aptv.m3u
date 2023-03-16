@@ -729,6 +729,267 @@ http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东森亚洲卫视" tvg-id="东森亚洲卫视" tvg-name="东森亚洲卫视",group-title="⛵  港•澳•台（备）",CNA东森亚洲卫视
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBS
+https://epg.pw/stream/605b5c2498ac8e7f1c6838f60811266d9850a9731690fd770e240349c1214f13.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",TVBS新闻台
+http://2023.stream-link.org/playlist/tvbs_news.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",TVBS新闻台
+http://2023.stream-link.org/playlist/tvbs_news
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="https://epg.112114.xyz/logo/中天新闻台",中天新闻台
+http://2023.stream-link.org/playlist/cti_news.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="https://epg.112114.xyz/logo/中天综合台",中天综合台
+http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="https://epg.112114.xyz/logo/中天综合台",中天综合台
+http://2023.stream-link.org/playlist/cti_zh.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻台
+http://2023.stream-link.org/playlist/global_news.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻台
+http://2023.stream-link.org/playlist/global_tw.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/华视新闻.png",华视新闻
+http://2023.stream-link.org/playlist/cts_news.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
+http://2023.stream-link.org/playlist/ctv_news.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
+http://2023.stream-link.org/playlist/ctv_news
+#EXTINF:-1 group-title="⛵  港•澳•台-新",台视
+http://2023.stream-link.org/playlist/ttv.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻台
+http://2023.stream-link.org/playlist/ttv_news.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
+http://2023.stream-link.org/playlist/ftv_news.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",三立Live新闻+
+http://2023.stream-link.org/playlist/set_news+.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png",三立iNews
+http://2023.stream-link.org/playlist/set_inews.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETlive.png",三立Live
+http://2023.stream-link.org/playlist/set_news.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
+http://2023.stream-link.org/playlist/ebc_news.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
+http://2023.stream-link.org/playlist/ebc_news
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻
+http://2023.stream-link.org/playlist/ebc_finance.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EbcAsiaWeishi.png",东森亚洲卫视
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 group-title="⛵  港•澳•台-新",东森yoyo
+http://2023.stream-link.org/playlist/ebc_yoyo.flv
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO  Hits
+http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN Documentary
+https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
+#EXTINF:-1 group-title="⛵  港•澳•台-新",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台-新",翡翠台
+http://23.237.10.66:16410
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视" tvg-id="民视" tvg-name="民视",group-title="⛵  港•澳•台-新",民视
+http://23.237.10.66:16334
+#EXTINF:-1 group-title="⛵  港•澳•台-新",凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",大立
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港•澳•台-新",翡翠台
+http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",靖天国际台
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/靖天戏剧台" tvg-id="靖天戏剧台" tvg-name="靖天戏剧台",group-title="⛵  港•澳•台-新",靖天戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",靖天映画台
+http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",靖天娱乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/靖洋戏剧台" tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台",group-title="⛵  港•澳•台-新",靖洋戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/智林体育台" tvg-id="智林体育台" tvg-name="智林体育台",group-title="⛵  港•澳•台-新",智林体育台
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",中视菁采
+http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/亚洲新闻台" tvg-id="亚洲新闻台" tvg-name="亚洲新闻台",group-title="⛵  港•澳•台-新",亚洲新闻台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",AlJazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",BloombergTV+
+http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",GOODTV好医生
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",GOODTV刘三讲古
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",HBO
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",HITS
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",NBC news
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",TITV
+http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",财经体育资讯台
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",彩昌
+http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8?
+#EXTINF:-1 group-title="⛵  港•澳•台-新",澳门莲花
+http://epg.112114.xyz/lotus?
+#EXTINF:-1 group-title="⛵  港•澳•台-新",澳门莲花
+http://107.151.203.111:2209/135/hk.php?id=amlh
+#EXTINF:-1 group-title="⛵  港•澳•台-新",澳门莲花
+https://p.ggiptv.com/v/macaulotustv.php
+#EXTINF:-1 group-title="⛵  港•澳•台-新",澳门莲花
+http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96
+#EXTINF:-1 group-title="⛵  港•澳•台-新",澳门莲花
+http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=amlh
+#EXTINF:-1 group-title="⛵  港•澳•台-新",澳门卫视
+http://youguan.gq/4g.php?tid=gt&id=31&key=0f88a6016471b3caf108e206debc7f79
+#EXTINF:-1 group-title="⛵  港•澳•台-新",GinX
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",靖天欢乐
+http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",elta娱乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",trace
+http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 group-title="⛵  港•澳•台-新",arirang
+http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/卫视电影台" tvg-id="卫视电影台" tvg-name="卫视电影台",group-title="⛵  港•澳•台-新",卫视电影台
+http://107.148.31.53/liatv/lbtv222.php?t=kwzq1rse&c=63t80c5p&proxy=xziptv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",东森电影
+http://107.148.31.53/liatv/lbtv222.php?t=8c33fa9b&c=4a7c308f&proxy=xziptv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",纬来电影
+http://107.148.31.53/liatv/lbtv222.php?t=kwzq1rse&c=q9p24xqk&proxy=xziptv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",龙祥时代
+http://107.148.31.53/liatv/lbtv222.php?t=kwzq1rse&c=0xz20xk6&proxy=xziptv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",HBO HD
+http://107.148.31.53/liatv/lbtv222.php?t=kwzq1rse&c=84wnpj8g&proxy=xziptv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",东森洋片
+http://107.148.31.53/liatv/lbtv222.php?t=8c33fa9b&c=641f926f&proxy=xziptv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",AXN
+http://107.148.31.53/liatv/lbtv222.php?t=kwzq1rse&c=q1t3r233&proxy=xziptv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",好莱坞电影
+http://107.148.31.53/liatv/lbtv222.php?t=kwzq1rse&c=q0rskj6h&proxy=xziptv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",美亚电影台
+http://107.148.31.53/liatv/lbtv222.php?t=kwzq1rse&c=4vphhg1h&proxy=xziptv
+#EXTINF:-1 group-title="⛵  港•澳•台-新",星卫电影
+http://107.148.31.53/liatv/lbtv222.php?t=kwzq1rse&c=6s69fnjz&proxy=xziptv
+
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv044.jpg",靖天卡通台
+http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv045.jpg",靖洋戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv049.jpg",采昌影剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv053.jpg",GINX Esports TV
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv054.jpg",Nice TV 靖天欢乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv055.jpg",靖天映画
+http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv058.jpg",靖天戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv062.jpg",靖天育乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv063.jpg",KLT-靖天国际台
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv064.jpg",中视菁采台
+http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv070.jpg",爱尔达娱乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv077.jpg",TRACE Sport Stars
+http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv079.jpg",ARIRANG阿里郎频道
+http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live082.jpg",TRACE Urban
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv083.jpg",Mezzo Live HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv101.jpg",智林体育台
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv03.jpg",VOA美国之音
+http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv10.jpg",半岛国际新闻台
+http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv15.jpg",i-Fun动漫台
+http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv16.jpg",好消息
+http://www.336699.live:1935/blockfour/litv-ftv16.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn11.jpg",龙华日韩台
+http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live008.jpg",人间卫视
+http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live012.jpg",滚动力rollor
+http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live021.jpg",经典电影台
+http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live022.jpg",经典卡通台
+http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live023.jpg",影迷数位纪实台
+http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live024.jpg",精选动漫台
+http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live029.jpg",Lifetime 娱乐频道
+http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live030.jpg",LiveABC互动英语频道
+http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live047.jpg",东森购物一台
+http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live047.jpg",东森购物二台
+http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live060.jpg",SBN全球财经台
+http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live076.jpg",全民最大党
+http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live110.jpg",Pet Club TV
+http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live112.jpg",global Trekker
+http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live120.jpg",爱尔达生活旅游台
+http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live121.jpg",LUXE TV Channel
+http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live122.jpg",TV5MONDE STYLE HD 生活时尚
+http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live123.jpg",中天美食旅游
+http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live130.jpg",CNBC Asia 财经台
+http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🍏 4GTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live157.jpg",My Cinema Europe HD 我的欧洲电影
+http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",group-title="🍓  央卫综合",CCTV1
 http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",group-title="🍓  央卫综合",CCTV1
@@ -1395,6 +1656,147 @@ http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",高尔夫台
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",纬来体育台
+http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+#EXTINF:-1 group-title="🏂  体育赛事",ELEVEN SPORTS 1
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",ELEVEN SPORTS 1
+http://50.7.238.98:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+#EXTINF:-1 group-title="🏂  体育赛事",ELEVEN SPORTS 1
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+#EXTINF:-1 group-title="🏂  体育赛事",ELEVEN SPORTS 2 HD
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育1台
+http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育1台
+http://50.7.238.98:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+#EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育1台
+http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+#EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育2台
+http://50.7.238.98:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+#EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育2台
+http://50.7.238.98:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 group-title="🏂  体育赛事",博斯运动二台
+http://50.7.238.98:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+#EXTINF:-1 group-title="🏂  体育赛事",博斯运动二台
+http://50.7.238.98:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+#EXTINF:-1 group-title="🏂  体育赛事",博斯运动二台
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+#EXTINF:-1 group-title="🏂  体育赛事",博斯运动二台
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+#EXTINF:-1 group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.98:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#EXTINF:-1 group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.98:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.98:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#EXTINF:-1 group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球一台
+http://50.7.238.98:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球一台
+http://50.7.238.98:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球一台
+http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球一台
+http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球二台
+http://50.7.238.98:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球二台
+http://50.7.238.98:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球二台
+http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球二台
+http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1 group-title="🏂  体育赛事",博斯魅力
+http://50.7.238.98:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+#EXTINF:-1 group-title="🏂  体育赛事",博斯魅力
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+#EXTINF:-1 group-title="🏂  体育赛事",车迷TV
+http://210.210.155.35/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",五星体育
+http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",超级体育
+http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",曼联官方 MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",足球频道
+http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",足球频道
+https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/魅力足球" tvg-id="魅力足球" tvg-name="魅力足球",group-title="🏂  体育赛事",魅力足球
+http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",快乐垂钓
+http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",游戏风云
+http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",电竞天堂
+http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",GINX Esports TV
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",TRACE Sport
+http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",BT SPORT 1
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30989.ts
+#EXTINF:-1 group-title="🏂  体育赛事",BT SPORT 2
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30905.ts
+#EXTINF:-1 group-title="🏂  体育赛事",BT SPORT 3
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/31000.ts
+#EXTINF:-1 group-title="🏂  体育赛事",BT SPORT 4
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
+#EXTINF:-1 group-title="🏂  体育赛事",智林体育台HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",智林体育台HD
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",新视觉HD
+http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",新视觉HD
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",J Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",J Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",J Sports 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",J Sports 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="🏂  体育赛事",TNTSPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",TNTSPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",TNTSPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",TNTSPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",TNTSPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",EDGEsport
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",EDGEsport
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",欧洲体育台HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",FIGHT SPORTS1
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="🏂  体育赛事",FIGHT SPORTS1
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",FIGHT SPORTS2
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",WWE摔角
+http://50.7.238.98:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+
 #EXTINF:-1 group-title="📚  空中课堂",一年级
 http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="📚  空中课堂",二年级
