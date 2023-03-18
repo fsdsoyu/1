@@ -5321,6 +5321,124 @@ http://epg.112114.xyz/douyu/9817729
 #EXTINF:-1, group-title="🐠  斗鱼",斗鱼搞笑HD5
 http://epg.112114.xyz/douyu/8737695
 
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱喜剧
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱科幻
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱院线
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱浪漫
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱悬疑
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱经典
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱谍战
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱都市
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱家庭
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱青春
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱江湖
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱美食
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱娱乐
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000130630/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱时尚
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱历史
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱科学
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱军武
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱猎奇
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱解密
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱世界
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱玩具
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱电竞
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000230630/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱赛车
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱旅行
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱怀旧
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱奇谈
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱动漫
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱体育
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱探索
+http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱喜剧
+http://39.135.126.226:6610/000000001001/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱科幻
+http://39.135.126.226:6610/000000001001/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱院线
+http://39.135.126.226:6610/000000001001/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱浪漫
+http://39.135.126.226:6610/000000001001/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱悬疑
+http://39.135.126.226:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱经典
+http://39.135.126.226:6610/000000001001/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱谍战
+http://39.135.126.226:6610/000000001001/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱都市
+http://39.135.126.226:6610/000000001001/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱家庭
+http://39.135.126.226:6610/000000001001/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱青春
+http://39.135.126.226:6610/000000001001/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱江湖
+http://39.135.126.226:6610/000000001001/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱美食
+http://39.135.126.226:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱娱乐
+http://39.135.126.226:6610/000000001001/6000000006000130630/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱时尚
+http://39.135.126.226:6610/000000001001/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱历史
+http://39.135.126.226:6610/000000001001/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱科学
+http://39.135.126.226:6610/000000001001/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱军武
+http://39.135.126.226:6610/000000001001/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱猎奇
+http://39.135.126.226:6610/000000001001/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱解密
+http://39.135.126.226:6610/000000001001/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱世界
+http://39.135.126.226:6610/000000001001/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱玩具
+http://39.135.126.226:6610/000000001001/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱电竞
+http://39.135.126.226:6610/000000001001/6000000006000230630/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱赛车
+http://39.135.126.226:6610/000000001001/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱旅行
+http://39.135.126.226:6610/000000001001/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱怀旧
+http://39.135.126.226:6610/000000001001/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱奇谈
+http://39.135.126.226:6610/000000001001/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱动漫
+http://39.135.126.226:6610/000000001001/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱体育
+http://39.135.126.226:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
+#EXTINF:-1 group-title="♨️ iHOT(IPTV6)",爱探索
+http://39.135.126.226:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
+
+
 #EXTINF:-1, group-title="🎣  NewTV",NewTV东北热剧[1920*1080]
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
 #EXTINF:-1, group-title="🎣  NewTV",NewTV中国功夫[1920*1080]
