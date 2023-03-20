@@ -455,6 +455,25 @@ https://pull-l3-cny.douyincdn.com/live/214811e661771199f17c02b3b1ae320a.flv
 https://pull-l3-cny.douyincdn.com/live/7da38d54eb5d498ec329273f60769a4a.flv
 #EXTINF:-1,group-title="⛵  港澳台",中天新闻
 https://pull-l3-cny.douyincdn.com/live/1e3924ee6278ef45a46c459e932977f7.flv?time=1679281227
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 group-title="⛵  港澳台",星卫电影台
+https://pull-l3-cny.douyincdn.com/live/8cfb30d4a21bca914b76a9bc7828ae5b.flv
+#EXTINF:-1 group-title="⛵  港澳台",Hollywood
+https://pull-l3-cny.douyincdn.com/live/e1b84c30b3401dc296ff1645992a9114.flv
+#EXTINF:-1 group-title="⛵  港澳台",Discovery
+https://pull-l3-cny.douyincdn.com/live/97f2c3c258780c88532de6c0b8ee6e2b.flv
+#EXTINF:-1 group-title="⛵  港澳台",Discovery Asia
+https://pull-l3-cny.douyincdn.com/live/dec3031f06c045f41bb8a4b1597cada4.flv
+#EXTINF:-1 group-title="⛵  港澳台",Discovery DMAX
+https://pull-l3-cny.douyincdn.com/live/f108e8a6504fb963fab0c786edc1d9d5.flv
+#EXTINF:-1 group-title="⛵  港澳台",Discovery SCI
+https://pull-l3-cny.douyincdn.com/live/3a018debfddb7c9e1b57e214d2c9653d.flv
+#EXTINF:-1 group-title="⛵  港澳台",HBO family
+https://pull-l3-cny.douyincdn.com/live/92c763206ab1c925e6ae1d31f1764ad4.flv
+#EXTINF:-1 group-title="⛵  港澳台",HBO HiTS
+https://pull-l3-cny.douyincdn.com/live/389209468a1fb118e918d3d9c1324f27.flv
+#EXTINF:-1 group-title="⛵  港澳台",HBO Signature
+https://pull-l3-cny.douyincdn.com/live/9964789a005e850f40168cbee1c52300.flv
 
 #EXTINF:-1 group-title="⛵  港澳台",香港有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
