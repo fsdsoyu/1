@@ -821,23 +821,23 @@ CGTN,http://125.210.152.19:9120/live/hszx-cctvgj-h264.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-无线新闻台,https://pull-l3-cny.douyincdn.com/live/fb1a9d76295d3576d574d6767031e8e4.flv
-无线新闻台,https://pull-l3-cny.douyincdn.com/live/6c2db8a77ef1ff8dc34af65941834192.flv?time=1679273559
+无线新闻台,https://pull-l3-cny.douyincdn.com/live/a89f8049d878b0d1f1d20c6899b88357.flv
+无线新闻台,https://pull-l3-cny.douyincdn.com/live/d6006cc90f90b4003bb1ecb62e3c91ce.flv?time=1679280274
 无线新闻台,http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 无线新闻台,http://shazui.8866.org:800/hls/82/index.m3u8
 无线新闻台,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
-翡翠台,https://pull-l3-cny.douyincdn.com/live/0e88bda668be13213f8d238409aae426.flv
-翡翠台,https://pull-l3-cny.douyincdn.com/live/4ca5e1a9d7c0dc7c35276fb16734eda7.flv?time=1679273123
-翡翠台(广东版),
-美亚电影台,https://pull-l3-cny.douyincdn.com/live/3a057af58b21afeb86573d6a4212dbdb.flv
-明珠台,https://pull-l3-cny.douyincdn.com/live/a991b4d8b55c59e905283e0ac39e37d3.flv
-明珠台,https://pull-l3-cny.douyincdn.com/live/c2bd1d951a6026ba59c5f357d08efcd4.flv?time=1679273100
-NOW爆谷星影台,https://upos-hz-mirrorakam.akamaized.net/upgcxcode/63/30/127483063/127483063-1-208.mp4?e=ig8euxZM2rNcNbRHnWdVhwdlhWeHhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1679281152&gen=playurlv2&os=akam&oi=3054532322&trid=4d24ced55e2f497aaa7279603ef70dc3u&mid=0&platform=pc&upsig=0e2fae29cf5aa5be03cceb87edd74e75&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1679281152~hmac=e204c63a0eddbd3a24e31571347896273d7b834da27d5c2dc9a3c265e6e7373f&bvc=vod&nettype=0&orderid=1,2&buvid=&build=0&agrr=0&bw=203787&logo=40000000
-NOW SPORTS PRIME,https://pull-l3-cny.douyincdn.com/live/3478f5e7a10a2d54fc3aaf1d032a3e2a.flv
-tvb星河国语,https://pull-l3-cny.douyincdn.com/live/9a8ffddfaa7d5bb512d06d1bd0d564bf.flv
-中天新闻,https://pull-l3-cny.douyincdn.com/live/5e5f83f8fb07b3c610a6f1d5ada2557b.flv
-中天新闻,https://pull-l3-cny.douyincdn.com/live/ace8a35c26f396bba2c8ba34b4df48ea.flv?time=1679271533
+翡翠台,https://pull-l3-cny.douyincdn.com/live/74547980dad7023a97d8d869affa9019.flv
+翡翠台,https://pull-l3-cny.douyincdn.com/live/e94d6cec70fbc811865a821e4137c02f.flv?time=1679280510
+翡翠台(广东版),http://gslb.gcable.cn:8070/live/xgfeicui_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=rGMW3in9bqzp3WfWGVRhkw==&r=20230320105538&e=20230321105543&nc=2zY2llBOTt0a&a=7&v=2
+美亚电影台,https://pull-l3-cny.douyincdn.com/live/7c029bb67e6fbe88b26e9d3f4a682776.flv
+明珠台,https://pull-l3-cny.douyincdn.com/live/a7e05b6bf5999e2a3a9aec2fcb67b37e.flv
+明珠台,https://pull-l3-cny.douyincdn.com/live/cbe52608aedc189384e16577a7bfb0f4.flv?time=1679281042
+NOW爆谷星影台,https://upos-hz-mirrorakam.akamaized.net/upgcxcode/63/30/127483063/127483063-1-208.mp4?e=ig8euxZM2rNcNbRHnWdVhwdlhWeHhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1679288321&gen=playurlv2&os=akam&oi=3054532322&trid=9129ac0bdeab4026b0cb269e16bd649au&mid=0&platform=pc&upsig=1625307dddc79c57c7461f7970561f8a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1679288321~hmac=98c2bff19c7aa94fed26e83ffa89766cfdd6a7495952f9abf3464efbda88348f&bvc=vod&nettype=0&orderid=1,2&buvid=&build=0&agrr=1&bw=203787&logo=40000000
+NOW SPORTS PRIME,https://pull-l3-cny.douyincdn.com/live/02980118abd8bbe30b75679819879934.flv
+tvb星河国语,https://pull-l3-cny.douyincdn.com/live/214811e661771199f17c02b3b1ae320a.flv
+中天新闻,https://pull-l3-cny.douyincdn.com/live/7da38d54eb5d498ec329273f60769a4a.flv
+中天新闻,https://pull-l3-cny.douyincdn.com/live/1e3924ee6278ef45a46c459e932977f7.flv?time=1679281227
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港文旅,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
