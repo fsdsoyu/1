@@ -435,6 +435,12 @@ http://shazui.8866.org:800/hls/82/index.m3u8
 http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
 http://radius.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
+http://radius.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
+http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
+http://shazui.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
 https://pull-l3-cny.douyincdn.com/live/0e88bda668be13213f8d238409aae426.flv
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
@@ -451,16 +457,10 @@ https://pull-l3-cny.douyincdn.com/live/3478f5e7a10a2d54fc3aaf1d032a3e2a.flv
 https://pull-l3-cny.douyincdn.com/live/9a8ffddfaa7d5bb512d06d1bd0d564bf.flv
 #EXTINF:-1,group-title="⛵  港澳台",中天新闻
 https://pull-l3-cny.douyincdn.com/live/5e5f83f8fb07b3c610a6f1d5ada2557b.flv
-#EXTINF:-1,group-title="⛵  港澳台",中天新闻
-https://pull-l3-cny.douyincdn.com/live/ace8a35c26f396bba2c8ba34b4df48ea.flv?time=1679271533
+#EXTINF:-1 group-title="⛵  港澳台-新" tvg-logo="https://epg.112114.xyz/logo/中天新闻台",中天新闻台
+http://2023.stream-link.org/playlist/cti_news.flv
 #EXTINF:-1 group-title="⛵  港澳台",香港有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
-http://radius.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
-http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
-http://shazui.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",凤凰中文
@@ -611,10 +611,6 @@ https://ytm2.yuanhsing.cf/FTVCP.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",寰宇国际新闻
 http://2023.stream-link.org/playlist/global_news.flv
-#EXTINF:-1 group-title="⛵  港澳台",中天新闻
-http://2023.stream-link.org/playlist/cti_news.flv
-#EXTINF:-1 group-title="⛵  港澳台",中天新闻
-https://epg.pw/stream/39d1bda5333c7c710aecd9df8bae36f84694014cbf55ab3bcd7b7e45f46fc0e6.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",中天综合HD
