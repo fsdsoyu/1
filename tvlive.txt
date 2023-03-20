@@ -96,24 +96,6 @@ CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122601
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV1,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV2,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-CCTV3,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-CCTV4,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-CCTV5,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-CCTV5+,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-CCTV6,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-CCTV7,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV8,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-CCTV9,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-CCTV10,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-CCTV11,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-CCTV12,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-CCTV13,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-CCTV14,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-CCTV15,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-CCTV16,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-CCTV17,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
@@ -152,7 +134,6 @@ CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV17,http://39.184.224.99:9080/newlive/live/hls/17/live.m3u8
-CCTV17,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
 
 CCTV12,http://117.40.212.162:8888/newlive/live/hls/14/live.m3u8
 CCTV14,http://117.40.212.162:8888/newlive/live/hls/16/live.m3u8
@@ -788,6 +769,10 @@ CGTN,http://125.210.152.19:9120/live/hszx-cctvgj-h264.m3u8
 
 ⛵  港澳台,#genre#
 香港有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+无线新闻台,http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
+无线新闻台,http://shazui.8866.org:800/hls/82/index.m3u8
+无线新闻台,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
@@ -1046,8 +1031,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 TVB财经,https://j3.lhlh.app/mv.m3u8
 无线财经资讯台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 无线财经资讯台,http://radius.8866.org:800/hls/83/index.m3u8
-无线新闻台,https://cdn.hklive.tv/xxxx/83/index.m3u8
-无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
@@ -1163,7 +1146,6 @@ MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-无线新闻,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
 纬来体育,http://123.51.230.108:18509/playlist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
@@ -1273,7 +1255,6 @@ BHTV,http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 GunmaTV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 经典港片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key
-无线新闻,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
 
 ⛵  港澳台-新,#genre#
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
@@ -1570,8 +1551,6 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 TVB财经,https://j3.lhlh.app/mv.m3u8
 无线财经资讯台,http://120.84.96.82:808/hls/86/index.m3u8
 无线财经资讯台,http://radius.8866.org:800/hls/83/index.m3u8
-无线新闻台,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
 J2,http://50.7.238.98:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 J2,http://50.7.238.98:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://120.84.96.82:808/hls/86/index.m3u8?blog.ntnas.top
