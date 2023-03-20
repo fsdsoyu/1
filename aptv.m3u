@@ -422,6 +422,160 @@ https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/魅力足球" tvg-id="魅力足球" tvg-name="魅力足球",group-title="💦  百事TV高清",魅力足球
 https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV高清院线高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000009/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV高清院线高清
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV古装剧场高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000010/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV古装剧场高清
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV故事频道高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000071000000305570/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV家庭剧场高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000011/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV家庭剧场高清
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV经典剧场高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000012/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV经典剧场高清
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV抗战剧场高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000007/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV抗战剧场高清
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果好看高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001026000000099174/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果互娱高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000034000000343501/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果互娱高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001025000000196970/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果乐活高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001008000000154081/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果乐活高清
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000154081/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果热播高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001008000000292438/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果热播高清
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果热剧高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001026000000099232/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV戏剧频道高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000071000000305564/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV健康之道高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000071000000305574/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV金色夕阳高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001025000000196971/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV金色夕阳高清
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000034000000343502/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV金色夕阳高清
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196971/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🚄  IPTV6高清",芒果华语电影高清
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚄  IPTV6高清",芒果TV独播高清
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚄  IPTV6高清",芒果欧美电影高清
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚄  IPTV6高清",芒果精彩推荐高清
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚄  IPTV6高清",生活时尚高清
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV高清院线
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000009/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV古装剧场
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000010/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV故事频道
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000071000000305570/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV家庭剧场
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000011/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV健康之道
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000071000000305574/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV金色夕阳
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000034000000343502/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV金色夕阳
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001025000000196971/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV经典剧场
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000012/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV抗战剧场
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001002000000000007/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果好看
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001026000000099174/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果互娱
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000034000000343501/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果互娱
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001025000000196970/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果乐活
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001008000000154081/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果热播
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001008000000292438/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV芒果热剧
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000001026000000099232/index.m3u8
+#EXTINF:-1 group-title="🚄  IPTV6高清",IPTV戏剧频道
+http://[2409:8087:5000:21::1016]:8089/180000001001/00000001000000000071000000305564/index.m3u8
+
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",欢笑剧场4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",欢笑剧场4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",爱上4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",爱上4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",纯享4K
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",纯享4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",河南4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",河南4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV3 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV5 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV6 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV8 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV 8K
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",芒果综艺4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV-4K
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV-4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV16-4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV16-4K
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV-4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV-4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",CCTV16-4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",纯享高清
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",纯享高清
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",纯享高清
+http://117.169.121.162:6610/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",纯享高清
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",纯享高清
+http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",纯享高清
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",欢笑剧场
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",欢笑剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="🚅  4K-IPTV6频道",欢笑剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
 http://shazui.8866.org:800/hls/82/index.m3u8
