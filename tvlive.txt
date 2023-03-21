@@ -7645,7 +7645,7 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 涿州生活频道,http://121.18.115.162:8082/live/ch4.m3u8
 涿州新闻频道,http://121.18.115.162:8082/live/ch3.m3u8
 
-🥨🥐  天津频道,#genre#
+🥨  天津频道,#genre#
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
 滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
 滨海影院,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
