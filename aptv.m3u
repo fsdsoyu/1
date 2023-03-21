@@ -629,6 +629,14 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="🫓 4K-16M-IPTV6",黑龙江卫视-16M
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电
+http://nas.jdshipin.com:8801/gdfc.php
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电低清
+http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港澳台",明珠台高清
+http://nas.jdshipin.com:8801/gdmz.php
+#EXTINF:-1,group-title="⛵  港澳台",电影台
+https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
 http://iptv.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
@@ -5686,6 +5694,66 @@ http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/七彩戏剧" tvg-id="七彩戏剧" tvg-name="七彩戏剧",group-title="🌳 上海频道",七彩戏剧
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+
+#EXTINF:-1 group-title="🌺  广东频道",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",翡翠台广电
+http://nas.jdshipin.com:8801/gdfc.php
+#EXTINF:-1 group-title="🌺  广东频道",翡翠台广电低清
+http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="🌺  广东频道",明珠台高清
+http://nas.jdshipin.com:8801/gdmz.php
+#EXTINF:-1 group-title="🌺  广东频道",电影台
+https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",珠江台
+http://qwas.eatuo.com:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",珠江台2
+http://fxhack.f3322.org:8000/udp/239.77.0.01:5146
+#EXTINF:-1 group-title="🌺  广东频道",广东体育
+http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",河源综合
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
+#EXTINF:-1 group-title="🌺  广东频道",清新综合
+http://hls.wiseqx.com/live/qxzh.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",清新公共
+http://hls.wiseqx.com/live/qxgg.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",阳江1
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",深圳东部
+https://lglivepull.sznews.com/live/2646.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",惠州新闻
+https://stream.hztvmg.com/channel1/playlist.m3u8?_upt=1177504f1671696825
+#EXTINF:-1 group-title="🌺  广东频道",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+#EXTINF:-1 group-title="🌺  广东频道",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+#EXTINF:-1 group-title="🌺  广东频道",广东点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",云浮综合
+https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfzh.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",云浮公共
+https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",阳江综合
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",阳江公共
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",生活HD
+http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",梅州综合
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",梅州二套
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",河源新闻综合
+http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151
+#EXTINF:-1 group-title="🌺  广东频道",河源公共频道
+http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199
+#EXTINF:-1 group-title="🌺  广东频道",清新综合
+http://hls.wiseqx.com/live/qxzh.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",清新公共
+http://hls.wiseqx.com/live/qxgg.m3u8
+
 
 #EXTINF:-1,group-title="🎮 游戏直播",斗鱼_LOL直播1
 http://hw-tct.douyucdn.cn/live/288016rlols5.flv
