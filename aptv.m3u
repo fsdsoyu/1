@@ -577,8 +577,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.m
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
+http://iptv.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
 http://shazui.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
+http://09.xinda.fit/news.php?=0qh
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
 http://radius.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
@@ -587,6 +592,10 @@ http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=1922
 http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
+http://162.19.247.76:22222/live/tvbfc/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
+https://live.astradamy.com/tvbfc/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
 http://shazui.8866.org:800/hls/80/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
