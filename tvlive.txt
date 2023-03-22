@@ -8242,25 +8242,6 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 dj2,https://txmov2.a.kwimgs.com/upic/2022/02/26/21/BMjAyMjAyMjYyMTA0NDNfNDgxMDc1MjAyXzY4NDc2OTQ2ODIwXzJfMw==_b_B8bea180e522f50e798de6592a286c2ae.mp4?tag=1-1648474056-std-1-c9f21uqlgl-48edc39d5ad20196&clientCacheKey=3xjfhmwkpupp5si_b.mp4&tt=b&di=529d11df&bp=12681
 
 ⚽  境外体育风景类_99,#genre#
-SEEYOU•1🇮🇩,https://beetv.my.id/x/usee-useesport-masihsama.m3u8
-SPOTV>•1🇮🇩,https://beetv.my.id/x/usee-spotv-masihsama.m3u8
-SPOTV>•2🇮🇩,https://beetv.my.id/x/usee-spotv2-masihsama.m3u8
-BIEN>SUKAN•1🇮🇩,https://beetv.my.id/x/usee-bein1-masihsama.m3u8
-BIEN>SUKAN•3🇮🇩,https://beetv.my.id/x/usee-bein2-masihsama.m3u8
-JUARA>TV•1🇮🇩,https://beetv.my.id/x/vidio-championstv1-masihsama.m3u8
-JUARA>TV•2🇮🇩,https://beetv.my.id/x/vidio-championstv2-masihsama.m3u8
-usee>>1🇮🇩,https://bit.ly/useesport-shareext-ts
-usee>>2🇮🇩,https://bit.ly/useesport2-shareext-ts
-SCTV_se🇮🇩,https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
-sctv_vid🇮🇩,http://mpwtv.my.id/vidioye/204-sctv.m3u8
-Indosiar_play🇮🇩,http://103.167.167.5:8111/play/a00r/index.m3u8
-INDOSIAR_se_🇮🇩,https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/205.m3u8
-indosiar_vid🇮🇩,http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-MOOJI_se🇮🇩,https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
-TransTv🇮🇩,http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/56833.ts
-Trans7🇮🇩,http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/72876.ts
-⚽Champion•1🇮🇩,http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
-⚽Champion•2🇮🇩,http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
 ⚽TVRI•SPORTS🇮🇩,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 TVN•SPORTS_🇰🇷,https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 SPOTV_🇰🇷,https://cdn-us-154.cloudrsst.com/live/spotv_540/playlist.m3u8
@@ -8268,33 +8249,16 @@ SPOTV_2_🇰🇷,https://cdn-us-154.cloudrsst.com/live/spotv_2_540/playlist.m3u8
 SPOTV_ON_🇰🇷,https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8
 SPOTV_PRIME_🇰🇷,https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
 true3._rolling🇹🇭,http://4digital.ddns.net:11224/ts/0
-RTB_SUKMA.INDERA🇧🇳,https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
-RTB_ANEKA🇧🇳,https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
 SETANTA_1™,http://31.146.176.94:80/setanta1/index.m3u8
 SETANTA_2™,http://31.146.176.94:80/setanta2/index.m3u8
 BeinPremium_1_arb,http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 BeinPremium_2_arb,http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 BeinPremium_3_arb,http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 MUtv,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-Astro_arena,http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
-ASSP.1,http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
-SUPERSPORTS_2,http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52860.ts
-SUPERSPORTS_3,http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52861.ts
-ASSP.4,http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
 Eleven_2_taiwan,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 TVRI_SPORTS.,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-sportstv,http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 StrongmanChampionLeague,https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 WWE.network,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-Egg,http://210.210.155.35/session/3dc625d6-e3ba-11ec-aead-b82a72d63267/uq2663/h/h22/02.m3u8
-Beaches Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-Mountains Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-Rivers Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-Tropics Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-Lakes Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-Forests Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-Sunsets Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-Aurora Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 Nature,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 Bisnet Lifestyle,http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 Bisnet Adventure 4K,http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -8308,224 +8272,30 @@ MMA_TV,https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 Boxing_Tv,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/8d205a30-d00f-457d-978b-265b290eb7e0/0.m3u8
 Hard_knock,https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/52e53bec-21f1-4caf-86ce-a502b6cc8520.m3u8
 UFC,https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
-JUARA_1™,https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
-JUARA_2™,https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
-SUKAN_terbaik_1™,http://103.167.167.5:8111/play/a01p/index.m3u8
-SUKAN_terbaik_2™,http://103.167.167.5:8111/play/a01q/index.m3u8
-™SOCCER•CHANNEL,http://103.167.167.5:8111/play/a00i/index.m3u8
-™SPOTV®1,http://103.167.167.5:8111/play/a020/index.m3u8
-™SPOTV®2,http://103.167.167.5:8111/play/a010/index.m3u8
-™TVRI®SPORTS,http://103.167.167.5:8111/play/a01x/index.m3u8
-™BEIN®1,http://103.167.167.5:8111/play/a02m/index.m3u8
-™BEIN®3,http://103.167.167.5:8111/play/a02n/index.m3u8
-RCTI©,http://103.167.167.5:8111/play/a01c/index.m3u8
-SCTV©,http://103.167.167.5:8111/play/a00o/index.m3u8
-SCTV©BACKUP,http://103.167.167.5:8111/play/a048/index.m3u8
-GTV©,http://103.167.167.5:8111/play/a014/index.m3u8
-MNC TV©,http://103.167.167.5:8111/play/a011/index.m3u8
-TVRI Kanal 3©,http://103.167.167.5:8111/play/a01w/index.m3u8
-TVRI Nasional©,http://103.167.167.5:8111/play/a01v/index.m3u8
-MTV©,http://103.167.167.5:8111/play/a00q/index.m3u8
-MTV ASIA©,http://103.167.167.5:8111/play/a018/index.m3u8
-NATGEO WILD©,http://103.167.167.5:8111/play/a01d/index.m3u8
-NGC©,http://103.167.167.5:8111/play/a036/index.m3u8
-INHOUSE-JBV2©,http://103.167.167.5:8111/play/a006/index.m3u8
 INHOUSE-JBV3©,http://103.167.167.5:8111/play/a007/index.m3u8
 INHOUSE-JBV4©,http://103.167.167.5:8111/play/a008/index.m3u8
-LEGO©,http://103.167.167.5:8111/play/a03c/index.m3u8
-MAGNA CHANNEL©,http://103.167.167.5:8111/play/a00a/index.m3u8
-METRO TV HD©,http://103.167.167.5:8111/play/a00c/index.m3u8
-CNN INDONESIA©,http://103.167.167.5:8111/play/a02q/index.m3u8
 NET©,http://103.167.167.5:8111/play/a041/index.m3u8
-DAAI TSU ZHI©,http://103.167.167.5:8111/play/a01s/index.m3u8
-DISCOVERY©,http://103.167.167.5:8111/play/a03w/index.m3u8
-FASHION TV©,http://103.167.167.5:8111/play/a03d/index.m3u8
-BLOOMBERG©,http://103.167.167.5:8111/play/a01t/index.m3u8
-BN TV©,http://103.167.167.5:8111/play/a00b/index.m3u8
-Indo_Music,https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w1994879223_b894100_sleng.m3u8
-TRANStv_dt,https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-TRANS7_dt,https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-BOO🇲🇾,https://ezstat.ru/boo-shareext
-myTime•movies,https://mytime-tcl.amagi.tv/playlist.m3u8
-HAARI™DRAMA,http://103.167.167.5:8111/play/a01z/index.m3u8
-HAARI™KIDS,http://103.167.167.5:8111/play/a00g/index.m3u8
-HAARI™MOVIES,http://103.167.167.5:8111/play/a00h/index.m3u8
-ANIPLUS™,http://103.167.167.5:8111/play/a033/index.m3u8
 TVN™,http://103.167.167.5:8111/play/a02u/index.m3u8
-KBS-WORLD™,http://103.167.167.5:8111/play/a03a/index.m3u8
-KIX™,http://103.167.167.5:8111/play/a00p/index.m3u8
-MY™CINEMA,http://103.167.167.5:8111/play/a01h/index.m3u8
-MY™CINEMA™ASIA,http://103.167.167.5:8111/play/a01g/index.m3u8
-MY™FAMILY,http://103.167.167.5:8111/play/a00k/index.m3u8
-NICK™,http://103.167.167.5:8111/play/a00e/index.m3u8
 NICK™JR,http://103.167.167.5:8111/play/a00f/index.m3u8
-ROCK™ENTERTAINMENT,http://103.167.167.5:8111/play/a01e/index.m3u8
-ROCK™EXTREME,http://103.167.167.5:8111/play/a00m/index.m3u8
-SONY™GEM,http://103.167.167.5:8111/play/a00z/index.m3u8
-SONY™ONE,http://103.167.167.5:8111/play/a00u/index.m3u8
-THRILL™,http://103.167.167.5:8111/play/a01l/index.m3u8
-WB™,http://103.167.167.5:8111/play/a017/index.m3u8
-ZEE™BIOSKOP,http://103.167.167.5:8111/play/a01a/index.m3u8
-happy kids junior,http://103.167.167.5:8111/play/a03b/index.m3u8
-AXN™,http://103.167.167.5:8111/play/a019/index.m3u8
-CARTOON™NETWORK,http://103.167.167.5:8111/play/a00x/index.m3u8
-CELESTIAL™CLASSIC™MOVIES,http://103.167.167.5:8111/play/a01r/index.m3u8
-CELESTIAL™MOVIES,http://103.167.167.5:8111/play/a00t/index.m3u8
-CINEMA™WORld,http://103.167.167.5:8111/play/a01f/index.m3u8
 CN™,http://103.167.167.5:8111/play/a03g/index.m3u8
-GALAXY™,http://103.167.167.5:8111/play/a00j/index.m3u8
-GALAXY™PREMIUM,http://103.167.167.5:8111/play/a00s/index.m3u8
-Moviesphere Free,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-Family Flix,https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-Movies Hub,https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 RedBox Spotlight,https://spotlight-redbox.amagi.tv:443/playlist240p.m3u8
-RedBox Comedy,https://comedy-redbox.amagi.tv:443/playlist1080p.m3u8
-Gravitas_Movies,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 Rakuten Action Movies,https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 BEST.TV🇲🇾,https://bp-caster.bestv.com.cn/954/3/video.m3u8
-Media.Corp,http://103.167.167.5:8111/play/a00y/index.m3u8
-CHANNEL™8,http://103.167.167.5:8111/play/a016/index.m3u8
-ZHEJIANG,http://103.167.167.5:8111/play/a01n/index.m3u8
-SET™INT,http://103.167.167.5:8111/play/a013/index.m3u8
 SET™TV,http://103.167.167.5:8111/play/a012/index.m3u8
-MING™XE,http://103.167.167.5:8111/play/a00w/index.m3u8
-FJTV™,http://103.167.167.5:8111/play/a005/index.m3u8
-CETV1™,http://103.167.167.5:8111/play/a002/index.m3u8
 Alfa•Sports™,https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 Arena•sport•1🇭🇷,http://93.155.227.38:555/m3u8/arenasport1.m3u8
 Arena•sport•2🇭🇷,http://93.155.227.38:555/m3u8/arenasport2.m3u8
 Arena•sport•3🇭🇷,http://93.155.227.38:555/m3u8/arenasport3.m3u8
 Arena•sport•4🇭🇷,http://93.155.227.38:555/m3u8/arenasport4.m3u8
 Arena•sport•5🇭🇷,http://93.155.227.38:555/m3u8/arenasport5.m3u8
-Digi•Sport 1⚽,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46984.ts
-Digi•Sport 2⚽,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46983.ts
-Digi•Sport 3⚽,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46982.ts
-Digi•Sport 4⚽,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46981.ts
-SPORTTV 1⚽ FullHD,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/280.ts
-SPORTTV 2⚽ FullHD,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/281.ts
-FR_BeIN_SPORTS_1_HD⚽,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3682.ts
-FR_BeIN_SPORTS_2_HD⚽,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/47302.ts
-FR_BeIN_SPORTS_3_HD⚽,http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3680.ts
 J•SPORTS•1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J•SPORTS•2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J•SPORTS•3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 Setanta•Sport•3,http://31.146.176.94:80/setanta3/index.m3u8
 Estv•Sport,https://estv-rakuten.amagi.tv/playlist_1080p.m3u8
-Tennis•Chanall,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-T.Sports•indie,https://live.tsports.com/live/tsports_live_720/index.m3u8
-SR:ARENA•SPORT 1 HD,http://987161222318243934.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/243934.ts
-SR:ARENA•SPORT 2 FHD,http://987161222318243935.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/243935.ts
-SR:ARENA•SPORT 3 HD,http://987161222318243936.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/243936.ts
-SR:ARENA•SPORT 4 FHD,http://987161222318243937.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/243937.ts
-SR:ARENA•SPORT 5 FHD,http://987161222318243938.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/243938.ts
-SR:ARENA•SPORT 6 FHD,http://987161222318243939.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/243939.ts
-SR:ARENA•SPORT 7 FHD,http://987161222318290216.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/290216.ts
-SR:ARENA•SPORT 8 FHD,http://987161222318290217.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/290217.ts
-SR:ARENA•SPORT 9 FHD,http://987161222318290218.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/290218.ts
-SR:ARENA•PREMIUM 1 FHD,http://987161222318287152.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/287152.ts
-SR:ARENA•PREMIUM 2 FHD,http://987161222318287153.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/287153.ts
-SR:ARENA•PREMIUM 3 FHD,http://987161222318323039.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/323039.ts
-SR:NOVA•SPORT HD,http://987161222318244013.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/244013.ts
-SR:SPORT•KLUB HD,http://987161222318244142.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/244142.ts
-SR:SPORT•KLUB 1 HD,http://987161222318244136.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/244136.ts
-SR:SPORT•KLUB 2 HD,http://987161222318244137.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/244137.ts
-SR:SPORT•KLUB 3 HD,http://987161222318276568.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/276568.ts
-SR:SPORT•KLUB 4 FHD,http://987161222318244139.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/244139.ts
-SR:SPORT•KLUB 5 FHD,http://987161222318274656.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/274656.ts
-SR:SPORT•KLUB 6 FHD,http://987161222318244141.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/244141.ts
-ZA:SUPERSPORT•ACTION,http://987161222318333690.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333690.ts
-ZA:SUPERSPORT•BLITZ,http://987161222318333691.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333691.ts
-ZA:SUPERSPORT•CRICKET,http://987161222318333692.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333692.ts
-ZA:SUPERSPORT•FOOTBALL,http://987161222318333693.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333693.ts
-ZA:SUPERSPORT•GRANDSTAND HD,http://987161222318333694.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333694.ts
-ZA:SUPERSPORT•LALIGA,http://987161222318333695.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333695.ts
-ZA√SUPERSPORT•MAXIMO 1,http://987161222318333696.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333696.ts
-ZA:SUPERSPORT•MOTORSPORT FHD,http://987161222318333697.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333697.ts
-ZA:SUPERSPORT•PREMIER•LEAGUE HD,http://987161222318333698.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333698.ts
-ZA:SUPERSPORT•PSL,http://987161222318333699.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333699.ts
-ZA:SUPERSPORT•RUGBY,http://987161222318333700.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333700.ts
-ZA:SUPERSPORT•TENNIS,http://987161222318333701.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333701.ts
-ZA:SUPERSPORT•VARIETY 1 HD,http://987161222318333702.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333702.ts
-ZA:SUPERSPORT•VARIETY 2 HD,http://987161222318333703.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333703.ts
-ZA:SUPERSPORT•VARIETY 3 HD,http://987161222318333704.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333704.ts
-ZA:SUPERSPORT•VARIETY 4 HD,http://987161222318333705.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333705.ts
-BEINsports•premier 1,http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
 Beinsports•premier 2,http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
 Beinsports•premier 3,http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=1673204766768
 BEINsports•extra,https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
-Saudi•1,http://62.182.82.104/Saudi_1/index.m3u8?token=test&v=1673204766768
-Saudi•2,http://62.182.82.104/Saudi_2/index.m3u8?token=test&v=1673204766768
-NUBAR SPORT HD,http://onntv.online:25461/live/30A612037A90/8754467/82.ts
-SEE SPORTS 3,http://onntv.online:25461/live/30A612037A90/8754467/53.ts
-DUHOK SPORTS HD,http://onntv.online:25461/live/30A612037A90/8754467/69.ts
-DASINYA SOPRTS HD,http://onntv.online:25461/live/30A612037A90/8754467/35.ts
-ASTERA SPORT HD,http://onntv.online:25461/live/30A612037A90/8754467/100.ts
-NEWLINE SPORTS HD,http://onntv.online:25461/live/30A612037A90/8754467/97.ts
-KURDISTAN SPORT HD,http://onntv.online:25461/live/30A612037A90/8754467/15651.ts
-ASO SPORTS HD,http://onntv.online:25461/live/30A612037A90/8754467/15652.ts
-IRAQIYA SPORTS HD,http://onntv.online:25461/live/30A612037A90/8754467/15524.ts
-beIN Sports News,http://onntv.online:25461/live/30A612037A90/8754467/180.ts
-beIN Sports Premium 1 FHD,http://onntv.online:25461/live/30A612037A90/8754467/168.ts
-beIN Sports Premium 2 FHD,http://onntv.online:25461/live/30A612037A90/8754467/169.ts
-BeIN Sports Premium 3 FHD,http://onntv.online:25461/live/30A612037A90/8754467/170.ts
-BeIN Sports 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/171.ts
-BeIN Sports 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/172.ts
-BeIN Sports 3 HD,http://onntv.online:25461/live/30A612037A90/8754467/173.ts
-BeIN Sports 4 HD,http://onntv.online:25461/live/30A612037A90/8754467/174.ts
-BeIN Sports 5 HD,http://onntv.online:25461/live/30A612037A90/8754467/175.ts
-BeIN Sports 6 HD,http://onntv.online:25461/live/30A612037A90/8754467/176.ts
-BeIN Sports 7 HD,http://onntv.online:25461/live/30A612037A90/8754467/177.ts
-BeIN Sports English 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/181.ts
-BeIN Sports English 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/182.ts
-beIN Sports French 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/188.ts
-BeIN Sports French 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/189.ts
-BeIN Sports French 3 HD,http://onntv.online:25461/live/30A612037A90/8754467/190.ts
-SP SPORTS HD,http://onntv.online:25461/live/30A612037A90/8754467/15329.ts
-BeIN Sports TR 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/186.ts
-BeIN Sports TR 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/183.ts
-BeIN Sports TR 3 HD,http://onntv.online:25461/live/30A612037A90/8754467/184.ts
-Abu Dhabi Sports Premium 1,http://onntv.online:25461/live/30A612037A90/8754467/210.ts
-Abu Dhabi Sports 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/201.ts
-Abu Dhabi Sports 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/202.ts
-Abu Dhabi Sports 3 HD,http://onntv.online:25461/live/30A612037A90/8754467/203.ts
-Abu Dhabi Sports 4 HD,http://onntv.online:25461/live/30A612037A90/8754467/204.ts
-SSC Sports 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/194.ts
-SSC Sports 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/195.ts
-SSC Sports 3 HD,http://onntv.online:25461/live/30A612037A90/8754467/196.ts
-SSC Sports 4 HD,http://onntv.online:25461/live/30A612037A90/8754467/197.ts
-SSC Sports 5 HD,http://onntv.online:25461/live/30A612037A90/8754467/198.ts
-SSC Sports 6 HD,http://onntv.online:25461/live/30A612037A90/8754467/199.ts
-SSC Sports 7 HD,http://onntv.online:25461/live/30A612037A90/8754467/200.ts
-SSC EXTRA 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/496.ts
-SSC EXTRA 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/497.ts
-SSC EXTRA 3 HD,http://onntv.online:25461/live/30A612037A90/8754467/498.ts
-Al Kass 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/205.ts
-Al Kass 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/206.ts
-Al Kass 3 HD,http://onntv.online:25461/live/30A612037A90/8754467/207.ts
-Al Kass 4 HD,http://onntv.online:25461/live/30A612037A90/8754467/208.ts
-Al Kass 5 HD,http://onntv.online:25461/live/30A612037A90/8754467/209.ts
-KSA SPORTS HD1,http://onntv.online:25461/live/30A612037A90/8754467/513.ts
-KSA SPORTS HD2,http://onntv.online:25461/live/30A612037A90/8754467/514.ts
-KSA SPORTS HD3,http://onntv.online:25461/live/30A612037A90/8754467/515.ts
-KSA SPORTS HD4,http://onntv.online:25461/live/30A612037A90/8754467/516.ts
-Al Rabiaa Sports HD,http://onntv.online:25461/live/30A612037A90/8754467/220.ts
-BeIN Sports AFC 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/191.ts
-BeIN Sports AFC 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/192.ts
-BeIN Sports AFC 3 HD,http://onntv.online:25461/live/30A612037A90/8754467/193.ts
-BeIN Sports Xtra 1,http://onntv.online:25461/live/30A612037A90/8754467/178.ts
-BeIN Sports Xtra 2,http://onntv.online:25461/live/30A612037A90/8754467/179.ts
-BeIN Sports NBA HD,http://onntv.online:25461/live/30A612037A90/8754467/187.ts
-BT Sport 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/211.ts
-BT Sport 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/212.ts
-BT Sport 3 HD,http://onntv.online:25461/live/30A612037A90/8754467/213.ts
-BT Sport Extra 1 HD,http://onntv.online:25461/live/30A612037A90/8754467/221.ts
-BT Sport Extra 2 HD,http://onntv.online:25461/live/30A612037A90/8754467/222.ts
-Sky Sports NEWS HD,http://onntv.online:25461/live/30A612037A90/8754467/217.ts
-Sky Sport Football HD,http://onntv.online:25461/live/30A612037A90/8754467/216.ts
-Sky Sports GOLF HD,http://onntv.online:25461/live/30A612037A90/8754467/218.ts
-Sky Sports Main Event,http://onntv.online:25461/live/30A612037A90/8754467/223.ts
-Sky Sports Arena HD,http://onntv.online:25461/live/30A612037A90/8754467/215.ts
-Sky Sports Racing HD,http://onntv.online:25461/live/30A612037A90/8754467/219.ts
 Eurosport•1 HD,http://myott.top/stream/93K4NA7ZUL/176.m3u8
 Eurosport•2 HD,http://myott.top/stream/93K4NA7ZUL/192.m3u8
 Матч!•Боец HD,http://myott.top/stream/93K4NA7ZUL/112.m3u8
@@ -8549,37 +8319,24 @@ TVRI BUDAYA,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(T
 TVRI Yogyakarta,http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 TVRI Bandung,http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(02)/index.m3u8
 VINMEEN TV,http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-DURAIS TV,http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
-PUTHUYUGAM TV,http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 LIFE TV,http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 TAMIL LIFE TV,http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
 SIVAN TV,http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 SHARVESH TV,http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 CTN LIVE,http://bmlive.net:8000/ctn/ctn/bms.m3u8
 SRM MUSIC,http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-LOTUS TV,http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 THREE TAMIL TV,https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 7MUSIC,http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 7STAR2,http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 BLESSING TV,http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
 AKARAM KIDS,http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 TAMIL BLESSING TV,http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8
-KALAIGNAR TV,http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-DD SPORTS,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 IBC TAMIL,https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 IBC CANADA,https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
 MADHA TV,http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 MAKKAL TV,https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
-MKTV6,http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-MK TUNES,http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-MK TV,http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-MURASU TV,http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 NAMBIKAI TV,http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
-MARCHANA TV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 NEEM TV,http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
-SANA TV,http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-KALAISIRIPOLI,http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-KRISNA TV,http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 SWASTHIK TV,http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 3 TAMIL,https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 TAMIL VISION,http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
@@ -8593,32 +8350,15 @@ J°Sports 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccod
 J°Sports 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 J=Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BS°Tsuri Vision,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Nippon°Eiga°Senmon Channel,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Toei°Channel,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Channel°Neco,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 Movie°Plus,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 Nittere°G+,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Golf°Network,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Jidaigeki°Senmon Channel,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Family°Gekijo,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Channel°Ginga,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Super!°Drama TV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Lala°TV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Kids°Station,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 CTB(1080p),http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 NBT Bangkok(1080p),http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 News1,http://news1.live14.com/stream/news1.m3u8
 WhiteChannel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 News1(hi),http://news1.live14.com/stream/news1_hi.m3u8
 bTV News,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-NBT Bangkok(c),http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 NBT Central,http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
-ThaiPBS(480p),http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-ThaiPBS3(1080),http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-Yateem TV (New!),https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-TOP NEWS,https://live.topnews.co.th/hls/topnews.m3u8
-Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-Wild Earth,https://wildearth-roku.amagi.tv/master.m3u8
 XPLORE,https://xplore-roku.amagi.tv/playlist720-p.m3u8
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 CNN indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
