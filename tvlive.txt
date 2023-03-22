@@ -4326,6 +4326,8 @@ TNT体育频道5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.
 红牛电视台,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 欧洲体育台HD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 WWE摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+格斗运动1台,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?blog.ntnas.top
+格斗运动2台,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 天空体育新闻HD,http://onntv.online:25461/live/30A612037A90/8754467/217.ts
 天空体育足球高清,http://onntv.online:25461/live/30A612037A90/8754467/216.ts
 天空体育高尔夫高清,http://onntv.online:25461/live/30A612037A90/8754467/218.ts
