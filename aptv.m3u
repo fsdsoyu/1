@@ -5695,6 +5695,7 @@ http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/七彩戏剧" tvg-id="七彩戏剧" tvg-name="七彩戏剧",group-title="🌳 上海频道",七彩戏剧
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 
+
 #EXTINF:-1 group-title="🌺  广东频道",广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1 group-title="🌺  广东频道",翡翠台广电
@@ -5703,6 +5704,40 @@ http://nas.jdshipin.com:8801/gdfc.php
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="🌺  广东频道",明珠台高清
 http://nas.jdshipin.com:8801/gdmz.php
+#EXTINF:-1 group-title="🌺  广东频道",广东珠江
+http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
+#EXTINF:-1 group-title="🌺  广东频道",广东珠江
+http://iptva.cn/api/M3u8/Index?id=998&card=99982475359
+#EXTINF:-1 group-title="🌺  广东频道",广东新闻
+http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdxw&auth=rinimabi
+#EXTINF:-1 group-title="🌺  广东频道",广东新闻
+http://ly01.eu.org:10000/udp/239.77.0.4:5146
+#EXTINF:-1 group-title="🌺  广东频道",广东公共
+http://113.101.124.50:808/hls/18/index.m3u8$高清1080P
+#EXTINF:-1 group-title="🌺  广东频道",广东公共
+http://live.cooltv.top/tv/gd.php?id=gdgg
+#EXTINF:-1 group-title="🌺  广东频道",广东公共
+http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgg&auth=rinimabi
+#EXTINF:-1 group-title="🌺  广东频道",广东公共
+http://124.222.238.146:1125/m3u8.php?/iTouchTV/1185
+#EXTINF:-1 group-title="🌺  广东频道",广东公共
+http://fxhack.f3322.org:8000/udp/239.77.0.225:5146
+#EXTINF:-1 group-title="🌺  广东频道",广东公共
+http://iptva.cn/api/M3u8/Index?id=997&card=99982475359
+#EXTINF:-1 group-title="🌺  广东频道",广东少儿
+http://fxhack.f3322.org:8000/udp/239.77.0.250:5146
+#EXTINF:-1 group-title="🌺  广东频道",大湾区卫视
+http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi
+#EXTINF:-1 group-title="🌺  广东频道",大湾区卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",大湾区卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",大湾区卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",大湾区卫视
+http://111.13.42.242/PLTV/88888888/224/3221226540/1.m3u8
+#EXTINF:-1 group-title="🌺  广东频道",大湾区卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="🌺  广东频道",电影台
 https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="🌺  广东频道",珠江台
