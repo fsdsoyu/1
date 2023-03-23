@@ -2506,6 +2506,44 @@ http://23.237.10.66:16372
 http://2023.stream-link.org/playlist/cti_news.flv中天新闻
 #EXTINF:-1,group-title="⛵  港澳台",美亚电影台
 https://epg.pw/stream/781f06fa349039a762a1e3ce66ef344fa92146f448e18eea0b2c887e5044367a.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",纬来体育
+http://123.51.230.108:18509/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",好消息
+http://123.51.230.108:18507/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",NHK
+http://123.51.230.108:18525/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",东森戏剧
+http://123.51.230.108:18538/.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/八大第一台" tvg-id="八大第一台" tvg-name="八大第一台",group-title="⛵  港澳台",八大第一台
+http://123.51.230.108:18539/.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视新闻台" tvg-id="民视新闻台" tvg-name="民视新闻台",group-title="⛵  港澳台",民视新闻台
+http://123.51.230.108:18663/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",龙华日韩
+http://123.51.230.108:18551/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",东风37台
+http://123.51.230.108:18560/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",东森财经
+http://123.51.230.108:18515/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",纬来综合
+http://123.51.230.108:18540/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",纬来育乐
+http://123.51.230.108:18541/.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/台视" tvg-id="台视" tvg-name="台视",group-title="⛵  港澳台",台视HD
+http://123.51.230.108:18543/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",大爱
+http://123.51.230.108:18567/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",凤凰资讯
+http://123.51.230.108:18580/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",龙华日韩
+http://123.51.230.108:8513/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",凤凰卫视
+http://123.51.230.108:8515/.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/龙华戏剧" tvg-id="龙华戏剧" tvg-name="龙华戏剧",group-title="⛵  港澳台",龙华戏剧
+http://123.51.230.108:8509/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",人间卫视
+http://123.51.230.108:8507/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",美亚电影台
+http://134.195.97.47:8178/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 
 #EXTINF:-1 group-title="⛵  港澳台",香港有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
