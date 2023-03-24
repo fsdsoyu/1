@@ -2503,7 +2503,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/中天综合台" tvg-id="中天综合台" tvg-name="中天综合台",group-title="⛵  港澳台",中天综合台
 http://23.237.10.66:16372
 #EXTINF:-1,group-title="⛵  港澳台",中天新闻台
-http://2023.stream-link.org/playlist/cti_news.flv中天新闻
+http://2023.stream-link.org/playlist/cti_news.flv
+#EXTINF:-1,group-title="⛵  港澳台",中天新闻台
+https://epg.pw/stream/c3dd212b8515e4494cf736b300c9e68cc061890eb1bbbb36834990120d60e9e4.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",中天新闻台
+http://107.151.203.111:2209/135/hk.php?id=ztxw
 #EXTINF:-1,group-title="⛵  港澳台",美亚电影台
 https://epg.pw/stream/781f06fa349039a762a1e3ce66ef344fa92146f448e18eea0b2c887e5044367a.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",纬来体育
