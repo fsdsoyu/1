@@ -5915,6 +5915,157 @@ http://hls.wiseqx.com/live/qxzh.m3u8
 #EXTINF:-1 group-title="🌺  广东频道",清新公共
 http://hls.wiseqx.com/live/qxgg.m3u8
 
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视",group-title="🌴 湖南频道",湖南卫视
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000035/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湖南电视剧
+http://[2409:8087:5011:1020::2c]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湖南电影
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湖南都市
+http://[2409:8087:5011:1020::2c]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湖南公共
+http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湖南国际
+http://[2409:8087:5011:1020::2c]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湖南教育
+http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000031/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湖南娱乐
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湖南经视
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000027983/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰纪实" tvg-id="金鹰纪实" tvg-name="金鹰纪实",group-title="🌴 湖南频道",金鹰纪实
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001007000000063477/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通",group-title="🌴 湖南频道",金鹰卡通
+http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湖南快乐垂钓
+http://[2409:8087:4402:20:1:1216:401:3f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/index.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",湖南快乐垂钓
+http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226326/index.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",湖南茶
+http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226329/index.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",湖南金鹰卡通
+http://[2409:8087:4402:20:1:1216:401:42]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",湖南金鹰卡通
+http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",湖南金鹰纪实
+http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",IPTV高清院线
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",IPTV古装剧场
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",IPTV家庭剧场
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",IPTV经典剧场
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",IPTV抗战剧场
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",IPTV芒果互娱
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",IPTV芒果热剧
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",IPTV芒果乐活
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000154081/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",IPTV芒果乐淘
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",浏阳
+http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000026/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",新闻综合
+http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000069/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",新闻综合
+http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000070/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",长沙新闻
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000048/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",长沙影视
+http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000030/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",长沙政法
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001001000000000049/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",长沙女性
+http://[2409:8087:5011:1020::1c]/180000001001/00000001000000001001000000000029/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🌴 湖南频道",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",平乡电视台
+http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",娄底综合频道
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",衡阳新闻综合
+http://59.51.68.40:1936/live/2.stream/playlist.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",衡阳公共频道
+http://59.51.68.40:1936/live/3.stream/playlist.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",宁乡综合频道
+http://b.ds.ch.dingtoo.com/AppName/StreamName.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",汨罗新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_TE4c1Q.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",汝城综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_j69HSm.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",新化新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_nRI1mM.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰纪实" tvg-id="金鹰纪实" tvg-name="金鹰纪实",group-title="🌴 湖南频道",金鹰纪实
+http://39.135.138.58:18890/PLTV/88888888/224/3221226198/index.m3u8?zhund
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰纪实" tvg-id="金鹰纪实" tvg-name="金鹰纪实",group-title="🌴 湖南频道",金鹰纪实
+http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jinyingjs/1.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",娄底综合频道
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",衡阳新闻综合
+http://59.51.68.40:1936/live/2.stream/playlist.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",衡阳新闻综合
+http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",衡阳公共频道
+http://59.51.68.40:1936/live/3.stream/playlist.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",宁乡综合频道
+http://b.ds.ch.dingtoo.com/AppName/StreamName.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",汨罗新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_TE4c1Q.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",汝城综合频道
+http://play-dgv-xhncloud.voc.com.cn/live/5243_j69HSm.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",宜章新闻综合
+http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",宜章新闻综合
+http://hnyz.chinashadt.com:2036/live/stream:tv1.stream_360p/playlist.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",祁阳综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_PREfDG.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",冷水江新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_8NbUnK.m3u8?zhund
+#EXTINF:-1 group-title="🌴 湖南频道",常宁综合
+http://59.51.68.40:1936/live/cntv/playlist.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",衡阳新闻[1047*576]
+http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",冷水江综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_8NbUnK.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",娄底公共
+http://ls.qingting.fm/live/1738915.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",娄底综合[1280*720]
+http://119.39.242.52:1935/live/zonghe/chunklist_w1680005588.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",泸溪电视
+http://liveplay.rednet.cn/live/luxi_fe0eyf.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",南岳综合
+http://liveplay.rednet.cn/live/nanyue_03f74.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",通道时政
+http://live.tongdaotv.com:8087/live/tdtv.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",湘潭公共[768*576]
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8&BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE
+#EXTINF:-1 group-title="🌴 湖南频道",宜章综合[1047*576]
+http://hnyz.chinashadt.com:2036/live/tv1.stream/chunklist_w2084740082.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",宜章综合[1047*576]
+http://hnyz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",宜章综合[654*360]
+http://hnyz.chinashadt.com:2036/live/stream:tv1.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",湘潭综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",湘潭公共
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",汝城台
+http://play-dgv-xhncloud.voc.com.cn/live/5243_j69HSm.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",汨罗综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_TE4c1Q.m3u8
+#EXTINF:-1 group-title="🌴 湖南频道",娄底综合
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+
 
 #EXTINF:-1,group-title="🎮 游戏直播",斗鱼_LOL直播1
 http://hw-tct.douyucdn.cn/live/288016rlols5.flv
