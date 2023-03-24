@@ -2305,7 +2305,9 @@ NHK,http://123.51.230.108:18525/.m3u8
 Hollywood,http://31785386944321265.niceome.xyz:80/play/va08271/4122744267/321265.ts
 Hollywood,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 中天综合台,http://23.237.10.66:16372
-中天新闻台,http://2023.stream-link.org/playlist/cti_news.flv中天新闻,https://epg.pw/stream/c3dd212b8515e4494cf736b300c9e68cc061890eb1bbbb36834990120d60e9e4.m3u8
+中天新闻台,http://2023.stream-link.org/playlist/cti_news.flv
+中天新闻,https://epg.pw/stream/c3dd212b8515e4494cf736b300c9e68cc061890eb1bbbb36834990120d60e9e4.m3u8
+中天新闻,http://107.151.203.111:2209/135/hk.php?id=ztxw
 美亚电影台,http://134.195.97.47:8178/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 美亚电影台,https://epg.pw/stream/781f06fa349039a762a1e3ce66ef344fa92146f448e18eea0b2c887e5044367a.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
