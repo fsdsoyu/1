@@ -4408,10 +4408,29 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",超级体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="🏂  体育赛事",新视觉
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉" tvg-id="新视觉" tvg-name="新视觉",group-title="🏂  体育赛事",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🏂  体育赛事",新视觉
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉" tvg-id="新视觉" tvg-name="新视觉",group-title="🏂  体育赛事",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,group-title="🏂  体育赛事",咪咕NBA1
+http://39.137.49.76:8080/PLTV/88888888/224/3221226238/index.m3u8?
+#EXTINF:-1,group-title="🏂  体育赛事",咪咕NBA2
+http://39.137.49.76:8080/PLTV/88888888/224/3221226235/index.m3u8?
+#EXTINF:-1,group-title="🏂  体育赛事",咪咕NBA3
+http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
+#EXTINF:-1,group-title="🏂  体育赛事",咪咕NBA4
+http://39.137.49.76:8080/PLTV/88888888/224/3221226243/index.m3u8?
+#EXTINF:-1,group-title="🏂  体育赛事",咪咕足球
+http://39.137.49.76:8080/PLTV/88888888/224/3221226240/index.m3u8?
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/魅力足球" tvg-id="魅力足球" tvg-name="魅力足球",group-title="🏂  体育赛事",魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1,group-title="🏂  体育赛事",NEWTV精品体育
+http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1,group-title="🏂  体育赛事",NEWTV超级体育
+http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/游戏风云" tvg-id="游戏风云" tvg-name="游戏风云",group-title="🏂  体育赛事",游戏风云1
+http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",咪咕体育
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",南国都市
