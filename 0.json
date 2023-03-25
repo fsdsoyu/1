@@ -1,15 +1,24 @@
 
 {
     "sites": [ 
-         {
-            "key": "Kuaikan",
-            "name": "主力源┃🧸┃快看🍎",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+	    {
+             "key": "dr_豆瓣",
+             "name": "🔍┃豆瓣荐片",
+             "type": 3,
+             "api": "http://id.ganggang.live:63/js/drpy.min.js",
+             "quickSearch": 0,
+             "filterable": 1,
+              "ext": "http://id.ganggang.live:63/js/js_drpy.js"
+          },
+	    {
+		    "key": "csp_kuaikan",
+		    "name":"🧸┃快看🍎",
+		    "type": 3,
+		    "api": "csp_Kuaikan",
+		    "searchable": 1,
+		    "quickSearch": 1,
+		    "filterable":1
+	    },
 	 {
             "key": "农民",
             "name": "🌾|农民",
@@ -29,16 +38,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	  {
-             "key": "dr_豆瓣",
-             "name": "🔍┃豆瓣荐片",
-             "type": 3,
-             "api": "http://id.ganggang.live:63/js/drpy.min.js",
-             "quickSearch": 0,
-             "filterable": 1,
-              "ext": "http://id.ganggang.live:63/js/js_drpy.js"
-          },
-	  {
+	    	  {
 		  "key": "csp_lezhu",
 	          "name": "🧸┃乐猪🍎",
 		  "type": 3,
@@ -71,28 +71,27 @@
         "剧情片",
         "战争片"
       ]
-    },
-	    {      
-		    "key": "dr_厂长资源",      
-		    "name": "🐰┃厂长蓝光",      
-		    "type": 3,      
-		    "api": "./js/libmain.js",      
-		    "searchable": 0,      
-		    "quickSearch": 1,      
-		    "filterable": 0,      
-		    "ext": "./js/czspp.js"    
-	    }, 
-	 {
-            "key": "csp_AppTT",
-            "name": "🐰┃图图┃影视",
-            "type": 3,
-            "api": "csp_TutuYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.39.64.151:3434/",
-            "jar": "http://我不是.肥猫.love:63/Jar/TT.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"
-        },
+    },	    
+	    {
+		    "key": "dr_厂长资源",
+		    "name": "🐰┃厂长蓝光",
+		    "type": 3,
+		    "api": "https://raw.iqiq.io/lwm212/JK/main/lib/drpy2.min.js",
+		    "searchable": 2,
+		    "quickSearch": 1,
+		    "filterable": 0,
+		    "ext": "https://raw.iqiq.io/lwm212/JK/main/drpy/厂长资源.js"
+	    },
+	    {
+		    "key":"csp_AppTT",
+		    "name":"🐰┃图图┃影视",
+		    "type":3,
+		    "api":"csp_AppTT",
+		    "searchable":1,
+		    "quickSearch":1,
+		    "filterable":1,
+		    "ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+	    },
         {
             "key": "csp_DiDuan",
             "name": "⤵️┃低端┃影视",
@@ -106,7 +105,7 @@
              "key": "T4直播转点播",
              "name": "📺︎┃电视直播",
              "type": 4,
-             "api": "http://120.53.102.254/live?url=https://ghproxy.com/https://raw.githubusercontent.com/tvboxset/1/main/tvlive.txt",
+             "api": "http://120.53.102.254/live?url=https://ghproxy.com/https://raw.githubusercontent.com/Cr-cm/1/main/tvlive.txt",
              "searchable": 1,
              "quickSearch": 1,
              "filterable": 1
@@ -331,34 +330,58 @@
 			    "奇幻片",        
 			    "少儿",        
 			    "其他片",        
-			    "其他剧"      ]    
-	    },    
-	    {      
-		    "key": "乐视(官源)",      
-		    "name": "🍅┃乐事letv┃官源",     
-		    "type": 0,      
-		    "api": "https://www.bajiezy.xyz/api.php/provide/vod/from/letv/at/xml/",      
-		    "searchable":0,
-		    "quickSearch":0,
-		    "filterable":0  
+			    "其他剧"	]    
 	    },  
-        {
-            "key": "csp_panghu",
-            "name": "🐯┃胖虎",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "LiteApple",
-            "name": "🍎┃小苹果🧸",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+	    {
+		    "key":"乐视(官源)",
+		    "name":"🍅┃乐事letv┃官源",
+		    "type":0,
+		    "api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/letv/at/xml/",
+		    "searchable":1,
+		    "quickSearch":1,
+		    "filterable":1,
+		    "categories":[
+			    "综艺",
+			    "动漫",
+			    "动作片",
+			    "喜剧片",
+			    "爱情片",
+			    "科幻片",
+			    "恐怖片",
+			    "剧情片",
+			    "战争片",
+			    "国产剧",
+			    "港台剧",
+			    "日韩剧",
+			    "欧美剧",
+			    "惊悚片",
+			    "犯罪片",
+			    "冒险片",
+			    "悬疑片",
+			    "动画片",
+			    "武侠片",
+			    "奇幻片",
+			    "少儿",
+			    "其他片",
+			    "其他剧"	]
+	    },
+	    {
+		    "key": "csp_panghu",
+		    "name": "🐯┃胖虎┃影视",
+		    "type": 3,
+		    "api": "csp_Panghu",
+		    "searchable": 1,
+		    "quickSearch": 1,
+		    "filterable": 1
+	    },
+	      {
+            "key":"小苹果",
+            "name":"🍎┃小苹果🧸",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "Coke",
@@ -388,7 +411,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	{
+	 {
 		 "key":"csp_Bili",
 		 "name":"🅱┃哔哩┃合集",
 		 "type": 3,
@@ -600,7 +623,7 @@
 			"filterable": 0,
 			"ext": "./js/动漫直链.json"
 		},
-	    {
+	     {
       "key": "樱花",
       "name": "🌸┃樱花┃动漫",
       "type": 3,
@@ -754,7 +777,7 @@
 	      "filterable":0,
 	      "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
       },
-	   {
+	    {
 		    "key":"csp_xp_qiumi",
 		    "name":"⚽┃Jrs球迷",
 		    "type":3,
