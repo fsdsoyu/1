@@ -4396,6 +4396,19 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000181/ind
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000181/index.m3u8?IAS
 #EXTINF:-1 group-title="🏂  体育赛事",五星体育
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000181/index.m3u8?IAS
+#EXTINF:-1 group-title="🏂  体育赛事",五星体育
+http://39.136.173.106/hlsmgsplive.miguvideo.com/wd_r4/dfl/wuxingtiyuhd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1 group-title="🏂  体育赛事",五星体育
+http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/wuxingtiyuhd/1200/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="🏂  体育赛事",五星体育
+http://183.207.255.188/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",五星体育
+http://122.228.87.15/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",五星体育
+http://122.228.87.15/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",五星体育
+http://39.134.136.141:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=no
+
 #EXTINF:-1 group-title="🏂  体育赛事",魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",魅力足球
