@@ -880,26 +880,35 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=
 
 #EXTINF:-1,group-title="⛱️  广东联通",足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
-http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
-http://anren.live/HK/AQtQ.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰中文
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
-http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
-http://anren.live/HK/AQtU.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰中文
+http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
+http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
+http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰中文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰中文
+http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
+http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
 http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
+
 #EXTINF:-1,group-title="⛱️  广东联通",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1,group-title="⛱️  广东联通",TVBS新闻台
@@ -1926,12 +1935,34 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 group-title="🔰 IPTV6专区",国学频道
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1 group-title="🔰 IPTV6专区",凤凰香港
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰中文
+http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
+http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
+http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1 group-title="🔰 IPTV6专区",凤凰中文
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="🔰 IPTV6专区",凤凰资讯
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰中文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰中文
+http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
+http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
+http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="🔰 IPTV6专区",环球新闻
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="🔰 IPTV6专区",环球纪实
@@ -2225,12 +2256,34 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 group-title="🍭 IPTV6专区2",国学频道
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1 group-title="🍭 IPTV6专区2",凤凰香港
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰中文
+http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
+http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
+http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1 group-title="🍭 IPTV6专区2",凤凰中文
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="🍭 IPTV6专区2",凤凰资讯
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰中文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰中文
+http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
+http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
+http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="🍭 IPTV6专区2",环球新闻
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="🍭 IPTV6专区2",环球纪实
@@ -2551,26 +2604,35 @@ http://134.195.97.47:8178/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&
 
 #EXTINF:-1 group-title="⛵  港澳台",香港有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
-http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
-http://anren.live/HK/AQtQ.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,group-title="⛵  港澳台",凤凰中文
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
-http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
-http://anren.live/HK/AQtU.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 #EXTINF:-1,group-title="⛵  港澳台",凤凰香港
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
+http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
+http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
 #EXTINF:-1,group-title="⛵  港澳台",凤凰香港
 http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
+
 #EXTINF:-1 group-title="⛵  港澳台",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",凤凰电影
@@ -3806,22 +3868,6 @@ https://epg.pw/stream/e6029c0c0b404705600dc3b2c7f2a8a70a97b85c6873343f2dab9c4273
 https://epg.pw/stream/88e4f37b2dcaa90567bd82a2632d096858173b1bb28918e18ec06162c6af6a4b.ctv
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视",group-title="🇭🇰 香港台(每周同步香港epg节目)",香港卫视
 https://epg.pw/stream/4a28c6d6096244ec7b4b77121354cea6f4740cf91f8601f3cc3277363cddddb0.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
-https://epg.pw/stream/91eae01e58a883374fbc0faf3fb5fa7b3545104ed2b02f5344a82572f7f01b1b.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
-https://epg.pw/stream/3ca75e2e63be34c3e60be724c9afcee444e2c52bcf13fc8b053f1fa7cd3f8066.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
-https://epg.pw/stream/cf3440169b62d180484fe7633da1ee1b78f851efe8de83844e5f2a44f257c2ef.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
-https://epg.pw/stream/80e8bf59ef54f91069b538c1327c2d789247fc6545a21143d6d3714191335ee0.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
-https://epg.pw/stream/c6c2a8a5df1d8864e4e23e085d5a429989ec28d74ace6f2b78774d98bf9f6e48.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
-https://epg.pw/stream/ca6fad6aa4870871c04462a5ed7a17f86490cc558e08de76e6c8703dabc262ff.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
-https://epg.pw/stream/5564995720be6be87523feeca1dde42544506a17e4de134658ef80af2526b36e.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
-https://epg.pw/stream/afd39875f8e6a77fbbf35704494bef0744905979fe97d9a3c212fb07a15e9815.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",TVB星河
 https://epg.pw/stream/fd5219de0f3d77043e694c1c228f32cbb0eba4de89dbfae10bd7f72702ec046c.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",TVB电影
@@ -3948,28 +3994,34 @@ https://epg.pw/stream/8051ffcf2e323feaab9d54560ef24e5fdb9186f6f90d13c04a91ec63a5
 https://epg.pw/stream/cedd6908f27fd88cb87df8e2a6fa1f36b0ae6ace666b95d720c6fcaded95be8c.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰Show
 https://epg.pw/stream/ecfa2c4e097af8a4fb456758bbfad9d2feeb5e003abf92e51fb91ad7d0bda54a.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/eb6e7c9dcb29976d964e678a41935aab77ccbf65f57d4311f0aa04a6059ecf45.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/c6f10368d8405619040fa6024a14ed1d3ffeca0d1f13b014f60fb06540ccaf86.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/f072e9f46c47905f8c0d951b42fe1311c92015912267be3ddc551b03902d1efd.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/916711638efee6e753592004261e03b6311462fd619dcfc1b45d970677125f98.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/f0dd6f88869bbd3f9f64a5292d5831b3d6d181dbcaca4c07393db389166d518d.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/2a4da38f380195a7d63d6c2043b1c8a97bdaafc2873f26e3c2d67ae7997c2e70.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/25c8a46aeb4f84a05fea94a439b07b14f3f6498398fedc5c40e44a9675cf4484.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/80c1b57fc889288b9604044a8a1fbbe06ca3a445a9f6473b8e69f51e2d29b140.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/bb662bd4296b434715f859f8235e4f5bb6981e788338ce8c597c50d4b0cdf5b7.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/9cab5743b69d97fb171658c9ec7598f13b0a7b7f8f322f53b9e5e220f02e6271.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯HD
-https://epg.pw/stream/57696832381665821a083a1d67366e6893f116f3c562d300e4d02bdbca1a9933.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰中文
+http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯
+http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
+http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰中文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰中文
+http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰资讯
+http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="🇭🇰 香港台(每周同步香港epg节目)",凤凰香港
+http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",ITV Granada
 https://epg.pw/stream/624efc8d76f752fa67101df80904d273e00ba2a312ccb12ac1f9bf6daeb6d892.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",ITV Granada
