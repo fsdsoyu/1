@@ -4409,6 +4409,12 @@ CCTV16(4K),http://live.cooltv.top/tv/aishang.php?id=cctv164k
 五星体育,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000181/index.m3u8?IAS
 五星体育,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000181/index.m3u8?IAS
 五星体育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://39.136.173.106/hlsmgsplive.miguvideo.com/wd_r4/dfl/wuxingtiyuhd/3000/index.m3u8?&encrypt=1
+五星体育,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/wuxingtiyuhd/1200/index.m3u8?&encrypt=
+五星体育,http://183.207.255.188/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://122.228.87.15/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://122.228.87.15/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://39.134.136.141:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=no
 纬来体育,http://123.51.230.108:18509/playlist.m3u8
 纬来体育,http://123.51.230.108:18509/.m3u8
 咪咕NBA1,http://39.137.49.76:8080/PLTV/88888888/224/3221226238/index.m3u8?
