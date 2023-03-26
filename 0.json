@@ -18,6 +18,44 @@
 		    "quickSearch":1,
 		    "filterable":1
 	    },
+	     {
+		    "key": "csp_kuaikan",
+		    "name":"🧸┃快看🍎",
+		    "type": 3,
+		    "api": "csp_Kuaikan",
+		    "searchable": 1,
+		    "quickSearch": 1,
+		    "filterable":1
+	    },
+	 {
+            "key": "农民",
+            "name": "🌾|农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	    "ext":"./js/农民.json"
+	},
+        {
+            "key": "Kunyu77",
+            "name": "🧸┃酷云七七🍎",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	    	  {
+		  "key": "csp_lezhu",
+	          "name": "🧸┃乐猪🍎",
+		  "type": 3,
+		  "api": "csp_XPath",
+		  "searchable": 1,
+		  "quickSearch": 0,
+		  "filterable": 1,
+		  "ext": "./js/乐猪XP.json"
+	  },
 	 {
 		 "key":"独播库",
 		 "name":"🎁┃独播库",
@@ -82,44 +120,6 @@
 		"ext":"http://118.190.144.126",
 		"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0315.jar;md5;F23FB89E3FED6208AF828492B1660B68"
 	},
-	    {
-		    "key": "csp_kuaikan",
-		    "name":"🧸┃快看🍎",
-		    "type": 3,
-		    "api": "csp_Kuaikan",
-		    "searchable": 1,
-		    "quickSearch": 1,
-		    "filterable":1
-	    },
-	 {
-            "key": "农民",
-            "name": "🌾|农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	    "ext":"./js/农民.json"
-	},
-        {
-            "key": "Kunyu77",
-            "name": "🧸┃酷云七七🍎",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-	    	  {
-		  "key": "csp_lezhu",
-	          "name": "🧸┃乐猪🍎",
-		  "type": 3,
-		  "api": "csp_XPath",
-		  "searchable": 1,
-		  "quickSearch": 0,
-		  "filterable": 1,
-		  "ext": "./js/乐猪XP.json"
-	  },
 	     {
       "key": "百度",
       "name": "⚜︎┃百度┃动漫剧集",
