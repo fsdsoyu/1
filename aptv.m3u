@@ -3754,11 +3754,11 @@ http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 http://120.84.96.82:808/hls/86/index.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="⛵  港澳台-新",J2
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台",明珠台
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台",group-title="⛵  港澳台-新",明珠台
 http://120.84.96.82:808/hls/26/index.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台",明珠台
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台",group-title="⛵  港澳台-新",明珠台
 http://radius.8866.org:800/hls/84/index.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台",明珠台
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台",group-title="⛵  港澳台-新",明珠台
 http://shazui.8866.org:800/hls/84/index.m3u8
 #EXTINF:-1 group-title="⛵  港澳台-新",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
