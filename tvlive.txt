@@ -36,10 +36,10 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+CETV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+CETV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+CETV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+CETV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
@@ -68,8 +68,6 @@ CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CETV-1,https://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV-1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
-纪实人文,http://nsszds.f3322.net:808/hls/56/index.m3u8
 CCTV1,http://39.184.224.99:9080/newlive/live/hls/1/live.m3u8
 CCTV2,http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
 CCTV3,http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8
@@ -88,7 +86,6 @@ CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV17,http://39.184.224.99:9080/newlive/live/hls/17/live.m3u8
-CCTV4K超高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.174:5146
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 老故事,http://111.20.33.93/PLTV/88888893/224/3221226236/index.m3u8
@@ -99,45 +96,20 @@ CCTV4K超高清,http://ct.whosayssowhat.top:4022/udp/239.77.0.174:5146
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8风云足球,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 风云剧场,http://xuehanwei.my03.com:8888/rtp/239.253.93.251:6429
-怀旧剧场,http://xuehanwei.my03.com:8888/rtp/239.253.93.252:6430
-怀旧剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-第一剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-世界地理,http://xuehanwei.my03.com:8888/rtp/239.253.92.131:6113
-文物宝库,http://xuehanwei.my03.com:8888/rtp/239.253.93.180:6437
 女性时尚,http://xuehanwei.my03.com:8888/rtp/239.253.92.144:6114
-怀旧剧场,http://ct.whosayssowhat.top:4022/udp/239.253.43.5:5146
-第一剧场,http://ct.whosayssowhat.top:4022/udp/239.253.43.15:5146
 风云剧场,http://ct.whosayssowhat.top:4022/udp/239.253.43.16:5146
 风云足球,http://ct.whosayssowhat.top:4022/udp/239.253.43.14:5146
-风云音乐,http://ct.whosayssowhat.top:4022/udp/239.253.43.6:5146
-世界地理,http://ct.whosayssowhat.top:4022/udp/239.253.43.7:5146
 女性时尚,http://ct.whosayssowhat.top:4022/udp/239.253.43.8:5146
-兵器科技,http://ct.whosayssowhat.top:4022/udp/239.253.43.9:5146
-电视指南,http://ct.whosayssowhat.top:4022/udp/239.253.43.10:5146
-央视台球,http://ct.whosayssowhat.top:4022/udp/239.253.43.11:5146
-高尔夫·网球,http://ct.whosayssowhat.top:4022/udp/239.253.43.12:5146
-央视文化精品,http://ct.whosayssowhat.top:4022/udp/239.253.43.13:5146
 CHC高清电影,http://ct.whosayssowhat.top:4022/udp/239.77.0.27:5146
 
 CCTV4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
-CHC动作电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CHC高清电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC高清电影,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 风云剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-风云音乐,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 风云足球,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-怀旧剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-第一剧场,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-兵器科技,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 风云剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
-风云音乐,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
 风云足球,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
-怀旧剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
-第一剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
-兵器科技,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
 CETV-1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV-2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
@@ -163,9 +135,6 @@ CETV-3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CETV-1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
-纪实人文,http://nsszds.f3322.net:808/hls/56/index.m3u8
-
 
 🍓  央卫综合,#genre#
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
