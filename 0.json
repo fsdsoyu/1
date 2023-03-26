@@ -77,7 +77,7 @@
 	},       
 	{
 		"key":"csp_XBPQ石榴影视",
-		"name":"🎞️┃石榴电影〔XBPQ〕",
+		"name":"🎞️┃石榴电影",
 		"type":3,
 		"api":"csp_xBPQ",
 		"searchable":1,
@@ -88,7 +88,7 @@
 	},
 	{
 		"key":"csp_XBPQTVB影视",
-		"name":"🎞️┃TVB云播〔XBPQ〕",
+		"name":"🎞️┃TVB云播",
 		"type":3,
 		"api":"csp_xBPQ",
 		"searchable":1,
@@ -99,7 +99,7 @@
 	},
 	{
 		"key":"csp_XBPQ吼吼影视",
-		"name":"🎞️┃吼吼影视〔XBPQ〕",
+		"name":"🎞️┃吼吼影视",
 		"type":3,
 		"api":"csp_xBPQ",
 		"searchable":1,
@@ -579,15 +579,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-      {
-	      "key":"csp_xml_天堂资源",
-	      "name":"🐝┃天堂资源",
-	      "type":1,
-	      "api":"http://vipmv.cc/api.php/provide/vod/",
-	      "playUrl":"",
-	      "searchable":1,
-	      "quickSearch":1
-      },
       {
 	    "key":"csp_FanYY",
 	    "name":"💦剥饭┃4K",
