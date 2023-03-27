@@ -2770,6 +2770,8 @@ VIUTV6,https://v1.qiantutv.com/stream/7dd66f663be024cef495312d10d46a60/index.m3u
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 ⛵  港澳台-新扫,#genre#
+凤凰资讯,http://38.60.38.190:2023/dl/1.php?id=1
+凤凰香港,http://38.60.38.190:2023/dl/1.php?id=2
 香港有线新闻台,http://38.60.38.190:2023/dl/1.php?id=3
 香港财经资讯台,http://38.60.38.190:2023/dl/1.php?id=4
 有线18台,http://38.60.38.190:2023/dl/1.php?id=5
@@ -2805,6 +2807,20 @@ TVBS欢乐,http://38.60.38.190:2023/dl/1.php?id=47
 ELEVEN1,http://38.60.38.190:2023/dl/1.php?id=57
 ELEVEN2,http://38.60.38.190:2023/dl/1.php?id=58
 澳门莲花,http://38.60.38.190:2023/dl/1.php?id=71
+HollyWood HD,http://jylt.jdshipin.com:808/hls/24/index.m3u8
+TVB 翡翠台,http://jylt.jdshipin.com:808/hls/25/index.m3u8
+TVB Peal,http://jylt.jdshipin.com:808/hls/26/index.m3u8
+凤凰资讯,http://jylt.jdshipin.com:808/hls/28/index.m3u8
+凤凰中文,http://jylt.jdshipin.com:808/hls/29/index.m3u8
+东森电影,http://jylt.jdshipin.com:808/hls/32/index.m3u8
+东森洋片,http://jylt.jdshipin.com:808/hls/33/index.m3u8
+民视HD,http://jylt.jdshipin.com:808/hls/34/index.m3u8
+龙祥时代,http://jylt.jdshipin.com:808/hls/35/index.m3u8
+星空卫视,http://jylt.jdshipin.com:808/hls/79/index.m3u8
+凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
+不知道啥台,http://jylt.jdshipin.com:808/hls/84/index.m3u8
+CCM,http://jylt.jdshipin.com:808/hls/85/index.m3u8
+TVB财经体育资讯,http://jylt.jdshipin.com:808/hls/86/index.m3u8
 
 🇭🇰  香港台(每周同步香港epg节目),#genre#
 J2,https://epg.pw/stream/6402d3724facdf579de3a93fa53e3ef44b8e0245d200888650db72f9e1a15774.m3u8
