@@ -3783,6 +3783,10 @@ http://107.151.203.111:2209/135/hk.php?id=cable76h
 #EXTINF:-1 group-title="⛵  港澳台-新",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
+#EXTINF:-1 group-title="⛵  港澳台-新扫",凤凰资讯
+http://38.60.38.190:2023/dl/1.php?id=1
+#EXTINF:-1 group-title="⛵  港澳台-新扫",凤凰香港
+http://38.60.38.190:2023/dl/1.php?id=2
 #EXTINF:-1 group-title="⛵  港澳台-新扫",香港有线新闻台
 http://38.60.38.190:2023/dl/1.php?id=3
 #EXTINF:-1 group-title="⛵  港澳台-新扫",香港财经资讯台
@@ -3853,6 +3857,34 @@ http://38.60.38.190:2023/dl/1.php?id=57
 http://38.60.38.190:2023/dl/1.php?id=58
 #EXTINF:-1 group-title="⛵  港澳台-新扫",澳门莲花
 http://38.60.38.190:2023/dl/1.php?id=71
+#EXTINF:-1,group-title="⛵  港澳台-新扫",HollyWood HD
+http://jylt.jdshipin.com:808/hls/24/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台-新扫",TVB 翡翠台
+http://jylt.jdshipin.com:808/hls/25/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",TVB Peal
+http://jylt.jdshipin.com:808/hls/26/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",凤凰资讯
+http://jylt.jdshipin.com:808/hls/28/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",凤凰中文
+http://jylt.jdshipin.com:808/hls/29/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",东森电影
+http://jylt.jdshipin.com:808/hls/32/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",东森洋片
+http://jylt.jdshipin.com:808/hls/33/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视" tvg-id="民视" tvg-name="民视",group-title="⛵  港澳台-新扫",民视HD
+http://jylt.jdshipin.com:808/hls/34/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",龙祥时代
+http://jylt.jdshipin.com:808/hls/35/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",星空卫视
+http://jylt.jdshipin.com:808/hls/79/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",凤凰香港
+http://jylt.jdshipin.com:808/hls/81/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",25
+http://jylt.jdshipin.com:808/hls/84/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",CCM
+http://jylt.jdshipin.com:808/hls/85/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",TVB财经体育资讯
+http://jylt.jdshipin.com:808/hls/86/index.m3u8
 
 #EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",J2
 https://epg.pw/stream/6402d3724facdf579de3a93fa53e3ef44b8e0245d200888650db72f9e1a15774.m3u8
