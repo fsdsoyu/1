@@ -4337,7 +4337,6 @@ CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
-足球,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
 CCTV5,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV5,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV5+,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -4353,15 +4352,11 @@ NewTV精品体育,http://39.135.138.58:18890/PLTV/88888910/224/3221225709/index.
 NewTV超级体育,http://39.135.138.58:18890/PLTV/88888910/224/3221225767/index.m3u8
 NewTV精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 NewTV超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
-咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 NewTV精品体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
 NEWTV超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-欧洲体育1HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
-欧洲体育1,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
-欧洲体育2,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
@@ -4373,20 +4368,10 @@ TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-新视觉,http://183.207.255.188/live/program/live/xsjhd8m/8000000/mnf.m3u8
-咪咕体育,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 曼联MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 Dubai Racing 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 Dubai Racing 3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-NBA TV,http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66370
-NBA TV,http://iptvtree.net:8080/9ba1ba9e/9e6e25e5cc/15962
-EDGEsport,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-EDGEsport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-EDGEsport,https://edgesports-plex.amagi.tv/playlist.m3u8
 World Poker,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
@@ -4406,7 +4391,6 @@ CCTV-5+体育赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/322122
 CCTV-5+体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-5+体育赛事,http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 NewTV超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
 CCTV16(4K),http://live.cooltv.top/tv/aishang.php?id=cctv164k
@@ -4424,14 +4408,10 @@ CCTV16(4K),http://live.cooltv.top/tv/aishang.php?id=cctv164k
 咪咕NBA3,http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
 咪咕NBA4,http://39.137.49.76:8080/PLTV/88888888/224/3221226243/index.m3u8?
 咪咕足球,http://39.137.49.76:8080/PLTV/88888888/224/3221226240/index.m3u8?
-咪咕視頻,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 NEWTV精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 NEWTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-游戏风云1,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 英国电信体育频道1,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30989.ts
 英国电信体育频道2,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30905.ts
 英国电信体育频道3,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/31000.ts
@@ -4486,8 +4466,6 @@ BT SPORT 4,http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
 beIN Sports 5,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34722
 beIN Sports 6,http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34723
 智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-
-
 
 📺  江西移动,#genre#
 纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
