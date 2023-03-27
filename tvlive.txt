@@ -2003,12 +2003,6 @@ CCTV16奥运-50P-4K-HDR,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox
 无线新闻台,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 无线新闻台,http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 无线新闻台,https://cdn.hklive.tv/xxxx/83/index.m3u8
-民视HD,http://23.237.10.66:16334
-台视HD,http://23.237.10.66:16344
-星卫电影台HD,http://23.237.10.66:16359
-中天综合HD,http://23.237.10.66:16372
-电视剧场,http://23.237.10.66:16406
-翡翠台HD,http://23.237.10.66:16410
 翡翠台广电,http://nas.jdshipin.com:8801/gdfc.php
 翡翠台广电低清,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 明珠台高清,http://nas.jdshipin.com:8801/gdmz.php
@@ -2827,6 +2821,12 @@ TVB Peal,http://jylt.jdshipin.com:808/hls/26/index.m3u8
 不知道啥台,http://jylt.jdshipin.com:808/hls/84/index.m3u8
 CCM,http://jylt.jdshipin.com:808/hls/85/index.m3u8
 TVB财经体育资讯,http://jylt.jdshipin.com:808/hls/86/index.m3u8
+民视HD,http://23.237.10.66:16334
+台视HD,http://23.237.10.66:16344
+星卫电影台HD,http://23.237.10.66:16359
+中天综合HD,http://23.237.10.66:16372
+电视剧场,http://23.237.10.66:16406
+翡翠台HD,http://23.237.10.66:16410
 
 🇭🇰  香港台(每周同步香港epg节目),#genre#
 J2,https://epg.pw/stream/6402d3724facdf579de3a93fa53e3ef44b8e0245d200888650db72f9e1a15774.m3u8
