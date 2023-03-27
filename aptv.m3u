@@ -4598,6 +4598,8 @@ http://122.228.87.15/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/m
 http://122.228.87.15/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",五星体育
 http://39.134.136.141:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=no
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉" tvg-id="新视觉" tvg-name="新视觉",group-title="🏂  体育赛事",新视觉
+http://183.207.255.188/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",魅力足球
@@ -4650,11 +4652,11 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 #EXTINF:-1 group-title="🏂  体育赛事",Dubai Racing 3
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",EDGEsport
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",EDGEsport
 https://edgesports-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🏂  体育赛事",EDGESport
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",World Poker
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",Dubai Sports
@@ -4681,6 +4683,12 @@ http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&c
 http://61.221.81.93:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",ELEVEN SPORTS 2 HD
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",ELEVEN SPORTS 1
+http://50.7.238.98:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+#EXTINF:-1 group-title="🏂  体育赛事",ELEVEN SPORTS 1
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+#EXTINF:-1 group-title="🏂  体育赛事",ELEVEN SPORTS 2
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育1台
 http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育1台
@@ -4689,14 +4697,43 @@ http://50.7.238.98:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=
 http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
 #EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育2台
 http://50.7.238.98:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-#EXTINF:-1 group-title="🏂  体育赛事",博斯运动二台
+#EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育2台
+http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+#EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育2台
+http://50.7.238.98:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 group-title="🏂  体育赛事",爱尔达体育2台
+http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/博斯运动二台" tvg-id="博斯运动二台" tvg-name="博斯运动二台",group-title="🏂  体育赛事",博斯运动二台
 http://50.7.238.98:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-#EXTINF:-1 group-title="🏂  体育赛事",博斯运动二台
-http://50.7.238.98:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
-#EXTINF:-1 group-title="🏂  体育赛事",博斯运动二台
-http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-#EXTINF:-1 group-title="🏂  体育赛事",博斯运动二台
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/博斯运动二台" tvg-id="博斯运动二台" tvg-name="博斯运动二台",group-title="🏂  体育赛事",博斯运动二台
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/博斯网球台" tvg-id="博斯网球台" tvg-name="博斯网球台",group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.98:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/博斯网球台" tvg-id="博斯网球台" tvg-name="博斯网球台",group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.98:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/博斯网球台" tvg-id="博斯网球台" tvg-name="博斯网球台",group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.98:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/博斯网球台" tvg-id="博斯网球台" tvg-name="博斯网球台",group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/博斯网球台" tvg-id="博斯网球台" tvg-name="博斯网球台",group-title="🏂  体育赛事",博斯网球台
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球一台
+http://50.7.238.98:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球一台
+http://50.7.238.98:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球一台
+http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球二台
+http://50.7.238.98:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球二台
+http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1 group-title="🏂  体育赛事",博斯高球二台
+http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1 group-title="🏂  体育赛事",博斯魅力
+http://50.7.238.98:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+#EXTINF:-1 group-title="🏂  体育赛事",博斯魅力
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+
 #EXTINF:-1 group-title="🏂  体育赛事",车迷TV
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",五星体育
@@ -4781,26 +4818,52 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30905.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/31000.ts
 #EXTINF:-1 group-title="🏂  体育赛事",英国电信体育频道4
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
-#EXTINF:-1 group-title="🏂  体育赛事",J 体育频道1
+#EXTINF:-1 group-title="🏂  体育赛事",J Sports 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:-1 group-title="🏂  体育赛事",J 体育频道2
+#EXTINF:-1 group-title="🏂  体育赛事",J Sports 2
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-#EXTINF:-1 group-title="🏂  体育赛事",J 体育频道3
+#EXTINF:-1 group-title="🏂  体育赛事",J Sports 3
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-#EXTINF:-1 group-title="🏂  体育赛事",J 体育频道4
+#EXTINF:-1 group-title="🏂  体育赛事",J Sports 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="🏂  体育赛事",NBA TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66370
+#EXTINF:-1 group-title="🏂  体育赛事",NBA TV
+http://iptvtree.net:8080/9ba1ba9e/9e6e25e5cc/15962
 #EXTINF:-1 group-title="🏂  体育赛事",红牛电视台
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",红牛电视台
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",FIGHT SPORTS1
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="🏂  体育赛事",FIGHT SPORTS1
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",FIGHT SPORTS2
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",WWE摔角
+http://50.7.238.98:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+#EXTINF:-1 group-title="🏂  体育赛事",WWE摔角
+http://50.7.238.114:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 #EXTINF:-1 group-title="🏂  体育赛事",WWE摔角
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="🏂  体育赛事",欧洲体育•1 HD
-http://myott.top/stream/93K4NA7ZUL/176.m3u8
-#EXTINF:-1 group-title="🏂  体育赛事",欧洲体育•2 HD
-http://myott.top/stream/93K4NA7ZUL/192.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",欧洲体育台
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="🏂  体育赛事",⚽TVRI•体育🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 group-title="🏂  体育赛事",BT SPORT 1
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30989.ts
+#EXTINF:-1 group-title="🏂  体育赛事",BT SPORT 2
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30905.ts
+#EXTINF:-1 group-title="🏂  体育赛事",BT SPORT 3
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/31000.ts
+#EXTINF:-1 group-title="🏂  体育赛事",BT SPORT 4
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
+#EXTINF:-1 group-title="🏂  体育赛事",beIN Sports 5
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34722
+#EXTINF:-1 group-title="🏂  体育赛事",beIN Sports 6
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34723
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/智林体育台" tvg-id="智林体育台" tvg-name="智林体育台",group-title="🏂  体育赛事",智林体育台
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="📚  空中课堂",一年级
 http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
