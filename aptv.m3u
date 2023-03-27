@@ -2349,18 +2349,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="🫓 4K-16M-IPTV6",黑龙江卫视-16M
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视" tvg-id="民视" tvg-name="民视",group-title="⛵  港澳台",民视HD
-http://23.237.10.66:16334
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/台视" tvg-id="台视" tvg-name="台视",group-title="⛵  港澳台",台视HD
-http://23.237.10.66:16344
-#EXTINF:-1,group-title="⛵  港澳台",星卫电影台HD
-http://23.237.10.66:16359
-#EXTINF:-1,group-title="⛵  港澳台",中天综合HD
-http://23.237.10.66:16372
-#EXTINF:-1,group-title="⛵  港澳台",电视剧场
-http://23.237.10.66:16406
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台HD
-http://23.237.10.66:16410
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电
 http://nas.jdshipin.com:8801/gdfc.php
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电低清
@@ -3749,6 +3737,18 @@ http://jylt.jdshipin.com:808/hls/84/index.m3u8
 http://jylt.jdshipin.com:808/hls/85/index.m3u8
 #EXTINF:-1,group-title="⛵  港澳台-新扫",TVB财经体育资讯
 http://jylt.jdshipin.com:808/hls/86/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视" tvg-id="民视" tvg-name="民视",group-title="⛵  港澳台-新扫",民视HD
+http://23.237.10.66:16334
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/台视" tvg-id="台视" tvg-name="台视",group-title="⛵  港澳台-新扫",台视HD
+http://23.237.10.66:16344
+#EXTINF:-1,group-title="⛵  港澳台-新扫",星卫电影台HD
+http://23.237.10.66:16359
+#EXTINF:-1,group-title="⛵  港澳台-新扫",中天综合HD
+http://23.237.10.66:16372
+#EXTINF:-1,group-title="⛵  港澳台-新扫",电视剧场
+http://23.237.10.66:16406
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台-新扫",翡翠台HD
+http://23.237.10.66:16410
 
 #EXTINF:-1 group-title="🇭🇰 香港台(每周同步香港epg节目)",J2
 https://epg.pw/stream/6402d3724facdf579de3a93fa53e3ef44b8e0245d200888650db72f9e1a15774.m3u8
