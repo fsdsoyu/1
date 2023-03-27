@@ -2003,6 +2003,12 @@ CCTV16奥运-50P-4K-HDR,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox
 无线新闻台,http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 无线新闻台,http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 无线新闻台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+民视HD,http://23.237.10.66:16334
+台视HD,http://23.237.10.66:16344
+星卫电影台HD,http://23.237.10.66:16359
+中天综合HD,http://23.237.10.66:16372
+电视剧场,http://23.237.10.66:16406
+翡翠台HD,http://23.237.10.66:16410
 翡翠台广电,http://nas.jdshipin.com:8801/gdfc.php
 翡翠台广电低清,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 明珠台高清,http://nas.jdshipin.com:8801/gdmz.php
@@ -2992,6 +2998,44 @@ LUXE TV Channel,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunkli
 CNN亚洲财经台,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 My Cinema Europe HD 我的欧洲电影,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 人间卫视,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+
+🌺 国外,#genre#
+印度電影,http://23.237.10.66:16054
+MULTI SHOW,http://23.237.10.66:16124
+丹麥-Sportv2,http://23.237.10.66:16180
+TELE CINE Pipoca,http://23.237.10.66:16195
+DIDIK TV,http://23.237.10.66:16404
+DIDIK TV2,http://23.237.10.66:16405
+GO SHOP,http://23.237.10.66:16426
+Astro OASIS,http://23.237.10.66:16471
+M suria,http://23.237.10.66:16492
+MaisVace,http://208.115.225.174:14020
+巴西_Universal,http://208.115.225.174:14128
+WB TV,http://208.115.225.174:14132
+HBO,http://208.115.225.174:14136
+HBO 2,http://208.115.225.174:14140
+HBO family,http://208.115.225.174:14144
+HBO Mundi,http://208.115.225.174:14148
+HBO +,http://208.115.225.174:14152
+HBO POP,http://208.115.225.174:14156
+HBO signature,http://208.115.225.174:14160
+HBO XTREME,http://208.115.225.174:14165
+Sbt,http://208.115.225.174:14170
+Sbt,http://208.115.225.174:14173
+Sbt,http://208.115.225.174:14176
+Animal Planet,http://208.115.225.174:14192
+AOVIVO,http://208.115.225.174:14259
+BDMG,http://208.115.225.174:14263
+AOVIVO,http://208.115.225.174:14271
+Show FE,http://208.115.225.174:14420
+Show FE,http://208.115.225.174:14428
+Premiere,http://208.115.225.174:14460
+Premiere,http://208.115.225.174:14464
+Premiere,http://208.115.225.174:14468
+Premiere,http://208.115.225.174:14472
+Premiere,http://208.115.225.174:14476
+ESPN 4,http://208.115.225.174:14510
+ESPN SC,http://208.115.225.174:14754
 
 
 🎮 游戏直播,#genre#
