@@ -4166,6 +4166,283 @@ http://208.115.225.174:14476
 http://208.115.225.174:14510
 #EXTINF:-1 group-title="🌺 国外",ESPN SC
 http://208.115.225.174:14754
+#EXTINF:-1 group-title="🌺 国外",KBCSBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="🌺 国外",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 group-title="🌺 国外",MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",MTVBiggestPop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="🌺 国外",MTVBlockParty
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="🌺 国外",MTVWMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="🌺 国外",MTVYo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="🌺 国外",NBSKoreaAgriculturalBr
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",NHKWorld
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="🌺 国外",NHKWorld
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="🌺 国外",otpaha
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",SexyK-Pop[854*480]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",TJBSBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="🌺 国外",俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",法国时尚[800*453]
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="🌺 国外",新加坡[480*270]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",新马亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="🌺 国外",澳大利亚ABC[1024*576]
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",俄罗斯rostovpapatv
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",乌克兰基辅一台
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",乌克兰7tvod新闻台
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",乌克兰BAMBARBIATV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",塞尔维亚redtv[640*360]
+https://live.rednet.rs/providus/redtv_multi.m3u8
+#EXTINF:-1 group-title="🌺 国外",塞尔维亚redtv[640*360]
+https://live.rednet.rs/providus/redtv_multi_lq/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",新加坡英语电视台[960*540]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1 group-title="🌺 国外",新加坡英语电视台[640*360]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
+#EXTINF:-1 group-title="🌺 国外",新加坡英语电视台[480*270]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
+#EXTINF:-1 group-title="🌺 国外",ARS
+https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",Arirang[640*360]
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 group-title="🌺 国外",EBS1[720*400]
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",EBS2[720*400]
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",EBSe[720*400]
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",LuxuryWorld
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="🌺 国外",MBC综合频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",TBS
+http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",阿里郎WORLD[640*360]
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1 group-title="🌺 国外",泰国-公共三台
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",新加坡-CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🌺 国外",越南-CTV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="🌺 国外",越南-VBSTV[859*480]
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",老挝-LaoChampaTV2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-TVRISports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-TVRIKanal3
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-METROTV[284*160]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",伊朗-PBCTapeshTV[640*360]
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国教育台[640*360]
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国中央台
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="🌺 国外",韩国-Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-Arirang
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-BBS 
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-KBC
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-KCTV_CH05
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-KCTV_HV2
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-MBC综合频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-SBS CJB
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-TV5 INFO
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-MBC(MBC Yeosu)
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-TBS
+http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-TJB (SBS 大田)
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="🌺 国外",泰国-公共三台
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",新加坡-CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="🌺 国外",新加坡-CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🌺 国外",越南-CTV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="🌺 国外",越南-VBSTV,
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",老挝-LaoChampaTV2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-TVRISports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-TVRIKanal3
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",伊朗-PBCTapeshTV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",韩国-KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="🌺 国外",日本-NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",日本-NHK WORLD TV
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="🌺 国外",日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",日韩频道
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+
+#EXTINF:-1 group-title="🌺 国外",越南-antvliv
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",越南-Cbeebies
+https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-BeritaSatuWorld
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-Aditv
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-BERITASATUNEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",印尼-JAKARTAGLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",菲律宾-INC
+https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?
+#EXTINF:-1 group-title="🌺 国外",印度-ABPAsmita
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 group-title="🌺 国外",伊朗-RangarangTV
+http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",阿拉伯半岛电视新闻网AlHurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="🌺 国外",伊拉克-SharqiyaNews
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",柬埔寨-SEATV
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",PersianaComedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 group-title="🌺 国外",PersianaDocumentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 group-title="🌺 国外",PersianaIranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 group-title="🌺 国外",PersianaMusic
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 group-title="🌺 国外",PersianaNostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="🌺 国外",KH-BayonTV[480*360]
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",KH-FreshNewsTV
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",蒙古-HHGZ
+http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+#EXTINF:-1 group-title="🌺 国外",CGTN(Opt-1)[1024*576]
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="🌺 国外",5AABTV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",CanadaOne
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",AmazingDiscoveriesTV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",CA[852*480]
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="🌺 国外",InsightTV[640*360]
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",Inwonder[640*360]
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",BadenTV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="🌺 国外",SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 group-title="🌺 国外",TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 group-title="🌺 国外",Astrakhan24(Opt-2)[640*360]
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",ShansonTV(Opt-2)[640*360]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="🌺 国外",IZ电视[640*360]
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="🌺 国外",RUTV[996*560]
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",Самара[1024*576]
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",Орск
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",RBC[854*480]
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",TVBRICS(ENG)
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",Fashion & Lifestyle (UA)
+http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",FashionTV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 group-title="🌺 国外",FTVMagazine
+https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="🌺 国外",MiamiTV
+https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",CLASSTVMODA
+https://streamcdne1-859c1818ed614cc5b0047439470927b0.msvdn.net/vod/852oKGTnb3tO/7c1b70d3-7dcb-4818-8274-4a8524391b6f/chunklist-f1-v1-a1.m3u8?T=1649336837
+#EXTINF:-1 group-title="🌺 国外",QVCBeauty
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/high.m3u8
+#EXTINF:-1 group-title="🌺 国外",QVCBeauty2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/high.m3u8
+#EXTINF:-1 group-title="🌺 国外",QVCBeauty3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/high.m3u8
+#EXTINF:-1 group-title="🌺 国外",QVCKitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high.m3u8
+#EXTINF:-1 group-title="🌺 国外",GEMSTV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream/index.m3u8
+#EXTINF:-1 group-title="🌺 国外",JewelleryMaker
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌺 国外",WorldPokerTour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",group-title="📱 移动专区",CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
