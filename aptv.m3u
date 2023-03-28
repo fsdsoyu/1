@@ -2441,6 +2441,8 @@ http://123.51.230.108:18541/.m3u8
 http://123.51.230.108:18543/.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",大爱
 http://123.51.230.108:18567/.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",大爱
+http://123.51.230.124:8567/.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",凤凰资讯
 http://123.51.230.108:18580/.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",龙华日韩
@@ -3709,9 +3711,10 @@ http://38.60.38.190:2023/dl/1.php?id=57
 http://38.60.38.190:2023/dl/1.php?id=58
 #EXTINF:-1 group-title="⛵  港澳台-新扫",澳门莲花
 http://38.60.38.190:2023/dl/1.php?id=71
-#EXTINF:-1,group-title="⛵  港澳台-新扫",HollyWood HD
+
+#EXTINF:-1,group-title="⛵  港澳台-新扫",HollyWood
 http://jylt.jdshipin.com:808/hls/24/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台-新扫",TVB 翡翠台
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台-新扫",翡翠台
 http://jylt.jdshipin.com:808/hls/25/index.m3u8
 #EXTINF:-1,group-title="⛵  港澳台-新扫",TVB Peal
 http://jylt.jdshipin.com:808/hls/26/index.m3u8
@@ -3731,8 +3734,34 @@ http://jylt.jdshipin.com:808/hls/35/index.m3u8
 http://jylt.jdshipin.com:808/hls/79/index.m3u8
 #EXTINF:-1,group-title="⛵  港澳台-新扫",凤凰香港
 http://jylt.jdshipin.com:808/hls/81/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台-新扫",25
-http://jylt.jdshipin.com:808/hls/84/index.m3u8
+
+#EXTINF:-1,group-title="⛵  港澳台-新扫",HollyWood
+http://120.84.96.87:808/hls/24/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台-新扫",翡翠台
+http://120.84.96.87:808/hls/25/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",TVB Peal
+http://120.84.96.87:808/hls/26/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",凤凰资讯
+http://120.84.96.87:808/hls/28/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",凤凰中文
+http://120.84.96.87:808/hls/29/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",东森电影
+http://120.84.96.87:808/hls/32/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",东森洋片
+http://120.84.96.87:808/hls/33/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视" tvg-id="民视" tvg-name="民视",group-title="⛵  港澳台-新扫",民视HD
+http://120.84.96.87:808/hls/34/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",龙祥时代
+http://120.84.96.87:808/hls/35/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",星空卫视
+http://120.84.96.87:808/hls/79/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",凤凰香港
+http://120.84.96.87:808/hls/81/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",CCM
+http://120.84.96.87:808/hls/84/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台-新扫",TVB财经体育资讯
+http://120.84.96.87:808/hls/85/index.m3u8
+
 #EXTINF:-1,group-title="⛵  港澳台-新扫",CCM
 http://jylt.jdshipin.com:808/hls/85/index.m3u8
 #EXTINF:-1,group-title="⛵  港澳台-新扫",TVB财经体育资讯
