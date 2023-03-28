@@ -10,15 +10,6 @@
 		    "filterable":0,
 		    "ext":"./js/豆瓣.js"
 	    },
-	    {
-		    "key":"T4_douban2",
-		    "name":"🔍┃影视推荐2(T4)",
-		    "type":4,
-		    "api":"https://t4.饭太硬.ml/vod",
-		    "searchable":1,
-		    "quickSearch":1,
-		    "filterable":1
-	    },
 	     {
 		    "key": "csp_kuaikan",
 		    "name":"🧸┃快看🍎",
@@ -580,16 +571,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-      {
-	    "key":"csp_FanYY",
-	    "name":"💦剥饭┃4K",
-	    "type":3,
-	    "api":"csp_FanYY",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":1,
-	    "ext":"http://ali.饭太硬.ml/alitoken"
-    },
     {
 	    "key":"阿里影视",
 	    "name":"🥤┃阿里影视┃聚搜",
