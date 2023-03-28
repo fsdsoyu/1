@@ -893,34 +893,32 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=
 
 #EXTINF:-1,group-title="⛱️  广东联通",足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰中文
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰中文
-http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
-http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://112.102.214.193:65530/live/fhzx/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://112.102.214.193:65530/live/fhzw/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://123.51.230.108:8515/.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港
 http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰中文
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰中文
-http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰资讯
-http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",凤凰香港
-http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://107.151.203.111:2209/135/hk.php?id=hkws
 
 #EXTINF:-1,group-title="⛱️  广东联通",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -1948,34 +1946,32 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 group-title="🔰 IPTV6专区",国学频道
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰中文
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰中文
-http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
-http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://112.102.214.193:65530/live/fhzx/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://112.102.214.193:65530/live/fhzw/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://123.51.230.108:8515/.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港
 http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰中文
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰中文
-http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰资讯
-http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="🔰 IPTV6专区",凤凰香港
-http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://107.151.203.111:2209/135/hk.php?id=hkws
 #EXTINF:-1 group-title="🔰 IPTV6专区",环球新闻
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="🔰 IPTV6专区",环球纪实
@@ -2269,34 +2265,32 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 group-title="🍭 IPTV6专区2",国学频道
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰中文
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰中文
-http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
-http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://112.102.214.193:65530/live/fhzx/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://112.102.214.193:65530/live/fhzw/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://123.51.230.108:8515/.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港
 http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰中文
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰中文
-http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰资讯
-http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
-#EXTINF:-1,group-title="🍭 IPTV6专区2",凤凰香港
-http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://107.151.203.111:2209/135/hk.php?id=hkws
 #EXTINF:-1 group-title="🍭 IPTV6专区2",环球新闻
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="🍭 IPTV6专区2",环球纪实
@@ -2619,6 +2613,32 @@ http://134.195.97.47:8178/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&
 
 #EXTINF:-1 group-title="⛵  港澳台",香港有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://112.102.214.193:65530/live/fhzx/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://112.102.214.193:65530/live/fhzw/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+http://123.51.230.108:8515/.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港
+http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",香港卫视
+http://107.151.203.111:2209/135/hk.php?id=hkws
 #EXTINF:-1,group-title="⛵  港澳台",凤凰中文
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
@@ -2704,8 +2724,6 @@ http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 #EXTINF:-1 group-title="⛵  港澳台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="⛵  港澳台",凤凰香港
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",星空卫视
