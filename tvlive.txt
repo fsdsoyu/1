@@ -2022,6 +2022,7 @@ NHK,http://123.51.230.108:18525/.m3u8
 纬来育乐,http://123.51.230.108:18541/.m3u8
 台视HD,http://123.51.230.108:18543/.m3u8
 大爱,http://123.51.230.108:18567/.m3u8
+大爱,http://123.51.230.124:8567/.m3u8
 凤凰资讯,http://123.51.230.108:18580/.m3u8
 龙华日韩,http://123.51.230.108:8513/.m3u8
 凤凰卫视,http://123.51.230.108:8515/.m3u8
@@ -2807,8 +2808,8 @@ TVBS欢乐,http://38.60.38.190:2023/dl/1.php?id=47
 ELEVEN1,http://38.60.38.190:2023/dl/1.php?id=57
 ELEVEN2,http://38.60.38.190:2023/dl/1.php?id=58
 澳门莲花,http://38.60.38.190:2023/dl/1.php?id=71
-HollyWood HD,http://jylt.jdshipin.com:808/hls/24/index.m3u8
-TVB 翡翠台,http://jylt.jdshipin.com:808/hls/25/index.m3u8
+HollyWood,http://jylt.jdshipin.com:808/hls/24/index.m3u8
+翡翠台,http://jylt.jdshipin.com:808/hls/25/index.m3u8
 TVB Peal,http://jylt.jdshipin.com:808/hls/26/index.m3u8
 凤凰资讯,http://jylt.jdshipin.com:808/hls/28/index.m3u8
 凤凰中文,http://jylt.jdshipin.com:808/hls/29/index.m3u8
@@ -2818,7 +2819,20 @@ TVB Peal,http://jylt.jdshipin.com:808/hls/26/index.m3u8
 龙祥时代,http://jylt.jdshipin.com:808/hls/35/index.m3u8
 星空卫视,http://jylt.jdshipin.com:808/hls/79/index.m3u8
 凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
-不知道啥台,http://jylt.jdshipin.com:808/hls/84/index.m3u8
+HollyWood,http://120.84.96.87:808/hls/24/index.m3u8
+翡翠台,http://120.84.96.87:808/hls/25/index.m3u8
+TVB Peal,http://120.84.96.87:808/hls/26/index.m3u8
+凤凰资讯,http://120.84.96.87:808/hls/28/index.m3u8
+凤凰中文,http://120.84.96.87:808/hls/29/index.m3u8
+东森电影,http://120.84.96.87:808/hls/32/index.m3u8
+东森洋片,http://120.84.96.87:808/hls/33/index.m3u8
+民视HD,http://120.84.96.87:808/hls/34/index.m3u8
+龙祥时代,http://120.84.96.87:808/hls/35/index.m3u8
+星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
+凤凰香港,http://120.84.96.87:808/hls/81/index.m3u8
+CCM,http://120.84.96.87:808/hls/84/index.m3u8
+TVB财经体育资讯,http://120.84.96.87:808/hls/85/index.m3u8
+
 CCM,http://jylt.jdshipin.com:808/hls/85/index.m3u8
 TVB财经体育资讯,http://jylt.jdshipin.com:808/hls/86/index.m3u8
 民视HD,http://23.237.10.66:16334
