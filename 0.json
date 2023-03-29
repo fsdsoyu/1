@@ -1,6 +1,15 @@
 {
     "sites": [ 
 	     {
+            "key": "Kunyu77",
+            "name": "🧸┃酷云七七🍎",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	    {
 		    "key":"dr_豆瓣",
 		    "name":"🔍┃豆瓣荐片",
 		    "type":3,
@@ -29,15 +38,6 @@
             "filterable": 1,
 	    "ext":"./js/农民.json"
 	},
-        {
-            "key": "Kunyu77",
-            "name": "🧸┃酷云七七🍎",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 	    	  {
 		  "key": "csp_lezhu",
 	          "name": "🧸┃乐猪🍎",
