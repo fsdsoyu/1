@@ -2505,6 +2505,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电
+http://dadiao.akjp.cn:1936/0.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电
 http://nas.jdshipin.com:8801/gdfc.php
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电低清
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
