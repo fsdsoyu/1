@@ -2538,7 +2538,7 @@ GunmaTV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 经典港片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key
 
-⛵  港澳台-新,#genre#
+⛵  港澳台-该组不稳,#genre#
 三立新闻,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 三立LIVE,http://2023.stream-link.org/playlist/set_news.flv
 东森LIVE,http://103.68.63.37:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
