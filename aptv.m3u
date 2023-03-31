@@ -455,9 +455,9 @@ https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_6818426
 https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/动物星球" tvg-id="动物星球" tvg-name="动物星球",动物星球
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/动物星球" tvg-id="动物星球" tvg-name="动物星球",group-title="☕️ 热门推荐",动物星球
 http://208.115.225.174:14192
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/动物星球" tvg-id="动物星球" tvg-name="动物星球",动物星球720p
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/动物星球" tvg-id="动物星球" tvg-name="动物星球",group-title="☕️ 热门推荐",动物星球720p
 http://208.115.225.174:14263
 #EXTINF:-1,group-title="☕️ 热门推荐",探索发现
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
@@ -513,7 +513,7 @@ http://tv-jiekou.tk/live.php?id=dongsennews
 http://mayi-tv.gq:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",东森LIVE
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=44
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东森财经新闻台" tvg-id="东森财经新闻台" tvg-name="东森财经新闻台",东森财经新闻台
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东森财经新闻台" tvg-id="东森财经新闻台" tvg-name="东森财经新闻台",group-title="☕️ 热门推荐",东森财经新闻台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=45
 #EXTINF:-1,group-title="☕️ 热门推荐",东森洋片
 http://120.84.96.113:808/hls/33/index.m3u8
@@ -523,9 +523,9 @@ http://107.151.203.111:2209/135/hk.php?id=dsdyt
 http://120.84.96.87:808/hls/32/index.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",东森戏剧
 http://103.68.63.37:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",翡翠台
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="☕️ 热门推荐",翡翠台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=5
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",无线新闻台
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="☕️ 热门推荐",无线新闻台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=6
 #EXTINF:-1,group-title="☕️ 热门推荐",财经体育资讯台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=7
