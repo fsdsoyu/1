@@ -2198,6 +2198,11 @@ Hollywood,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 香港卫视,http://107.151.203.111:2209/135/hk.php?id=hkws
 香港卫视HKS,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
 香港文旅,http://hw-play.lezhibo.com/live/1fb871bac32a4c96b206a85aa573a161.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://gslb.cdn.hk.chinamobile.com/live/6aec56586c324021927637a750c1811e/cb76365be43b4ba598eb2f2ef3cffcd9-3.m3u8
+有线新闻,http://38.60.38.190:2023/dl/1.php?id=3
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://cm61-10-2-140.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist.m3u8
@@ -9349,6 +9354,17 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 武进新闻频道,http://live.wjyanghu.com/live/CH1.m3u8
 
 🌺  广东频道,#genre#
+广东体育-16M,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+大湾区卫视,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?ProgramID=&encrypt=
+大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
+大湾区卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/1653149724-1-1651284940.m3u8
+广东影视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs4&auth=rinimabi
+广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
+广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
+广东影视,http://183.11.239.32:808/hls/8/index.m3u8
+广东影视,http://live.cooltv.top/tv/gd.php?id=gdys
+广东影视,http://iptva.cn/api/M3u8/Index?id=996&card=99982475359
+广东体育,mitv://generationnexxxt.com:19806/e9e2075a549c4f98802b4c029614289d
 翡翠台广电,http://nas.jdshipin.com:8801/gdfc.php
 翡翠台广电低清,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 明珠台高清,http://nas.jdshipin.com:8801/gdmz.php
@@ -9374,7 +9390,6 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 大湾区卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226203/index.m3u8
 珠江台,http://qwas.eatuo.com:9901/tsfile/live/1000_1.m3u8
 珠江台2,http://fxhack.f3322.org:8000/udp/239.77.0.01:5146
-广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 清新综合,http://hls.wiseqx.com/live/qxzh.m3u8
 清新公共,http://hls.wiseqx.com/live/qxgg.m3u8
