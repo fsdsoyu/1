@@ -316,6 +316,16 @@ HBO HD,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcb
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
 经典功夫台,https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+龙祥时代,http://jylt.jdshipin.com:808/hls/35/index.m3u8
+星空卫视,http://jylt.jdshipin.com:808/hls/79/index.m3u8
+CCM,http://120.84.96.87:808/hls/84/index.m3u8
+星卫电影台,http://23.237.10.66:16359
+星卫电影台,https://epg.pw/stream/28fc6d59dcde509467bc34a5035e449bc335d434f8692144ebc6c74b9b703b7f.ctv
+大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+爱尔达娱乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 
 动物星球,http://208.115.225.174:14192
 动物星球720p,http://208.115.225.174:14263
@@ -333,6 +343,22 @@ iHOT爱探索,http://iptva.cn/api/M3u8/Index?id=871&card=99982475359
 求索科学,http://39.134.136.138:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索纪录,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索纪录,http://39.134.136.138:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+爱尔达生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+动物星球,http://208.115.225.174:14192
+求索生活,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+求索动物,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+求索生活,http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+求索动物,http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+科学探索,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8?key
+自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
+纪实人文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
+乐游频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+求索生活,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 纬来体育台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=73
 纬来日本台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=74
 纬来育乐台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=75
@@ -3407,43 +3433,6 @@ Hands Up,mitv://generationnexxxt.com:19806/ab6fee9c3d744e8489c7b335da8f7cc4
 HOY资讯台,mitv://generationnexxxt.com:19806/5d9df76ad0eb40599c47544777cbc922
 
 ⛵  港澳台-新扫,#genre#
-凤凰资讯,http://38.60.38.190:2023/dl/1.php?id=1
-凤凰香港,http://38.60.38.190:2023/dl/1.php?id=2
-香港有线新闻台,http://38.60.38.190:2023/dl/1.php?id=3
-香港财经资讯台,http://38.60.38.190:2023/dl/1.php?id=4
-有线18台,http://38.60.38.190:2023/dl/1.php?id=5
-香港体育台,http://38.60.38.190:2023/dl/1.php?id=6
-香港603台,http://38.60.38.190:2023/dl/1.php?id=8
-TVB无线新闻台,http://38.60.38.190:2023/dl/1.php?id=10
-TVB体育资讯台,http://38.60.38.190:2023/dl/1.php?id=11
-TVB翡翠台,http://38.60.38.190:2023/dl/1.php?id=12
-TVB Peal,http://38.60.38.190:2023/dl/1.php?id=13
-TVB J2,http://38.60.38.190:2023/dl/1.php?id=14
-Now新闻台,http://38.60.38.190:2023/dl/1.php?id=17
-HOY TV,http://38.60.38.190:2023/dl/1.php?id=21
-RHK31,http://38.60.38.190:2023/dl/1.php?id=22
-RHK32,http://38.60.38.190:2023/dl/1.php?id=23
-中天新闻,http://38.60.38.190:2023/dl/1.php?id=24
-东森LIVE,http://38.60.38.190:2023/dl/1.php?id=25
-东森财经新闻,http://38.60.38.190:2023/dl/1.php?id=26
-环宇新闻HD,http://38.60.38.190:2023/dl/1.php?id=28
-台视新闻HD,http://38.60.38.190:2023/dl/1.php?id=30
-中视新闻HD,http://38.60.38.190:2023/dl/1.php?id=31
-华视新闻,http://38.60.38.190:2023/dl/1.php?id=32
-三立LIVE,http://38.60.38.190:2023/dl/1.php?id=34
-民视新闻,http://38.60.38.190:2023/dl/1.php?id=37
-民视HD,http://38.60.38.190:2023/dl/1.php?id=41
-台视HD,http://38.60.38.190:2023/dl/1.php?id=42
-中视HD,http://38.60.38.190:2023/dl/1.php?id=43
-华视HD,http://38.60.38.190:2023/dl/1.php?id=44
-TVBS,http://38.60.38.190:2023/dl/1.php?id=46
-TVBS欢乐,http://38.60.38.190:2023/dl/1.php?id=47
-纬来体育HD,http://38.60.38.190:2023/dl/1.php?id=54
-纬来日本HD,http://38.60.38.190:2023/dl/1.php?id=55
-纬来育乐HD,http://38.60.38.190:2023/dl/1.php?id=56
-ELEVEN1,http://38.60.38.190:2023/dl/1.php?id=57
-ELEVEN2,http://38.60.38.190:2023/dl/1.php?id=58
-澳门莲花,http://38.60.38.190:2023/dl/1.php?id=71
 HollyWood,http://jylt.jdshipin.com:808/hls/24/index.m3u8
 翡翠台,http://jylt.jdshipin.com:808/hls/25/index.m3u8
 TVB Peal,http://jylt.jdshipin.com:808/hls/26/index.m3u8
