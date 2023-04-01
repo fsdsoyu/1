@@ -345,17 +345,17 @@ http://218.204.51.252:9901/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/三沙卫视" tvg-id="三沙卫视" tvg-name="三沙卫视",group-title="🍓  央卫综合",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
-#EXTINF:-1,group-title="☕️ 热门推荐",凤凰资讯
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",group-title="☕️ 热门推荐",凤凰资讯
 http://112.102.214.193:65530/live/fhzx/index.m3u8
-#EXTINF:-1,group-title="☕️ 热门推荐",凤凰资讯
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",group-title="☕️ 热门推荐",凤凰资讯
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
-#EXTINF:-1,group-title="☕️ 热门推荐",凤凰中文
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",group-title="☕️ 热门推荐",凤凰中文
 http://112.102.214.193:65530/live/fhzw/index.m3u8
-#EXTINF:-1,group-title="☕️ 热门推荐",凤凰中文
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文",group-title="☕️ 热门推荐",凤凰中文
 http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
-#EXTINF:-1,group-title="☕️ 热门推荐",凤凰香港
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",group-title="☕️ 热门推荐",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1,group-title="☕️ 热门推荐",凤凰香港
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",group-title="☕️ 热门推荐",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="☕️ 热门推荐",翡翠台
 http://113.117.74.12:8081/hls/67/index.m3u8
@@ -383,6 +383,10 @@ http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=12
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=13
 #EXTINF:-1,group-title="☕️ 热门推荐",美亚电影台
 http://107.173.180.164:2095/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" tvg-id="中天新闻" tvg-name="中天新闻",group-title="☕️ 热门推荐",中天新闻
+http://103.68.63.37:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" tvg-id="中天新闻" tvg-name="中天新闻",group-title="☕️ 热门推荐",中天新闻
+http://2023.stream-link.org/live/1552993665
 #EXTINF:-1,group-title="☕️ 热门推荐",三立LIVE新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",三立iNEWS
@@ -427,9 +431,9 @@ https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814537.m3u8
 http://120.84.96.33:808/hls/85/index.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",天映电影
 http://120.84.96.87:808/hls/85/index.m3u8
-#EXTINF:-1,group-title="☕️ 热门推荐",莲花电影台
+#EXTINF:-1,group-title="☕️ 热门推荐",澳门莲花电影台
 http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
-#EXTINF:-1,group-title="☕️ 热门推荐",莲花电影台
+#EXTINF:-1,group-title="☕️ 热门推荐",澳门莲花电影台
 http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.flv
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/好莱坞电影台" tvg-id="好莱坞电影台" tvg-name="好莱坞电影台",group-title="☕️ 热门推荐",好莱坞电影台
 https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -541,7 +545,6 @@ http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/888888
 http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",纪实人文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/纬来体育台" tvg-id="纬来体育台" tvg-name="纬来体育台",group-title="☕️ 热门推荐",纬来体育台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=73
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/纬来日本台" tvg-id="纬来日本台" tvg-name="纬来日本台",group-title="☕️ 热门推荐",纬来日本台
