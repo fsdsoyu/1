@@ -643,9 +643,17 @@ https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m
 #EXTINF:-1,group-title="☕️ 热门推荐",经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",龙祥时代
-http://jylt.jdshipin.com:808/hls/35/index.m3u8
+http://120.84.96.33:808/hls/35/index.m3u8
+#EXTINF:-1,group-title="☕️ 热门推荐",龙祥时代
+http://120.84.96.73:808/hls/30/index.m3u8
+#EXTINF:-1,group-title="☕️ 热门推荐",龙祥时代
+http://120.84.96.87:808/hls/35/index.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",星空卫视
-http://jylt.jdshipin.com:808/hls/79/index.m3u8
+http://113.117.74.21:8081/hls/87/index.m3u8
+#EXTINF:-1,group-title="☕️ 热门推荐",星空卫视
+http://113.117.74.22:8081/hls/87/index.m3u8
+#EXTINF:-1,group-title="☕️ 热门推荐",星空卫视
+http://113.117.74.24:8081/hls/87/index.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",CCM
 http://120.84.96.87:808/hls/84/index.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",星卫电影台
@@ -736,6 +744,12 @@ http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=74
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=75
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/纬来体育台" tvg-id="纬来体育台" tvg-name="纬来体育台",group-title="☕️ 热门推荐",纬来体育台
 http://123.51.230.108:18509/.m3u8
+#EXTINF:-1,group-title="☕️ 热门推荐",纬来体育台
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=73
+#EXTINF:-1,group-title="☕️ 热门推荐",纬来日本台
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=74
+#EXTINF:-1,group-title="☕️ 热门推荐",纬来育乐台
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=75
 #EXTINF:-1,group-title="☕️ 热门推荐",香港有线直播新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",无线新闻
@@ -744,14 +758,10 @@ http://162.19.247.76:22222/live/tvbnews/index.m3u8
 https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8?by=yeslivetv_com
 #EXTINF:-1,group-title="☕️ 热门推荐",无线新闻
 https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
-#EXTINF:-1,group-title="☕️ 热门推荐",咪咕体育1
-http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
-#EXTINF:-1,group-title="☕️ 热门推荐",咪咕体育2
-http://39.137.49.76:8080/PLTV/88888888/224/3221226235/index.m3u8?
 #EXTINF:-1,group-title="☕️ 热门推荐",东森新闻
-http://tv-jiekou.tk/live.php?id=dongsennews
+https://pull-l3-cny.douyincdn.com/live/stream-1121752023031421592.m3u8?by=yeslivetv_com
 #EXTINF:-1,group-title="☕️ 热门推荐",东森新闻
-http://mayi-tv.gq:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+https://pull-l3-cny.douyincdn.com/live/stream-1121752023031421592.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",东森LIVE
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=44
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东森财经新闻台" tvg-id="东森财经新闻台" tvg-name="东森财经新闻台",group-title="☕️ 热门推荐",东森财经新闻台
@@ -798,14 +808,6 @@ http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=27
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=30
 #EXTINF:-1,group-title="☕️ 热门推荐",耀才财经台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=32
-#EXTINF:-1,group-title="☕️ 热门推荐",澳门莲花
-http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=35
-#EXTINF:-1,group-title="☕️ 热门推荐",澳门资讯
-http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=37
-#EXTINF:-1,group-title="☕️ 热门推荐",澳视澳门
-http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=38
-#EXTINF:-1,group-title="☕️ 热门推荐",澳门综艺
-http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=40
 #EXTINF:-1,group-title="☕️ 热门推荐",东森LIVE
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=44
 #EXTINF:-1,group-title="☕️ 热门推荐",东森财经新闻
@@ -840,22 +842,20 @@ http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=61
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=62
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/华视" tvg-id="华视" tvg-name="华视",group-title="☕️ 热门推荐",华视
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=63
-#EXTINF:-1,group-title="☕️ 热门推荐",纬来体育
-http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=73
-#EXTINF:-1,group-title="☕️ 热门推荐",纬来日本
-http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=74
-#EXTINF:-1,group-title="☕️ 热门推荐",纬来育乐
-http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=75
+#EXTINF:-1,group-title="☕️ 热门推荐",爱尔达影剧台
+http://107.173.180.164:2095/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 #EXTINF:-1,group-title="☕️ 热门推荐",ELEVEN1
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=76
 #EXTINF:-1,group-title="☕️ 热门推荐",ELEVEN2
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=77
-#EXTINF:-1,group-title="☕️ 热门推荐",ELEVEN2
-http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=79
 #EXTINF:-1,group-title="☕️ 热门推荐",博斯网球
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=80
-#EXTINF:-1,group-title="☕️ 热门推荐",ELTA体育1台
+#EXTINF:-1,group-title="☕️ 热门推荐",爱尔达体育1台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=81
+#EXTINF:-1,group-title="☕️ 热门推荐",爱尔达体育1台
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=79
+#EXTINF:-1,group-title="☕️ 热门推荐",爱尔达体育2台
+http://107.173.180.164:2095/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",group-title="💎  央视蓝光",CCTV1
 http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
