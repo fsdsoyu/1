@@ -828,6 +828,10 @@ http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=51
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=52
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/寰宇新闻" tvg-id="寰宇新闻" tvg-name="寰宇新闻",group-title="☕️ 热门推荐",寰宇新闻
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=53
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/寰宇新闻" tvg-id="寰宇新闻" tvg-name="寰宇新闻",group-title="☕️ 热门推荐",寰宇新闻
+http://2023.stream-link.org/live/1932250847
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/寰宇新闻" tvg-id="寰宇新闻" tvg-name="寰宇新闻",group-title="☕️ 热门推荐",寰宇新闻
+http://tv.redrainl.site:9500/live.m3u8?c=22
 #EXTINF:-1,group-title="☕️ 热门推荐",TVBS新闻台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=54
 #EXTINF:-1,group-title="☕️ 热门推荐",TVBS HD
@@ -3016,14 +3020,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="🫓 4K-16M-IPTV6",黑龙江卫视-16M
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电
-http://dadiao.akjp.cn:1936/0.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电
-http://nas.jdshipin.com:8801/gdfc.php
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台广电低清
-http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港澳台",明珠台高清
-http://nas.jdshipin.com:8801/gdmz.php
 #EXTINF:-1,group-title="⛵  港澳台",TW好莱坞
 https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港澳台",香港开电视
@@ -3031,63 +3027,58 @@ http://2022.stream-link.org/playlist/hoy_tv.ts
 #EXTINF:-1,group-title="⛵  港澳台",影迷纪实台
 http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
-http://shazui.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
-http://radius.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
-http://50.7.238.98:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
 http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=6
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
+https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8?by=yeslivetv_com
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",group-title="⛵  港澳台",无线新闻台
+https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
+
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
+http://113.117.74.12:8081/hls/67/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
+http://113.117.74.15:8081/hls/67/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
+http://113.117.74.22:8081/hls/67/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
+http://113.117.74.37:8081/hls/67/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=5
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
+http://2022.stream-link.org/live/131217689
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
 http://162.19.247.76:22222/live/tvbfc/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
+http://120.84.96.87:808/hls/25/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",VB Jade (翡翠台)
 https://live.astradamy.com/tvbfc/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
-http://shazui.8866.org:800/hls/80/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
-http://radius.8866.org:800/hls/80/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
-http://107.151.203.111:2209/135/hk.php?id=tvbfct
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",group-title="⛵  港澳台",翡翠台
-http://r.jdshipin.com/n90gt
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港澳台",明珠台
-http://radius.8866.org:800/hls/84/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港澳台",明珠台
-http://120.84.96.73:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港澳台",明珠台
-http://120.84.96.89:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港澳台",明珠台
-http://120.84.96.82:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港澳台",明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港澳台",明珠台
-http://107.151.203.111:2209/135/hk.php?id=tvbmzt
-#EXTINF:-1,group-title="⛵  港澳台",明珠台(粤)
-https://cdn.hklive.tv/xxxx/84b/index.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台",group-title="⛵  港澳台",TVB明珠台
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=9
 #EXTINF:-1,group-title="⛵  港澳台",星卫电影台
 https://epg.pw/stream/28fc6d59dcde509467bc34a5035e449bc335d434f8692144ebc6c74b9b703b7f.ctv
 #EXTINF:-1,group-title="⛵  港澳台",星卫电影台
 http://23.237.10.66:16359
+#EXTINF:-1,group-title="⛵  港澳台",好莱坞电影台
+https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,group-title="⛵  港澳台",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/中天综合台" tvg-id="中天综合台" tvg-name="中天综合台",group-title="⛵  港澳台",中天综合台
 http://23.237.10.66:16372
+#EXTINF:-1,group-title="⛵  港澳台",莲花电影台
+http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",莲花电影台
+http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.flv
 #EXTINF:-1,group-title="⛵  港澳台",中天新闻台
-http://2023.stream-link.org/playlist/cti_news.flv
+http://103.68.63.37:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 #EXTINF:-1,group-title="⛵  港澳台",中天新闻台
-https://epg.pw/stream/c3dd212b8515e4494cf736b300c9e68cc061890eb1bbbb36834990120d60e9e4.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",中天新闻台
-http://107.151.203.111:2209/135/hk.php?id=ztxw
+http://2023.stream-link.org/live/1552993665
 #EXTINF:-1,group-title="⛵  港澳台",美亚电影台
-https://epg.pw/stream/781f06fa349039a762a1e3ce66ef344fa92146f448e18eea0b2c887e5044367a.m3u8
+http://107.173.180.164:2095/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 #EXTINF:-1 group-title="⛵  港澳台",纬来体育
 http://123.51.230.108:18509/.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",好消息
-http://123.51.230.108:18507/.m3u8
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",NHK
 http://123.51.230.108:18525/.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",东森戏剧
@@ -3127,6 +3118,10 @@ http://134.195.97.47:8178/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&
 
 #EXTINF:-1 group-title="⛵  港澳台",香港有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",香港有线新闻
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=11
+#EXTINF:-1 group-title="⛵  港澳台",香港有线财经资讯台
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=15
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",group-title="⛵  港澳台",凤凰资讯
 http://112.102.214.193:65530/live/fhzx/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯",group-title="⛵  港澳台",凤凰资讯
@@ -3148,7 +3143,7 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港",group-title="⛵  港澳台",凤凰香港
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",group-title="⛵  港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+http://124.238.99.44:808/hls/352/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",group-title="⛵  港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",group-title="⛵  港澳台",香港卫视
@@ -3182,12 +3177,23 @@ http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/22
 #EXTINF:-1,group-title="⛵  港澳台",凤凰香港
 http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
 
+#EXTINF:-1 group-title="⛵  港澳台",澳亚卫视
+http://107.151.203.111:2209/135/hk.php?id=aoya
+#EXTINF:-1 group-title="⛵  港澳台",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",澳门莲花
+http://epg.112114.xyz/lotus
+#EXTINF:-1 group-title="⛵  港澳台",澳门莲花
+http://107.151.203.111:2209/135/hk.php?id=amlh
+
+#EXTINF:-1 group-title="⛵  港澳台",凤凰电影
+http://218.202.220.2:5000/nn_live.m3u8?id=NEWSASIA
 #EXTINF:-1 group-title="⛵  港澳台",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",凤凰电影
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
-#EXTINF:-1 group-title="⛵  港澳台",凤凰电影
-http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",大爱
@@ -3226,8 +3232,6 @@ http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",东森yoyo
 http://2023.stream-link.org/playlist/ebc_yoyo.flv
-#EXTINF:-1 group-title="⛵  港澳台",澳门莲花
-http://107.151.203.111:2209/135/hk.php?id=amlh
 #EXTINF:-1 group-title="⛵  港澳台",中天综合
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/有线新闻台" tvg-id="有线新闻台" tvg-name="有线新闻台",group-title="⛵  港澳台",有线新闻台
@@ -3241,12 +3245,29 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",星空卫视
-http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
+http://113.117.74.21:8081/hls/87/index.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",星空卫视
+http://113.117.74.24:8081/hls/87/index.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",星空卫视
+http://113.117.74.22:8081/hls/87/index.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",Channel [V]
-http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
+http://113.117.74.10:8081/hls/88/index.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",Channel [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",TVB星河
-http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="⛵  港澳台",功夫台
+http://113.117.74.5:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",TVB星河
+http://113.117.74.12:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",TVB星河
+http://113.117.74.15:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",TVB 星河台（国）
+http://107.173.180.164:2095/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
+
+#EXTINF:-1 group-title="⛵  港澳台",经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",经典功夫台
+https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",时尚台FTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
@@ -3284,10 +3305,14 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",天映经典
 http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",TVB财经体育资讯
+http://120.84.96.33:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",TVB财经体育资讯
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=7
 #EXTINF:-1 group-title="⛵  港澳台",J2
-https://cdn.hklive.tv/xxxx/82/index.m3u8
+http://2022.stream-link.org/live/1869661640
 #EXTINF:-1 group-title="⛵  港澳台",J2
-https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 group-title="⛵  港澳台",RHK34
 https://cdn.hklive.tv/xxxx/34/index.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",ViuTV
@@ -3299,15 +3324,22 @@ https://cdn.hklive.tv/xxxx/33/index.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",民视新闻 HD
 https://ytm2.yuanhsing.cf/FTVCP.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",台视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=47
+#EXTINF:-1 group-title="⛵  港澳台",中视新闻 HD
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=46
 #EXTINF:-1 group-title="⛵  港澳台",寰宇国际新闻
 http://2023.stream-link.org/playlist/global_news.flv
-#EXTINF:-1 group-title="⛵  港澳台",寰宇新闻台
-http://seb.sason.top/sc/hyxw.m3u8
-#EXTINF:-1 group-title="⛵  港澳台",三立Live新闻
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="⛵  港澳台",三立iNews新闻
-http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",寰宇新闻
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=53
+#EXTINF:-1 group-title="⛵  港澳台",寰宇新闻
+http://2023.stream-link.org/live/1932250847
+#EXTINF:-1 group-title="⛵  港澳台",寰宇新闻
+http://tv.redrainl.site:9500/live.m3u8?c=22
+
+#EXTINF:-1 group-title="⛵  港澳台",三立LIVE
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=48
+#EXTINF:-1 group-title="⛵  港澳台",三立NEWS+
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=49
 #EXTINF:-1 group-title="⛵  港澳台",东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",华视新闻
@@ -3336,6 +3368,8 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="⛵  港澳台",镜电视新闻
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=52
 #EXTINF:-1 group-title="⛵  港澳台",南投新闻网
 http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="⛵  港澳台",TVBS亚洲
@@ -3404,8 +3438,6 @@ http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3
 https://v1.qiantutv.com/stream/8645d53881d781e024b0db69a147fbd7/index.m3u8
 #EXTINF:-1,group-title="⛵  港澳台",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1,group-title="⛵  港澳台",经典功夫台
-https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
 #EXTINF:-1,group-title="⛵  港澳台",天映电影
 http://120.84.96.28:808/hls/85/index.m3u8
 #EXTINF:-1,group-title="⛵  港澳台",天映电影
