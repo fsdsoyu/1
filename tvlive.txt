@@ -413,8 +413,12 @@ HBO HD,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcb
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
 经典功夫台,https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-龙祥时代,http://jylt.jdshipin.com:808/hls/35/index.m3u8
-星空卫视,http://jylt.jdshipin.com:808/hls/79/index.m3u8
+龙祥时代,http://120.84.96.33:808/hls/35/index.m3u8
+龙祥时代,http://120.84.96.73:808/hls/30/index.m3u8
+龙祥时代,http://120.84.96.87:808/hls/35/index.m3u8
+星空卫视,http://113.117.74.21:8081/hls/87/index.m3u8
+星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
+星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8
 CCM,http://120.84.96.87:808/hls/84/index.m3u8
 星卫电影台,http://23.237.10.66:16359
 星卫电影台,https://epg.pw/stream/28fc6d59dcde509467bc34a5035e449bc335d434f8692144ebc6c74b9b703b7f.ctv
@@ -460,14 +464,15 @@ iHOT爱探索,http://iptva.cn/api/M3u8/Index?id=871&card=99982475359
 纬来日本台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=74
 纬来育乐台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=75
 纬来体育台,http://123.51.230.108:18509/.m3u8
+纬来体育台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=73
+纬来日本台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=74
+纬来育乐台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=75
 香港有线直播新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
 无线新闻,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8?by=yeslivetv_com
 无线新闻,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
-咪咕体育1,http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
-咪咕体育2,http://39.137.49.76:8080/PLTV/88888888/224/3221226235/index.m3u8?
-东森新闻,http://tv-jiekou.tk/live.php?id=dongsennews
-东森新闻,http://mayi-tv.gq:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+东森新闻,https://pull-l3-cny.douyincdn.com/live/stream-1121752023031421592.m3u8?by=yeslivetv_com
+东森新闻,https://pull-l3-cny.douyincdn.com/live/stream-1121752023031421592.m3u8
 东森LIVE,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=44
 东森财经新闻台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=45
 东森洋片,http://120.84.96.113:808/hls/33/index.m3u8
@@ -491,10 +496,6 @@ RHK31,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id
 RHK32,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=27
 香港卫视,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=30
 耀才财经台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=32
-澳门莲花,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=35
-澳门资讯,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=37
-澳视澳门,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=38
-澳门综艺,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=40
 东森LIVE,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=44
 东森财经新闻,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=45
 中视新闻,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=46
@@ -512,14 +513,13 @@ TVBS欢乐台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372
 台视,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=61
 民视,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=62
 华视,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=63
-纬来体育,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=73
-纬来日本,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=74
-纬来育乐,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=75
+爱尔达影剧台,http://107.173.180.164:2095/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 ELEVEN1,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=76
 ELEVEN2,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=77
-ELEVEN2,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=79
 博斯网球,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=80
-ELTA体育1台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=81
+爱尔达体育1台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=81
+爱尔达体育1台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=79
+爱尔达体育2台,http://107.173.180.164:2095/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 
 🍒  大杂烩,#genre#
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
