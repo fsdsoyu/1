@@ -492,6 +492,7 @@ TVB Pearl (珍珠台),http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b5
 香港有线财经资讯台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=15
 now新闻台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=17
 VIUTV,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=19
+VIUTV6,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=20
 香港国际财经台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=22
 HOY 资讯台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=23
 HOY TV,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=24
