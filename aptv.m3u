@@ -567,9 +567,15 @@ http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=13
 #EXTINF:-1,group-title="☕️ 热门推荐",美亚电影台
 http://107.173.180.164:2095/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" tvg-id="中天新闻" tvg-name="中天新闻",group-title="☕️ 热门推荐",中天新闻
-http://103.68.63.37:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" tvg-id="中天新闻" tvg-name="中天新闻",group-title="☕️ 热门推荐",中天新闻
-http://2023.stream-link.org/live/1552993665
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=43
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" tvg-id="澳门莲花" tvg-name="澳门莲花",group-title="☕️ 热门推荐",澳门莲花
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=35
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/澳门资讯.png" tvg-id="澳门资讯" tvg-name="澳门资讯",group-title="☕️ 热门推荐",澳门资讯
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=37
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" tvg-id="澳视澳门" tvg-name="澳视澳门",group-title="☕️ 热门推荐",澳视澳门
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=38
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/澳门综艺.png" tvg-id="澳门综艺" tvg-name="澳门综艺",group-title="☕️ 热门推荐",澳门综艺
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=40
 #EXTINF:-1,group-title="☕️ 热门推荐",三立LIVE新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1,group-title="☕️ 热门推荐",三立iNEWS
@@ -852,11 +858,11 @@ http://107.173.180.164:2095/eltayingju_twn/playlist.m3u8?tid=MFFF859072628590726
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=76
 #EXTINF:-1,group-title="☕️ 热门推荐",ELEVEN2
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=77
-#EXTINF:-1,group-title="☕️ 热门推荐",博斯网球
+#EXTINF:-1,group-title="☕️ 热门推荐",ELEVEN2
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=80
 #EXTINF:-1,group-title="☕️ 热门推荐",爱尔达体育1台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=81
-#EXTINF:-1,group-title="☕️ 热门推荐",爱尔达体育1台
+#EXTINF:-1,group-title="☕️ 热门推荐",爱尔达体育2台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=79
 #EXTINF:-1,group-title="☕️ 热门推荐",爱尔达体育2台
 http://107.173.180.164:2095/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
