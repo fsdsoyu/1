@@ -800,6 +800,8 @@ http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=15
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=17
 #EXTINF:-1,group-title="☕️ 热门推荐",VIUTV
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=19
+#EXTINF:-1,group-title="☕️ 热门推荐",VIUTV6
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=20
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港国际财经台" tvg-id="香港国际财经台" tvg-name="香港国际财经台",group-title="☕️ 热门推荐",香港国际财经台
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=22
 #EXTINF:-1,group-title="☕️ 热门推荐",HOY 资讯台
