@@ -430,6 +430,13 @@ CCM,http://120.84.96.87:808/hls/84/index.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 爱尔达娱乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+天映经典,http://120.84.96.33:808/hls/85/index.m3u8
+天映经典,http://jylt.jdshipin.com:808/hls/85/index.m3u8
+天映頻道,http://103.68.63.37:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
+天映頻道,http://103.68.63.37:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
+天映频道,http://103.68.63.37:8278/Celestial/playlist.m3u8
+靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/chunklist.m3u8
+靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8?
 
 动物星球,http://208.115.225.174:14192
 动物星球720p,http://208.115.225.174:14263
@@ -9224,6 +9231,49 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 武进新闻频道,http://live.wjyanghu.com/live/CH1.m3u8
 
 🌺  广东频道,#genre#
+广东卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225742/index.m3u8
+广东卫视,http://hwrr.jx.chinamobile.com:8080/TVOD/88888888/224/3221225742/index.m3u8?/PLTV/.smil
+广东卫视-8.5M,http://39.134.136.202:6610/000000001000/5000000004000014694/index.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=3
+广东卫视,http://221.0.78.198:1681/hls/10253/index.m3u8
+广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
+广东少儿,http://120.196.80.67:808/hls/59/index.m3u8
+广东少儿,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs5&auth=rinimabi
+广东少儿,http://124.222.238.146:320/itv.php?id=gdse
+广东少儿,http://124.222.238.146:1125/m3u8.php?/iTouchTV/1200/playlist.m3u8
+广东少儿,http://www.238311.cn:555/m3u8.php?/iTouchTV/1200
+广东少儿,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs5&auth=rinimabi
+广东少儿,http://124.222.238.146:1125/m3u8.php?/iTouchTV/1200/playlist.m3u8
+广东少儿,http://www.238311.cn:555/m3u8.php?/iTouchTV/1200
+广东经济科教,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi
+广东经济科教,http://124.222.238.146:1125/m3u8.php?/iTouchTV/1196/playlist.m3u8
+广东经济科教,http://www.238311.cn:555/m3u8.php?/iTouchTV/1196
+广东经济科教,http://61.146.224.42:8088/hls/10/index.m3u8
+广东经济科教,http://gxdl-lhs.8866.org:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东综艺,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
+广东综艺,http://124.222.238.146:1125/m3u8.php?/iTouchTV/1198/playlist.m3u8
+广东综艺,http://www.238311.cn:555/m3u8.php?/iTouchTV/1198
+广东房产,http://jylt.jdshipin.com:808/hls/77/index.m3u8
+广东体育,http://www.238311.cn:555/m3u8.php?/iTouchTV/1184
+广东体育,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdty&auth=rinimabi
+广东体育,http://gxdl-lhs.8866.org:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+广东文化,http://glive.grtn.cn/live/wenhua_test0203.m3u8
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e7
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935#@kdsvod://kk://host1/itouchtv1.m3u8?id=gdwh&pwd=jsdecode#@kdsvod://kk://host1/gdtv1.m3u8?id=gdwh&pwd=jsdecode@@Referer=http://www.gdtv.cn@@
+广东国际,http://124.222.238.146:1125/m3u8.php?/iTouchTV/1191/playlist.m3u8
+广东国际,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgj&auth=rinimabi
+广东珠江,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
+广东移动,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdyd&auth=rinimabi
+广东移动,http://www.238311.cn:555/m3u8.php?/iTouchTV/2463
+广东新闻,http://gxdl-lhs.8866.org:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgg&auth=rinimabi
+广东公共,http://gxdl-lhs.8866.org:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+
+中山综合,http://chuangye168.gnway.org:56994/g8dyou.php?id=3665
+中山公共,http://chuangye168.gnway.org:56994/g8dyou.php?id=3663
+中山教育,http://chuangye168.gnway.org:56994/g8dyou.php?id=3664
 广东体育-16M,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 大湾区卫视,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?ProgramID=&encrypt=
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
@@ -9302,6 +9352,45 @@ yi良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 🌳  上海频道,#genre#
+东方卫视,http://39.134.136.138:6610/000000001000/5000000010000032246/index.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3
+东方卫视,http://39.134.136.138:6610/000000001000/6000000001000003639/index.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=3
+东方卫视-4M1080-易视腾,http://39.134.136.202:6610/000000001000/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
+东方卫视-4M1080-百视通,http://39.134.136.202:6610/000000001000/5000000010000032246/index.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3
+东方卫视-8M1080-百视通,http://39.134.136.202:6610/000000001000/5000000004000014098/index.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
+东方卫视高清,http://117.14.55.102:18080/hls/43/index.m3u8
+上海新闻综合,http://v2.91kds.cn/b9/baitv.m3u8?fmt=hls&id=shxwhd&auth=rinimabi
+上海新闻综合,http://39.134.196.114/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=
+上海新闻综合,http://39.134.196.114/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/350/index.m3u8?&encrypt=
+上海新闻综合,http://39.134.196.114/hlsmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?&encrypt=
+上海新闻综合,http://124.222.238.146:1125/m3u8.php?/migu/651632657/playlist.m3u8
+上海新闻综合,http://live.cooltv.top/tv/bestv.php?id=20
+上海都市,http://v2.91kds.cn/b9/baitv.m3u8?fmt=hls&id=shylhd&auth=rinimabi
+上海都市-4M1080-百视通,http://39.134.136.202:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
+上海都市,http://39.136.33.66:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&livemode=1&stbId=3&Contentid=5000000010000018926
+上海都市,http://39.134.136.134:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&livemode=1&stbId=3&Contentid=5000000010000018926
+上海都市,http://39.134.136.138:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
+上海都市,http://live.cooltv.top/tv/bestv.php?id=18
+上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+上海教育,http://live.cooltv.top/tv/setv.php
+上海外语,http://124.222.238.146:1125/m3u8.php?/migu/618954688/playlist.m3u8
+上海外语,http://live.cooltv.top/tv/bestv.php?id=17
+上海外语,http://111.56.5.211:6610/000000001000/5000000010000030951/1.m3u8?Contentid=5000000010000030951&livemode=1&stbId=2&channel-id=bestzb
+上海纪实高清,http://39.135.138.60:18890/PLTV/88888910/224/3221225654/index.m3u8
+上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+上海纪实,http://117.169.122.98:6610/PLTV/88888910/224/3221225654/index.m3u8
+上海纪实,http://117.169.122.98:6610/PLTV/88888910/224/3221225655/index.m3u8
+上海纪实,http://39.134.115.163:8080/TVOD/88888910/224/3221225654/index.m3u8
+上海纪实,http://hwrr.jx.chinamobile.com:8080/TVOD/88888888/224/3221225654/index.m3u8
+东方影视,http://218.79.210.183:2001/hls/17/index.m3u8
+东方影视,http://39.134.136.138:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+哈哈炫动,http://39.134.136.138:6610/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
+哈哈炫动,http://39.134.136.138:6610/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=3
+五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+第一财经,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
+第一财经,http://mrchenwu.myds.me:8066/udp/239.45.3.211:5140
+生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+生活时尚,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+
 新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8?zshangd
