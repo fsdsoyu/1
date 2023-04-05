@@ -686,9 +686,9 @@ http://103.68.63.37:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct
 http://103.68.63.37:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 #EXTINF:-1,group-title="☕️ 热门推荐",天映频道
 http://103.68.63.37:8278/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/靖天映画" tvg-id="靖天映画" tvg-name="靖天映画",group-title="🤩 热门推荐",靖天映画
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/靖天映画" tvg-id="靖天映画" tvg-name="靖天映画",group-title="☕️ 热门推荐",靖天映画
 http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/靖天映画" tvg-id="靖天映画" tvg-name="靖天映画",group-title="🤩 热门推荐",靖天映画
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/靖天映画" tvg-id="靖天映画" tvg-name="靖天映画",group-title="☕️ 热门推荐",靖天映画
 http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8?
 
 
