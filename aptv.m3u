@@ -2560,7 +2560,7 @@ http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="🔰 IPTV6",家庭理财
 https://zb.fanmingming.com/api/?id=jtlc
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="🔰 IPTV6",北京纪实科教
-https://zb.fanmingming.com/api/?id=bjjs_2000
+https://zb.fanmingming.com/api/brtv.php?id=kj
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="🔰 IPTV6",北京文艺
 http://live.cooltv.top/tv/btime.php?id=btvwy
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="🔰 IPTV6",北京影视
