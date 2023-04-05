@@ -532,6 +532,30 @@ ELEVEN2,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&
 爱尔达体育2台,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=79
 爱尔达体育2台,http://107.173.180.164:2095/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 
+三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+民视新闻台,http://123.51.230.108:18663/.m3u8
+三立新闻,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
+龙祥时代,https://epg.pw/stream/8738df78e8d4a4527d411c82940daa7b62f8566eb593fbca51fa024c722076c7.m3u8
+东森电影,http://120.84.96.87:808/hls/32/index.m3u8
+东森洋片,https://epg.pw/stream/7f343d18098d3917b7ccdc821d132b1e9c460c2df50571308f399de98e071528.m3u8
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+美亚电影,http://hs.nowtv.lol/cymxgzmn/12345678/947
+采昌电影,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+天映电影,http://120.84.96.87:808/hls/85/index.m3u8
+天映电影,http://120.84.96.89:808/hls/85/index.m3u8
+壹电视电影,P2p://generationnexxxt.com:19806/0c547d4f29db4bef9790f259ee669818
+CatchPlay电影,P2p://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461
+靖天电影,P2p://generationnexxxt.com:19806/37f508458d18414ea7ea39ef3094e33a
+美亚电影,P2p://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
+龙华电影,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+HBO HD,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO原创,http://103.68.63.37:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO原创,http://103.68.63.37:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO家庭,http://103.68.63.37:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO家庭,http://103.68.63.37:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+
 🍒  大杂烩,#genre#
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
