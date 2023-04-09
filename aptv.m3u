@@ -1568,35 +1568,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" tvg-id="香港卫视" tvg-name="香港卫视",group-title="⛱️  广东联通",香港卫视
 http://107.151.203.111:2209/135/hk.php?id=hkws
-
-#EXTINF:-1,group-title="⛱️  广东联通",TVBS新闻台
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视新闻台" tvg-id="民视新闻台" tvg-name="民视新闻台",group-title="⛱️  广东联通",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视新闻台" tvg-id="民视新闻台" tvg-name="民视新闻台",group-title="⛱️  广东联通",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",东森美洲卫视
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
-#EXTINF:-1,group-title="⛱️  广东联通",点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1,group-title="⛱️  广东联通",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1,group-title="⛱️  广东联通",耀才财经
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/延边卫视" tvg-id="延边卫视" tvg-name="延边卫视",group-title="⛱️  广东联通",延边卫视
 http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视",group-title="⛱️  广东联通",湖南卫视
